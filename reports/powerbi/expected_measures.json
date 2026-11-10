@@ -1,0 +1,62 @@
+{
+  "any_activity": {
+    "Signal Fires": 0,
+    "Recalls": 279,
+    "Recalls Flagged": 234,
+    "Recall Rate": 0.839,
+    "Median Lead (months)": 23.3,
+    "Alerts (matured)": 202,
+    "True Alerts": 40,
+    "False Alarms": 162,
+    "Precision": 0.198,
+    "False Alarms per Month": 1.72
+  },
+  "baseline_2sd": {
+    "Signal Fires": 0,
+    "Recalls": 279,
+    "Recalls Flagged": 203,
+    "Recall Rate": 0.728,
+    "Median Lead (months)": 17.0,
+    "Alerts (matured)": 291,
+    "True Alerts": 90,
+    "False Alarms": 201,
+    "Precision": 0.309,
+    "False Alarms per Month": 2.14
+  },
+  "prr_fdr": {
+    "Signal Fires": 10844,
+    "Recalls": 279,
+    "Recalls Flagged": 217,
+    "Recall Rate": 0.778,
+    "Median Lead (months)": 23.1,
+    "Alerts (matured)": 199,
+    "True Alerts": 54,
+    "False Alarms": 145,
+    "Precision": 0.271,
+    "False Alarms per Month": 1.54
+  },
+  "prr_sensitive": {
+    "Signal Fires": 13457,
+    "Recalls": 279,
+    "Recalls Flagged": 218,
+    "Recall Rate": 0.781,
+    "Median Lead (months)": 23.1,
+    "Alerts (matured)": 188,
+    "True Alerts": 49,
+    "False Alarms": 139,
+    "Precision": 0.261,
+    "False Alarms per Month": 1.48
+  },
+  "prr_strict": {
+    "Signal Fires": 9133,
+    "Recalls": 279,
+    "Recalls Flagged": 202,
+    "Recall Rate": 0.724,
+    "Median Lead (months)": 23.1,
+    "Alerts (matured)": 189,
+    "True Alerts": 46,
+    "False Alarms": 143,
+    "Precision": 0.243,
+    "False Alarms per Month": 1.52
+  }
+}

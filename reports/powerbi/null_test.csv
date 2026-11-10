@@ -1,0 +1,6 @@
+method,n_recalls,observed_rate,null_mean_rate,null_p2_5,null_p97_5,lift_over_random,p_value
+any_activity,236,0.831,0.823,0.801,0.847,0.008,0.2836
+baseline_2sd,236,0.75,0.716,0.674,0.763,0.034,0.0945
+prr_fdr,236,0.775,0.75,0.724,0.78,0.026,0.0498
+prr_sensitive,236,0.775,0.753,0.729,0.784,0.023,0.0796
+prr_strict,236,0.72,0.7,0.674,0.729,0.02,0.1095

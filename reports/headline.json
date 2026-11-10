@@ -1,0 +1,32 @@
+{
+  "reports_clean": 2548521,
+  "reports_by_area": {
+    "infusion_pumps": 2003774,
+    "ventilators_cpap": 544747
+  },
+  "reports_by_code": {
+    "MNT": 47462,
+    "BZD": 304173,
+    "MEA": 27476,
+    "FRN": 1590900,
+    "CBK": 174221,
+    "MNS": 11808,
+    "LZG": 385398,
+    "NOU": 7083
+  },
+  "date_range": [
+    "2015-01-01",
+    "2026-10-30"
+  ],
+  "recall_events_total": 693,
+  "recall_events_eligible": 279,
+  "recall_events_firm_in_maude": 264,
+  "distinct_firms": 382,
+  "signal_rows_scored": 122743,
+  "eval_months_matured": 94,
+  "null_population_recalls": 236,
+  "null_window": [
+    "2019-01-01",
+    "2026-10-31"
+  ]
+}

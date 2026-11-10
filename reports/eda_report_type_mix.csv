@@ -1,0 +1,26 @@
+area,is_summary_report,mfr_report_type,n
+infusion_pumps,False,Thirty-Day,1716891
+infusion_pumps,False,,126463
+infusion_pumps,False,Initial,79403
+infusion_pumps,False,FDA Requested,72768
+infusion_pumps,False,Follow-Up,7326
+infusion_pumps,True,Thirty-Day,395
+infusion_pumps,True,,384
+infusion_pumps,True,FDA Requested,112
+infusion_pumps,False,Fifteen-Day,13
+infusion_pumps,True,Periodic,11
+infusion_pumps,False,Periodic,4
+infusion_pumps,False,Ten-Day,2
+infusion_pumps,False,Five-Day,2
+ventilators_cpap,False,Thirty-Day,473824
+ventilators_cpap,False,,43186
+ventilators_cpap,False,Initial,16294
+ventilators_cpap,False,FDA Requested,10094
+ventilators_cpap,False,Follow-Up,948
+ventilators_cpap,False,Fifteen-Day,287
+ventilators_cpap,False,Five-Day,57
+ventilators_cpap,True,,24
+ventilators_cpap,True,Thirty-Day,17
+ventilators_cpap,False,Periodic,8
+ventilators_cpap,False,Seven-Day,7
+ventilators_cpap,False,Other Information Submitted,1

@@ -1,0 +1,10 @@
+metric,value
+raw_event_rows,2548564
+in_scope_report_device_rows,2550201
+duplicates_removed,1680
+dropped_bad_received_date,0
+clean_event_rows,2548521
+event_date_invalid_nulled,1205
+summary_reports,943
+reports_without_problem_term,3118
+recall_events,693

@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+rapidfuzz
+requests
+matplotlib
+seaborn
+pyarrow
+pytest
+jupyter
+pyyaml
+duckdb
+streamlit

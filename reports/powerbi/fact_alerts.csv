@@ -1,0 +1,1378 @@
+method,area,product_code,firm,alert_month,alert_end,matured,followed_by_recall
+any_activity,ventilators_cpap,CBK,DR GERWERK KGAA,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,FRN,EITAN,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,CBK,DRAEGER,2017-01-01,2017-01-31,True,True
+any_activity,infusion_pumps,FRN,BAXTER,2017-01-01,2017-01-31,True,True
+any_activity,infusion_pumps,FRN,MEDTRONIC,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,CBK,MEDTRONIC,2017-01-01,2017-01-31,True,True
+any_activity,ventilators_cpap,BZD,CAREFUSION,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,NOU,NEWPORT,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,FRN,UNKNOWN FIRM,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,MNS,RESPIRONICS,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,FRN,FRESENIUS,2017-01-01,2017-01-31,True,True
+any_activity,infusion_pumps,LZG,ANIMAS,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,LZG,TANDEM,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,CBK,CAREFUSION,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,LZG,INSULET,2017-01-01,2017-01-31,True,True
+any_activity,ventilators_cpap,CBK,IMPACT,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,NOU,RESMED,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,LZG,ROCHE,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,MNT,RESPIRONICS,2017-01-01,2017-01-31,True,True
+any_activity,ventilators_cpap,CBK,RESMED,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,CBK,RESPIRONICS,2017-01-01,2017-01-31,True,True
+any_activity,infusion_pumps,FRN,ZYNO MEDICAL,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,FRN,ICU MEDICAL,2017-01-01,2017-01-31,True,True
+any_activity,ventilators_cpap,BZD,FISHER,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,CBK,DATEX,2017-01-01,2017-01-31,True,True
+any_activity,ventilators_cpap,BZD,RESMED,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,FRN,CAREFUSION,2017-01-01,2017-01-31,True,True
+any_activity,infusion_pumps,FRN,B BRAUN,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,MEA,ICU MEDICAL,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,FRN,SMITHS,2017-01-01,2017-01-31,True,True
+any_activity,infusion_pumps,FRN,CME AMERICA,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,FRN,MOOG,2017-01-01,2017-01-31,True,False
+any_activity,ventilators_cpap,CBK,MAQUET,2017-01-01,2017-01-31,True,False
+any_activity,infusion_pumps,LZG,MEDTRONIC,2017-01-01,2017-01-31,True,True
+any_activity,ventilators_cpap,CBK,NEWPORT,2017-01-01,2017-01-31,True,True
+any_activity,infusion_pumps,LZG,VALERITAS,2017-02-01,2017-02-28,True,False
+any_activity,infusion_pumps,LZG,UNKNOWN FIRM,2017-02-01,2017-02-28,True,False
+any_activity,infusion_pumps,FRN,IRADIMED,2017-02-01,2017-02-28,True,False
+any_activity,infusion_pumps,FRN,CAN S P A,2017-02-01,2017-02-28,True,False
+any_activity,ventilators_cpap,CBK,COSTA,2017-02-01,2017-02-28,True,False
+any_activity,ventilators_cpap,CBK,HAMILTON,2017-02-01,2017-02-28,True,True
+any_activity,ventilators_cpap,MNT,FISHER,2017-02-01,2017-02-28,True,False
+any_activity,ventilators_cpap,CBK,ZOLL MEDICAL,2017-02-01,2017-02-28,True,True
+any_activity,infusion_pumps,FRN,WALKMED,2017-02-01,2017-02-28,True,True
+any_activity,infusion_pumps,LZG,CALIBRA MEDICAL,2017-03-01,2017-03-31,True,False
+any_activity,ventilators_cpap,CBK,VYAIRE,2017-03-01,2017-03-31,True,False
+any_activity,infusion_pumps,FRN,HALYARD,2017-03-01,2017-03-31,True,False
+any_activity,infusion_pumps,MEA,BAXTER,2017-03-01,2017-03-31,True,False
+any_activity,infusion_pumps,MEA,SMITHS,2017-05-01,2017-05-31,True,True
+any_activity,ventilators_cpap,CBK,SECHRIST INDUSTRIES,2017-05-01,2017-05-31,True,False
+any_activity,ventilators_cpap,NOU,BREAS,2017-05-01,2017-05-31,True,False
+any_activity,ventilators_cpap,CBK,NEW PORT MEDICAL INSTRUMENT,2017-06-01,2017-06-30,True,False
+any_activity,ventilators_cpap,BZD,RESPIRONICS,2017-07-01,2017-07-31,True,False
+any_activity,ventilators_cpap,BZD,VYAIRE,2017-08-01,2017-08-31,True,False
+any_activity,ventilators_cpap,MNS,RESPIRONICS,2017-10-01,2017-10-31,True,False
+any_activity,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2017-10-01,2017-10-31,True,True
+any_activity,infusion_pumps,FRN,UNK,2017-11-01,2017-11-30,True,False
+any_activity,infusion_pumps,LZG,LIFESCAN,2017-11-01,2017-11-30,True,False
+any_activity,ventilators_cpap,CBK,HAMILTON,2018-01-01,2018-01-31,True,True
+any_activity,infusion_pumps,FRN,HALYARD,2018-01-01,2018-01-31,True,False
+any_activity,infusion_pumps,LZG,VALERITAS,2018-01-01,2018-01-31,True,True
+any_activity,infusion_pumps,FRN,ZEVEX,2018-02-01,2018-02-28,True,True
+any_activity,ventilators_cpap,CBK,COSTA,2018-03-01,2018-03-31,True,False
+any_activity,ventilators_cpap,BZD,TELEFLEX,2018-04-01,2018-04-30,True,True
+any_activity,ventilators_cpap,MNT,FISHER,2018-05-01,2018-05-31,True,False
+any_activity,infusion_pumps,MEA,ICU MEDICAL,2018-05-01,2018-05-31,True,False
+any_activity,ventilators_cpap,CBK,MITG GALWAY,2018-07-01,2018-07-31,True,False
+any_activity,ventilators_cpap,CBK,GE HEALTHCARE,2018-07-01,2018-07-31,True,True
+any_activity,ventilators_cpap,MNS,RESPIRONICS,2018-07-01,2018-07-31,True,False
+any_activity,ventilators_cpap,CBK,DRAEGERWERK,2018-09-01,2018-09-30,True,False
+any_activity,infusion_pumps,FRN,INFUTRONIX,2018-10-01,2018-10-31,True,True
+any_activity,ventilators_cpap,NOU,BREAS,2018-10-01,2018-10-31,True,True
+any_activity,infusion_pumps,FRN,ZEVEX,2018-10-01,2018-10-31,True,True
+any_activity,ventilators_cpap,CBK,DRAEGER,2018-10-01,2018-10-31,True,False
+any_activity,infusion_pumps,FRN,RMS MEDICAL PRODUCTS,2018-10-01,2018-10-31,True,False
+any_activity,infusion_pumps,FRN,UNKNOWN FIRM,2018-10-01,2018-10-31,True,False
+any_activity,infusion_pumps,FRN,BECTON,2018-10-01,2018-10-31,True,False
+any_activity,ventilators_cpap,MNT,PHILIPS,2018-11-01,2018-11-30,True,False
+any_activity,ventilators_cpap,CBK,PHILIPS,2018-11-01,2018-11-30,True,False
+any_activity,ventilators_cpap,MNT,RESMED,2018-12-01,2018-12-31,True,True
+any_activity,ventilators_cpap,CBK,SMITHS,2019-01-01,2019-01-31,True,False
+any_activity,ventilators_cpap,BZD,COOPERSURGICAL,2019-01-01,2019-01-31,True,False
+any_activity,infusion_pumps,MEA,B BRAUN,2019-02-01,2019-02-28,True,False
+any_activity,ventilators_cpap,BZD,FISHER,2019-02-01,2019-02-28,True,False
+any_activity,ventilators_cpap,CBK,VENTEC,2019-02-01,2019-02-28,True,False
+any_activity,infusion_pumps,FRN,REPRO,2019-04-01,2019-04-30,True,False
+any_activity,infusion_pumps,LZG,LIFESCAN,2019-05-01,2019-05-31,True,False
+any_activity,ventilators_cpap,CBK,HAMILTON,2019-06-01,2019-06-30,True,False
+any_activity,infusion_pumps,FRN,INFUTRONIX,2019-06-01,2019-06-30,True,False
+any_activity,ventilators_cpap,MNS,RESMED,2019-06-01,2019-06-30,True,False
+any_activity,ventilators_cpap,CBK,IMTMEDICAL,2019-06-01,2019-06-30,True,False
+any_activity,ventilators_cpap,CBK,UNKNOWN FIRM,2019-06-01,2019-06-30,True,False
+any_activity,infusion_pumps,FRN,BD CAREFUSION 303,2019-07-01,2019-07-31,True,False
+any_activity,ventilators_cpap,NOU,RESMED,2019-07-01,2019-07-31,True,False
+any_activity,ventilators_cpap,CBK,COSTA,2019-08-01,2019-08-31,True,False
+any_activity,infusion_pumps,FRN,ZYNO MEDICAL,2019-08-01,2019-08-31,True,False
+any_activity,infusion_pumps,FRN,ZEVEX,2019-09-01,2019-09-30,True,False
+any_activity,ventilators_cpap,CBK,ACUTRONIC MEDICAL SYSTEMS,2019-09-01,2019-09-30,True,False
+any_activity,infusion_pumps,FRN,SIGMA,2019-09-01,2019-09-30,True,False
+any_activity,ventilators_cpap,MNT,PHILIPS,2019-09-01,2019-09-30,True,False
+any_activity,ventilators_cpap,MNT,UNKNOWN FIRM,2019-10-01,2019-10-31,True,False
+any_activity,infusion_pumps,FRN,WALKMED,2019-10-01,2019-10-31,True,False
+any_activity,infusion_pumps,FRN,ALARIS,2019-10-01,2019-10-31,True,False
+any_activity,ventilators_cpap,CBK,SMITHS,2019-11-01,2019-11-30,True,False
+any_activity,infusion_pumps,FRN,IRADIMED,2019-12-01,2019-12-31,True,False
+any_activity,infusion_pumps,FRN,BECTON,2020-01-01,2020-01-31,True,False
+any_activity,infusion_pumps,FRN,RMS MEDICAL REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2020-02-01,2020-02-29,True,False
+any_activity,infusion_pumps,MEA,B BRAUN,2020-02-01,2020-02-29,True,True
+any_activity,ventilators_cpap,CBK,DRAEGERWERK,2020-03-01,2020-03-31,True,False
+any_activity,ventilators_cpap,MNT,RESMED,2020-03-01,2020-03-31,True,False
+any_activity,ventilators_cpap,CBK,FLIGHT,2020-03-01,2020-03-31,True,False
+any_activity,infusion_pumps,FRN,SMISSON CARTLEDGE BIOMEDICAL,2020-03-01,2020-03-31,True,False
+any_activity,infusion_pumps,FRN,CME AMERICA,2020-03-01,2020-03-31,True,True
+any_activity,infusion_pumps,FRN,UNKNOWN FIRM,2020-04-01,2020-04-30,True,False
+any_activity,infusion_pumps,LZG,ZEALAND PHARMA U S,2020-05-01,2020-05-31,True,False
+any_activity,ventilators_cpap,CBK,DRAEGER,2020-07-01,2020-07-31,True,True
+any_activity,infusion_pumps,FRN,INFUTRONIX,2020-07-01,2020-07-31,True,True
+any_activity,infusion_pumps,MEA,CAREFUSION,2020-09-01,2020-09-30,True,False
+any_activity,ventilators_cpap,BZD,COOPERSURGICAL,2020-09-01,2020-09-30,True,False
+any_activity,ventilators_cpap,CBK,HAMILTON,2020-10-01,2020-10-31,True,True
+any_activity,infusion_pumps,FRN,ZYNO MEDICAL,2020-10-01,2020-10-31,True,False
+any_activity,ventilators_cpap,CBK,MINDY FABER VYAIRE COM,2020-11-01,2020-11-30,True,False
+any_activity,infusion_pumps,FRN,BECTON,2020-11-01,2020-11-30,True,False
+any_activity,infusion_pumps,MEA,UNKNOWN FIRM,2020-12-01,2020-12-31,True,False
+any_activity,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2020-12-01,2020-12-31,True,True
+any_activity,ventilators_cpap,BZD,FISHER,2021-02-01,2021-02-28,True,False
+any_activity,ventilators_cpap,CBK,BREAS,2021-02-01,2021-02-28,True,True
+any_activity,infusion_pumps,FRN,MOOG COSTA RICA,2021-02-01,2021-02-28,True,False
+any_activity,ventilators_cpap,CBK,COSTA,2021-03-01,2021-03-31,True,False
+any_activity,ventilators_cpap,NOU,BREAS,2021-03-01,2021-03-31,True,True
+any_activity,ventilators_cpap,CBK,UNKNOWN FIRM,2021-04-01,2021-04-30,True,False
+any_activity,infusion_pumps,FRN,UNK,2021-06-01,2021-06-30,True,False
+any_activity,infusion_pumps,FRN,MEDEX,2021-08-01,2021-08-31,True,False
+any_activity,ventilators_cpap,CBK,SMITHS,2021-08-01,2021-08-31,True,False
+any_activity,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2021-08-01,2021-08-31,True,False
+any_activity,infusion_pumps,FRN,ZEVEX,2021-09-01,2021-09-30,True,False
+any_activity,infusion_pumps,MEA,UNKNOWN FIRM,2021-09-01,2021-09-30,True,False
+any_activity,infusion_pumps,FRN,BECTON,2021-10-01,2021-10-31,True,False
+any_activity,infusion_pumps,LZG,UNKNOWN FIRM,2021-11-01,2021-11-30,True,False
+any_activity,ventilators_cpap,CBK,UNKNOWN FIRM,2021-11-01,2021-11-30,True,False
+any_activity,ventilators_cpap,CBK,HAMILTON,2021-11-01,2021-11-30,True,True
+any_activity,ventilators_cpap,BZD,PHILIPS,2021-12-01,2021-12-31,True,False
+any_activity,infusion_pumps,FRN,UNK,2022-04-01,2022-04-30,True,False
+any_activity,infusion_pumps,FRN,BELMONT,2022-04-01,2022-04-30,True,False
+any_activity,ventilators_cpap,NOU,BREAS,2022-05-01,2022-05-31,True,True
+any_activity,ventilators_cpap,BZD,RESIPRONICS,2022-05-01,2022-05-31,True,False
+any_activity,infusion_pumps,LZG,MANNKIND V GO,2022-06-01,2022-06-30,True,False
+any_activity,infusion_pumps,FRN,IRADIMED,2022-06-01,2022-06-30,True,True
+any_activity,ventilators_cpap,BZD,FISHER,2022-06-01,2022-06-30,True,False
+any_activity,infusion_pumps,FRN,BECTON,2022-08-01,2022-08-31,True,False
+any_activity,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2022-09-01,2022-09-30,True,False
+any_activity,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2022-09-01,2022-09-30,True,False
+any_activity,ventilators_cpap,CBK,SMITHS,2022-09-01,2022-09-30,True,False
+any_activity,infusion_pumps,FRN,MOOG COSTA RICA,2022-10-01,2022-10-31,True,False
+any_activity,infusion_pumps,FRN,KORU REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2022-10-01,2022-10-31,True,False
+any_activity,ventilators_cpap,CBK,GE HEALTHCARE,2022-11-01,2022-11-30,True,False
+any_activity,ventilators_cpap,CBK,WELCH,2022-11-01,2022-11-30,True,False
+any_activity,ventilators_cpap,BZD,PHILIPS,2022-11-01,2022-11-30,True,False
+any_activity,ventilators_cpap,NOU,RESPIRONICS,2022-11-01,2022-11-30,True,True
+any_activity,infusion_pumps,FRN,BD,2022-12-01,2022-12-31,True,False
+any_activity,infusion_pumps,FRN,ZEVEX,2022-12-01,2022-12-31,True,False
+any_activity,infusion_pumps,MEA,B BRAUN,2022-12-01,2022-12-31,True,False
+any_activity,ventilators_cpap,CBK,FISHER,2023-01-01,2023-01-31,True,False
+any_activity,ventilators_cpap,CBK,EVENT MEDICAL,2023-01-01,2023-01-31,True,False
+any_activity,infusion_pumps,FRN,BD CAREFUSION 303,2023-02-01,2023-02-28,True,False
+any_activity,ventilators_cpap,CBK,L WENSTEIN MEDICAL TECHNOLOGY KG,2023-02-01,2023-02-28,True,False
+any_activity,infusion_pumps,FRN,MILLYARD,2023-03-01,2023-03-31,True,False
+any_activity,infusion_pumps,FRN,IRADIMED,2023-03-01,2023-03-31,True,False
+any_activity,ventilators_cpap,BZD,FISHER,2023-03-01,2023-03-31,True,False
+any_activity,ventilators_cpap,BZD,VYAIRE,2023-04-01,2023-04-30,True,False
+any_activity,ventilators_cpap,CBK,DRAEGERWERK,2023-04-01,2023-04-30,True,False
+any_activity,infusion_pumps,MEA,UNKNOWN FIRM,2023-05-01,2023-05-31,True,False
+any_activity,infusion_pumps,FRN,RMS MEDICAL KORU MEDICAL SYSTEMS,2023-07-01,2023-07-31,True,False
+any_activity,infusion_pumps,FRN,BECTON,2023-07-01,2023-07-31,True,False
+any_activity,infusion_pumps,LZG,ANIMAS,2023-08-01,2023-08-31,True,False
+any_activity,ventilators_cpap,BZD,UNKNOWN,2023-08-01,2023-08-31,True,False
+any_activity,infusion_pumps,FRN,UNKNOWN,2023-08-01,2023-08-31,True,False
+any_activity,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2023-09-01,2023-09-30,True,False
+any_activity,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2023-09-01,2023-09-30,True,False
+any_activity,ventilators_cpap,CBK,CAREFUSION,2023-09-01,2023-09-30,True,False
+any_activity,ventilators_cpap,NOU,WELCH,2023-10-01,2023-10-31,True,False
+any_activity,infusion_pumps,FRN,ZEVEX,2023-11-01,2023-11-30,True,False
+any_activity,ventilators_cpap,BZD,BMC MEDICAL,2023-12-01,2023-12-31,True,False
+any_activity,ventilators_cpap,CBK,UNKNOWN FIRM,2023-12-01,2023-12-31,True,False
+any_activity,ventilators_cpap,CBK,L WENSTEIN MEDICAL TECHNOLOGY KG,2023-12-01,2023-12-31,True,False
+any_activity,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-01-01,2024-01-31,True,True
+any_activity,infusion_pumps,FRN,B BRAUN AVITUM,2024-03-01,2024-03-31,True,False
+any_activity,ventilators_cpap,CBK,NEWPORT,2024-04-01,2024-04-30,True,False
+any_activity,ventilators_cpap,BZD,UNK,2024-04-01,2024-04-30,True,False
+any_activity,ventilators_cpap,CBK,GETINGE,2024-04-01,2024-04-30,True,False
+any_activity,ventilators_cpap,CBK,SMITHS,2024-04-01,2024-04-30,True,False
+any_activity,ventilators_cpap,BZD,UNKNOWN,2024-04-01,2024-04-30,True,False
+any_activity,infusion_pumps,FRN,BECTON,2024-06-01,2024-06-30,True,False
+any_activity,ventilators_cpap,BZD,VYAIRE,2024-07-01,2024-07-31,True,False
+any_activity,ventilators_cpap,NOU,WELCH,2024-07-01,2024-07-31,True,False
+any_activity,infusion_pumps,FRN,PUMP INFUSION,2024-08-01,2024-08-31,True,False
+any_activity,infusion_pumps,MEA,ICU MEDICAL DE MEXICO S DE R L DE C V,2024-08-01,2024-08-31,True,False
+any_activity,infusion_pumps,FRN,REPRO,2024-09-01,2024-09-30,True,False
+any_activity,infusion_pumps,FRN,IRADIMED,2024-09-01,2024-09-30,True,False
+any_activity,infusion_pumps,FRN,CONMED,2024-09-01,2024-09-30,True,False
+any_activity,infusion_pumps,FRN,SMITIHS MEDICAL ASD,2024-10-01,2024-10-31,True,False
+any_activity,infusion_pumps,MEA,ICU MEDICAL,2024-10-01,2024-10-31,True,False
+any_activity,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-11-01,2024-11-30,False,False
+any_activity,ventilators_cpap,BZD,FISHER,2024-11-01,2024-11-30,False,False
+any_activity,ventilators_cpap,CBK,IMTMEDICAL,2024-12-01,2024-12-31,False,False
+any_activity,infusion_pumps,FRN,UNK,2024-12-01,2024-12-31,False,False
+any_activity,infusion_pumps,FRN,ZEVEX,2025-01-01,2025-01-31,False,False
+any_activity,infusion_pumps,FRN,MOOG COSTA RICA ZEVEX,2025-01-01,2025-01-31,False,False
+any_activity,infusion_pumps,FRN,RMS KORU MEDICAL SYSTEMS,2025-01-01,2025-01-31,False,False
+any_activity,infusion_pumps,FRN,ICU MEDICAL OAKDALE MN,2025-01-01,2025-01-31,False,False
+any_activity,infusion_pumps,FRN,BD CAREFUSION 303,2025-02-01,2025-02-28,False,False
+any_activity,ventilators_cpap,BZD,SALTER,2025-02-01,2025-02-28,False,False
+any_activity,ventilators_cpap,NOU,BAXTER,2025-03-01,2025-03-31,False,False
+any_activity,infusion_pumps,FRN,MOOG MEDICAL DEVICES,2025-04-01,2025-04-30,False,False
+any_activity,infusion_pumps,FRN,BECTON,2025-04-01,2025-04-30,False,False
+any_activity,ventilators_cpap,MNT,MAQUET,2025-04-01,2025-04-30,False,False
+any_activity,infusion_pumps,MEA,ICU MEDICAL OAKDALE MN,2025-04-01,2025-04-30,False,False
+any_activity,infusion_pumps,FRN,INFUTRONIX,2025-05-01,2025-05-31,False,False
+any_activity,infusion_pumps,MEA,B BRAUN,2025-06-01,2025-06-30,False,False
+any_activity,ventilators_cpap,NOU,BREAS,2025-07-01,2025-07-31,False,False
+any_activity,infusion_pumps,FRN,UNKNOWN,2025-08-01,2025-08-31,False,False
+any_activity,infusion_pumps,FRN,MOOG MEDICAL DEVICES GROUP ZEVEX,2025-09-01,2025-09-30,False,False
+any_activity,infusion_pumps,FRN,KORU MEDICAL SYSTEMS RMS MEDICAL,2025-09-01,2025-09-30,False,False
+any_activity,ventilators_cpap,CBK,LOEWENSTEIN,2025-09-01,2025-09-30,False,False
+any_activity,infusion_pumps,FRN,MOOG MOOG COSTA RICA,2025-09-01,2025-09-30,False,False
+any_activity,infusion_pumps,FRN,IRADIMED,2025-10-01,2025-10-31,False,False
+any_activity,infusion_pumps,FRN,UNK,2025-10-01,2025-10-31,False,False
+any_activity,infusion_pumps,FRN,B BRAUN AVITUM,2025-10-01,2025-10-31,False,False
+any_activity,ventilators_cpap,BZD,BMC MEDICAL,2025-10-01,2025-10-31,False,False
+any_activity,infusion_pumps,FRN,PHILIPS,2025-10-01,2025-10-31,False,False
+any_activity,ventilators_cpap,MNT,RESMED,2025-11-01,2025-11-30,False,False
+any_activity,infusion_pumps,FRN,ICU MEDICAL SMITHS MEDICAL,2025-11-01,2025-11-30,False,False
+any_activity,infusion_pumps,MEA,ICU MEDICAL HEALTHCARE MANUFACTURING S A DE C V,2025-11-01,2025-11-30,False,False
+any_activity,infusion_pumps,FRN,BECTON,2026-01-01,2026-01-31,False,False
+any_activity,infusion_pumps,FRN,MILLYARD,2026-02-01,2026-02-28,False,False
+any_activity,infusion_pumps,FRN,ICU MEDICAL HEALTHCARE MANUFACTURING S A DE C V,2026-03-01,2026-03-31,False,False
+any_activity,ventilators_cpap,CBK,DRAEGER,2026-03-01,2026-03-31,False,False
+any_activity,infusion_pumps,MEA,ICU MEDICAL ASD,2026-04-01,2026-04-30,False,False
+any_activity,ventilators_cpap,NOU,REACT,2026-04-01,2026-04-30,False,False
+any_activity,ventilators_cpap,CBK,PHILIPS,2026-04-01,2026-04-30,False,False
+any_activity,ventilators_cpap,CBK,NEWPORT,2026-04-01,2026-04-30,False,False
+any_activity,ventilators_cpap,CBK,UNKNOWN FIRM,2026-05-01,2026-05-31,False,False
+any_activity,infusion_pumps,FRN,AVANOS,2026-05-01,2026-05-31,False,False
+any_activity,ventilators_cpap,CBK,BIO MED DEVICES,2026-05-01,2026-05-31,False,False
+any_activity,ventilators_cpap,NOU,BREAS,2026-06-01,2026-06-30,False,False
+any_activity,ventilators_cpap,CBK,BIOMED,2026-06-01,2026-06-30,False,False
+any_activity,ventilators_cpap,CBK,SHANGHAI DRAEGER MEDICAL INSTRUMENT,2026-06-01,2026-06-30,False,False
+any_activity,infusion_pumps,LZG,MANNKIND V GO,2026-06-01,2026-06-30,False,False
+any_activity,infusion_pumps,FRN,UNKNOWN,2026-06-01,2026-06-30,False,False
+any_activity,ventilators_cpap,MNT,RESMED,2026-08-01,2026-08-31,False,False
+any_activity,infusion_pumps,FRN,UNKNOWN FIRM,2026-08-01,2026-08-31,False,False
+any_activity,infusion_pumps,FRN,RMS MEDICAL PRODUCTS KORU MEDICAL SYSTEMS,2026-08-01,2026-08-31,False,False
+any_activity,infusion_pumps,MEA,ICU MEDICAL NEDERLAND B V,2026-08-01,2026-08-31,False,False
+any_activity,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2026-08-01,2026-08-31,False,False
+any_activity,ventilators_cpap,BZD,MEDLINE INDUSTRIES,2026-09-01,2026-09-30,False,False
+any_activity,ventilators_cpap,CBK,MEDLINE INDUSTRIES,2026-09-01,2026-09-30,False,False
+any_activity,infusion_pumps,FRN,ICU MEDICAL NEDERLAND B V,2026-09-01,2026-09-30,False,False
+any_activity,ventilators_cpap,BZD,UNKNOWN FIRM,2026-09-01,2026-09-30,False,False
+any_activity,infusion_pumps,LZG,UNKNOWN FIRM,2026-09-01,2026-09-30,False,False
+any_activity,ventilators_cpap,CBK,FLIGHT,2026-10-01,2026-10-31,False,False
+any_activity,ventilators_cpap,NOU,UNKNOWN FIRM,2026-10-01,2026-10-31,False,False
+any_activity,infusion_pumps,FRN,ICU MEDICAL HEALTHCARE MANUFACTURING S A DE C V,2026-10-01,2026-10-31,False,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL,2017-01-01,2017-01-31,True,True
+baseline_2sd,infusion_pumps,MEA,ICU MEDICAL,2017-01-01,2017-01-31,True,False
+baseline_2sd,ventilators_cpap,NOU,NEWPORT,2017-01-01,2017-01-31,True,False
+baseline_2sd,ventilators_cpap,MNT,RESPIRONICS,2017-01-01,2017-01-31,True,True
+baseline_2sd,infusion_pumps,FRN,FRESENIUS,2017-01-01,2017-01-31,True,True
+baseline_2sd,ventilators_cpap,BZD,FISHER,2017-01-01,2017-01-31,True,False
+baseline_2sd,infusion_pumps,FRN,UNKNOWN FIRM,2017-01-01,2017-01-31,True,False
+baseline_2sd,infusion_pumps,FRN,ZYNO MEDICAL,2017-01-01,2017-01-31,True,False
+baseline_2sd,ventilators_cpap,CBK,COSTA,2017-02-01,2017-02-28,True,False
+baseline_2sd,infusion_pumps,LZG,VALERITAS,2017-02-01,2017-02-28,True,False
+baseline_2sd,ventilators_cpap,CBK,RESMED,2017-02-01,2017-02-28,True,False
+baseline_2sd,infusion_pumps,FRN,SMITHS,2017-02-01,2017-02-28,True,True
+baseline_2sd,infusion_pumps,FRN,IRADIMED,2017-02-01,2017-02-28,True,False
+baseline_2sd,ventilators_cpap,CBK,HAMILTON,2017-02-01,2017-02-28,True,True
+baseline_2sd,ventilators_cpap,MNT,FISHER,2017-02-01,2017-02-28,True,False
+baseline_2sd,infusion_pumps,MEA,BAXTER,2017-03-01,2017-03-31,True,False
+baseline_2sd,ventilators_cpap,CBK,MEDTRONIC,2017-03-01,2017-03-31,True,True
+baseline_2sd,ventilators_cpap,CBK,NEWPORT,2017-03-01,2017-03-31,True,False
+baseline_2sd,ventilators_cpap,BZD,CAREFUSION,2017-03-01,2017-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,HALYARD,2017-03-01,2017-03-31,True,False
+baseline_2sd,ventilators_cpap,CBK,VYAIRE,2017-03-01,2017-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,MOOG,2017-04-01,2017-04-30,True,False
+baseline_2sd,ventilators_cpap,NOU,BREAS,2017-05-01,2017-05-31,True,False
+baseline_2sd,ventilators_cpap,CBK,NEW PORT MEDICAL INSTRUMENT,2017-06-01,2017-06-30,True,False
+baseline_2sd,infusion_pumps,LZG,INSULET,2017-06-01,2017-06-30,True,True
+baseline_2sd,ventilators_cpap,CBK,ZOLL MEDICAL,2017-07-01,2017-07-31,True,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL,2017-08-01,2017-08-31,True,True
+baseline_2sd,ventilators_cpap,BZD,VYAIRE,2017-08-01,2017-08-31,True,False
+baseline_2sd,infusion_pumps,LZG,TANDEM,2017-08-01,2017-08-31,True,False
+baseline_2sd,infusion_pumps,FRN,BAXTER,2017-09-01,2017-09-30,True,True
+baseline_2sd,infusion_pumps,FRN,CAN S P A,2017-10-01,2017-10-31,True,False
+baseline_2sd,ventilators_cpap,CBK,MAQUET,2017-10-01,2017-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,WALKMED,2017-10-01,2017-10-31,True,False
+baseline_2sd,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2017-10-01,2017-10-31,True,True
+baseline_2sd,infusion_pumps,FRN,SMITHS,2017-11-01,2017-11-30,True,True
+baseline_2sd,infusion_pumps,FRN,UNK,2017-11-01,2017-11-30,True,False
+baseline_2sd,infusion_pumps,LZG,LIFESCAN,2017-11-01,2017-11-30,True,False
+baseline_2sd,infusion_pumps,FRN,HALYARD,2018-01-01,2018-01-31,True,False
+baseline_2sd,ventilators_cpap,CBK,HAMILTON,2018-01-01,2018-01-31,True,True
+baseline_2sd,infusion_pumps,FRN,MOOG,2018-01-01,2018-01-31,True,False
+baseline_2sd,infusion_pumps,LZG,VALERITAS,2018-01-01,2018-01-31,True,True
+baseline_2sd,ventilators_cpap,CBK,DATEX,2018-01-01,2018-01-31,True,True
+baseline_2sd,infusion_pumps,FRN,CAREFUSION,2018-02-01,2018-02-28,True,True
+baseline_2sd,infusion_pumps,MEA,SMITHS,2018-02-01,2018-02-28,True,False
+baseline_2sd,infusion_pumps,FRN,ZEVEX,2018-02-01,2018-02-28,True,True
+baseline_2sd,ventilators_cpap,CBK,RESMED,2018-02-01,2018-02-28,True,False
+baseline_2sd,ventilators_cpap,BZD,RESPIRONICS,2018-04-01,2018-04-30,True,False
+baseline_2sd,ventilators_cpap,BZD,TELEFLEX,2018-04-01,2018-04-30,True,True
+baseline_2sd,infusion_pumps,FRN,MEDTRONIC,2018-05-01,2018-05-31,True,False
+baseline_2sd,infusion_pumps,MEA,ICU MEDICAL,2018-05-01,2018-05-31,True,False
+baseline_2sd,ventilators_cpap,MNT,FISHER,2018-05-01,2018-05-31,True,False
+baseline_2sd,ventilators_cpap,CBK,GE HEALTHCARE,2018-07-01,2018-07-31,True,True
+baseline_2sd,ventilators_cpap,CBK,MITG GALWAY,2018-07-01,2018-07-31,True,False
+baseline_2sd,ventilators_cpap,BZD,RESMED,2018-07-01,2018-07-31,True,False
+baseline_2sd,infusion_pumps,LZG,MEDTRONIC,2018-08-01,2018-08-31,True,True
+baseline_2sd,ventilators_cpap,CBK,COSTA,2018-08-01,2018-08-31,True,False
+baseline_2sd,ventilators_cpap,NOU,RESMED,2018-08-01,2018-08-31,True,False
+baseline_2sd,ventilators_cpap,CBK,DRAEGERWERK,2018-09-01,2018-09-30,True,False
+baseline_2sd,ventilators_cpap,CBK,DRAEGER,2018-10-01,2018-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,BECTON,2018-10-01,2018-10-31,True,False
+baseline_2sd,ventilators_cpap,NOU,BREAS,2018-10-01,2018-10-31,True,True
+baseline_2sd,infusion_pumps,FRN,ZEVEX,2018-10-01,2018-10-31,True,True
+baseline_2sd,infusion_pumps,FRN,UNKNOWN FIRM,2018-10-01,2018-10-31,True,False
+baseline_2sd,ventilators_cpap,MNT,RESPIRONICS,2018-10-01,2018-10-31,True,True
+baseline_2sd,infusion_pumps,FRN,RMS MEDICAL PRODUCTS,2018-10-01,2018-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,INFUTRONIX,2018-10-01,2018-10-31,True,True
+baseline_2sd,infusion_pumps,LZG,INSULET,2018-10-01,2018-10-31,True,True
+baseline_2sd,ventilators_cpap,BZD,RESPIRONICS,2018-11-01,2018-11-30,True,False
+baseline_2sd,infusion_pumps,FRN,WALKMED,2018-11-01,2018-11-30,True,False
+baseline_2sd,ventilators_cpap,MNT,PHILIPS,2018-11-01,2018-11-30,True,False
+baseline_2sd,ventilators_cpap,CBK,PHILIPS,2018-11-01,2018-11-30,True,False
+baseline_2sd,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2018-11-01,2018-11-30,True,False
+baseline_2sd,ventilators_cpap,MNS,RESPIRONICS,2018-12-01,2018-12-31,True,False
+baseline_2sd,ventilators_cpap,MNT,RESMED,2018-12-01,2018-12-31,True,True
+baseline_2sd,ventilators_cpap,BZD,COOPERSURGICAL,2019-01-01,2019-01-31,True,False
+baseline_2sd,ventilators_cpap,CBK,SMITHS,2019-01-01,2019-01-31,True,False
+baseline_2sd,infusion_pumps,FRN,MOOG,2019-01-01,2019-01-31,True,False
+baseline_2sd,infusion_pumps,MEA,B BRAUN,2019-02-01,2019-02-28,True,False
+baseline_2sd,ventilators_cpap,BZD,FISHER,2019-02-01,2019-02-28,True,False
+baseline_2sd,ventilators_cpap,CBK,VENTEC,2019-02-01,2019-02-28,True,False
+baseline_2sd,ventilators_cpap,CBK,ZOLL MEDICAL,2019-02-01,2019-02-28,True,False
+baseline_2sd,infusion_pumps,FRN,B BRAUN,2019-03-01,2019-03-31,True,False
+baseline_2sd,ventilators_cpap,CBK,MAQUET,2019-03-01,2019-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,CAREFUSION,2019-04-01,2019-04-30,True,True
+baseline_2sd,infusion_pumps,FRN,REPRO,2019-04-01,2019-04-30,True,False
+baseline_2sd,infusion_pumps,LZG,LIFESCAN,2019-05-01,2019-05-31,True,False
+baseline_2sd,infusion_pumps,FRN,SMITHS,2019-05-01,2019-05-31,True,True
+baseline_2sd,ventilators_cpap,CBK,HAMILTON,2019-06-01,2019-06-30,True,False
+baseline_2sd,ventilators_cpap,CBK,VYAIRE,2019-06-01,2019-06-30,True,True
+baseline_2sd,ventilators_cpap,CBK,IMTMEDICAL,2019-06-01,2019-06-30,True,False
+baseline_2sd,infusion_pumps,FRN,INFUTRONIX,2019-06-01,2019-06-30,True,False
+baseline_2sd,infusion_pumps,LZG,VALERITAS,2019-06-01,2019-06-30,True,True
+baseline_2sd,ventilators_cpap,MNS,RESMED,2019-06-01,2019-06-30,True,False
+baseline_2sd,ventilators_cpap,CBK,UNKNOWN FIRM,2019-06-01,2019-06-30,True,False
+baseline_2sd,infusion_pumps,FRN,BD CAREFUSION 303,2019-07-01,2019-07-31,True,False
+baseline_2sd,ventilators_cpap,BZD,VYAIRE,2019-07-01,2019-07-31,True,False
+baseline_2sd,ventilators_cpap,BZD,RESMED,2019-07-01,2019-07-31,True,False
+baseline_2sd,infusion_pumps,LZG,ROCHE,2019-07-01,2019-07-31,True,True
+baseline_2sd,ventilators_cpap,CBK,RESPIRONICS,2019-08-01,2019-08-31,True,True
+baseline_2sd,ventilators_cpap,NOU,RESMED,2019-08-01,2019-08-31,True,False
+baseline_2sd,infusion_pumps,LZG,ANIMAS,2019-09-01,2019-09-30,True,False
+baseline_2sd,ventilators_cpap,CBK,ACUTRONIC MEDICAL SYSTEMS,2019-09-01,2019-09-30,True,False
+baseline_2sd,infusion_pumps,FRN,SIGMA,2019-09-01,2019-09-30,True,False
+baseline_2sd,ventilators_cpap,MNT,UNKNOWN FIRM,2019-10-01,2019-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,ALARIS,2019-10-01,2019-10-31,True,False
+baseline_2sd,ventilators_cpap,CBK,DR GERWERK KGAA,2019-10-01,2019-10-31,True,False
+baseline_2sd,infusion_pumps,LZG,TANDEM,2019-10-01,2019-10-31,True,False
+baseline_2sd,ventilators_cpap,CBK,SMITHS,2019-11-01,2019-11-30,True,False
+baseline_2sd,infusion_pumps,FRN,WALKMED,2019-11-01,2019-11-30,True,False
+baseline_2sd,ventilators_cpap,CBK,RESMED,2019-11-01,2019-11-30,True,False
+baseline_2sd,infusion_pumps,FRN,IRADIMED,2019-12-01,2019-12-31,True,False
+baseline_2sd,infusion_pumps,FRN,RMS MEDICAL REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2020-02-01,2020-02-29,True,False
+baseline_2sd,infusion_pumps,FRN,FRESENIUS,2020-02-01,2020-02-29,True,False
+baseline_2sd,ventilators_cpap,CBK,FLIGHT,2020-03-01,2020-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL,2020-03-01,2020-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,MEDTRONIC,2020-03-01,2020-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,BAXTER,2020-03-01,2020-03-31,True,True
+baseline_2sd,ventilators_cpap,CBK,DRAEGERWERK,2020-03-01,2020-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,CME AMERICA,2020-03-01,2020-03-31,True,True
+baseline_2sd,infusion_pumps,FRN,SMISSON CARTLEDGE BIOMEDICAL,2020-03-01,2020-03-31,True,False
+baseline_2sd,ventilators_cpap,MNT,RESMED,2020-03-01,2020-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,REPRO,2020-04-01,2020-04-30,True,False
+baseline_2sd,infusion_pumps,FRN,CAREFUSION,2020-04-01,2020-04-30,True,True
+baseline_2sd,ventilators_cpap,CBK,VYAIRE,2020-04-01,2020-04-30,True,True
+baseline_2sd,ventilators_cpap,CBK,ZOLL MEDICAL,2020-04-01,2020-04-30,True,False
+baseline_2sd,infusion_pumps,LZG,ZEALAND PHARMA U S,2020-05-01,2020-05-31,True,False
+baseline_2sd,infusion_pumps,FRN,UNKNOWN FIRM,2020-05-01,2020-05-31,True,False
+baseline_2sd,infusion_pumps,FRN,MOOG,2020-06-01,2020-06-30,True,False
+baseline_2sd,ventilators_cpap,CBK,NEWPORT,2020-07-01,2020-07-31,True,False
+baseline_2sd,ventilators_cpap,CBK,DRAEGER,2020-07-01,2020-07-31,True,True
+baseline_2sd,infusion_pumps,MEA,B BRAUN,2020-07-01,2020-07-31,True,True
+baseline_2sd,ventilators_cpap,CBK,MAQUET,2020-07-01,2020-07-31,True,False
+baseline_2sd,infusion_pumps,FRN,INFUTRONIX,2020-07-01,2020-07-31,True,True
+baseline_2sd,ventilators_cpap,BZD,RESPIRONICS,2020-08-01,2020-08-31,True,True
+baseline_2sd,infusion_pumps,FRN,B BRAUN,2020-08-01,2020-08-31,True,False
+baseline_2sd,ventilators_cpap,BZD,COOPERSURGICAL,2020-09-01,2020-09-30,True,False
+baseline_2sd,infusion_pumps,MEA,CAREFUSION,2020-09-01,2020-09-30,True,False
+baseline_2sd,infusion_pumps,LZG,MEDTRONIC,2020-09-01,2020-09-30,True,False
+baseline_2sd,infusion_pumps,FRN,FRESENIUS,2020-09-01,2020-09-30,True,True
+baseline_2sd,infusion_pumps,FRN,ZYNO MEDICAL,2020-10-01,2020-10-31,True,False
+baseline_2sd,ventilators_cpap,CBK,HAMILTON,2020-10-01,2020-10-31,True,True
+baseline_2sd,ventilators_cpap,CBK,MINDY FABER VYAIRE COM,2020-11-01,2020-11-30,True,False
+baseline_2sd,infusion_pumps,FRN,BECTON,2020-11-01,2020-11-30,True,False
+baseline_2sd,ventilators_cpap,BZD,RESMED,2020-12-01,2020-12-31,True,False
+baseline_2sd,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2020-12-01,2020-12-31,True,True
+baseline_2sd,ventilators_cpap,CBK,IMTMEDICAL,2020-12-01,2020-12-31,True,False
+baseline_2sd,ventilators_cpap,NOU,RESMED,2020-12-01,2020-12-31,True,False
+baseline_2sd,infusion_pumps,MEA,UNKNOWN FIRM,2020-12-01,2020-12-31,True,False
+baseline_2sd,ventilators_cpap,CBK,BREAS,2021-02-01,2021-02-28,True,True
+baseline_2sd,infusion_pumps,FRN,MOOG COSTA RICA,2021-02-01,2021-02-28,True,False
+baseline_2sd,ventilators_cpap,CBK,DR GERWERK KGAA,2021-02-01,2021-02-28,True,False
+baseline_2sd,ventilators_cpap,BZD,FISHER,2021-02-01,2021-02-28,True,False
+baseline_2sd,infusion_pumps,FRN,EITAN,2021-02-01,2021-02-28,True,False
+baseline_2sd,ventilators_cpap,CBK,COSTA,2021-03-01,2021-03-31,True,False
+baseline_2sd,ventilators_cpap,NOU,BREAS,2021-03-01,2021-03-31,True,True
+baseline_2sd,ventilators_cpap,CBK,VENTEC,2021-03-01,2021-03-31,True,True
+baseline_2sd,ventilators_cpap,BZD,RESPIRONICS,2021-03-01,2021-03-31,True,True
+baseline_2sd,infusion_pumps,MEA,SMITHS,2021-03-01,2021-03-31,True,False
+baseline_2sd,ventilators_cpap,CBK,UNKNOWN FIRM,2021-04-01,2021-04-30,True,False
+baseline_2sd,infusion_pumps,FRN,SMITHS,2021-05-01,2021-05-31,True,True
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL,2021-05-01,2021-05-31,True,True
+baseline_2sd,infusion_pumps,FRN,INFUTRONIX,2021-06-01,2021-06-30,True,True
+baseline_2sd,ventilators_cpap,CBK,DATEX,2021-06-01,2021-06-30,True,False
+baseline_2sd,infusion_pumps,FRN,UNK,2021-06-01,2021-06-30,True,False
+baseline_2sd,infusion_pumps,FRN,B BRAUN,2021-06-01,2021-06-30,True,False
+baseline_2sd,infusion_pumps,LZG,INSULET,2021-07-01,2021-07-31,True,True
+baseline_2sd,ventilators_cpap,MNS,RESPIRONICS,2021-07-01,2021-07-31,True,True
+baseline_2sd,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2021-08-01,2021-08-31,True,False
+baseline_2sd,infusion_pumps,FRN,MEDEX,2021-08-01,2021-08-31,True,False
+baseline_2sd,ventilators_cpap,CBK,SMITHS,2021-08-01,2021-08-31,True,False
+baseline_2sd,infusion_pumps,FRN,REPRO,2021-09-01,2021-09-30,True,False
+baseline_2sd,infusion_pumps,FRN,ZEVEX,2021-09-01,2021-09-30,True,False
+baseline_2sd,ventilators_cpap,MNT,RESPIRONICS,2021-09-01,2021-09-30,True,True
+baseline_2sd,infusion_pumps,MEA,UNKNOWN FIRM,2021-09-01,2021-09-30,True,False
+baseline_2sd,ventilators_cpap,CBK,NEWPORT,2021-10-01,2021-10-31,True,False
+baseline_2sd,ventilators_cpap,CBK,VYAIRE,2021-11-01,2021-11-30,True,True
+baseline_2sd,infusion_pumps,LZG,UNKNOWN FIRM,2021-11-01,2021-11-30,True,False
+baseline_2sd,ventilators_cpap,CBK,UNKNOWN FIRM,2021-11-01,2021-11-30,True,False
+baseline_2sd,infusion_pumps,FRN,FRESENIUS,2021-11-01,2021-11-30,True,True
+baseline_2sd,infusion_pumps,FRN,CAREFUSION,2021-12-01,2021-12-31,True,True
+baseline_2sd,ventilators_cpap,BZD,PHILIPS,2021-12-01,2021-12-31,True,False
+baseline_2sd,infusion_pumps,MEA,SMITHS,2022-01-01,2022-01-31,True,False
+baseline_2sd,infusion_pumps,FRN,RMS MEDICAL REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2022-01-01,2022-01-31,True,False
+baseline_2sd,infusion_pumps,FRN,UNKNOWN FIRM,2022-01-01,2022-01-31,True,False
+baseline_2sd,ventilators_cpap,NOU,RESMED,2022-02-01,2022-02-28,True,False
+baseline_2sd,ventilators_cpap,CBK,RESPIRONICS,2022-02-01,2022-02-28,True,True
+baseline_2sd,infusion_pumps,MEA,CAREFUSION,2022-02-01,2022-02-28,True,False
+baseline_2sd,infusion_pumps,FRN,BAXTER,2022-03-01,2022-03-31,True,True
+baseline_2sd,infusion_pumps,LZG,MEDTRONIC,2022-03-01,2022-03-31,True,False
+baseline_2sd,ventilators_cpap,CBK,DATEX,2022-03-01,2022-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL,2022-03-01,2022-03-31,True,True
+baseline_2sd,infusion_pumps,FRN,BELMONT,2022-04-01,2022-04-30,True,False
+baseline_2sd,infusion_pumps,FRN,UNK,2022-04-01,2022-04-30,True,False
+baseline_2sd,ventilators_cpap,BZD,RESIPRONICS,2022-05-01,2022-05-31,True,False
+baseline_2sd,ventilators_cpap,NOU,BREAS,2022-05-01,2022-05-31,True,True
+baseline_2sd,infusion_pumps,LZG,MANNKIND V GO,2022-06-01,2022-06-30,True,False
+baseline_2sd,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2022-06-01,2022-06-30,True,False
+baseline_2sd,infusion_pumps,FRN,FRESENIUS,2022-06-01,2022-06-30,True,True
+baseline_2sd,infusion_pumps,FRN,IRADIMED,2022-06-01,2022-06-30,True,True
+baseline_2sd,ventilators_cpap,BZD,FISHER,2022-06-01,2022-06-30,True,False
+baseline_2sd,ventilators_cpap,CBK,NEWPORT,2022-07-01,2022-07-31,True,False
+baseline_2sd,ventilators_cpap,CBK,HAMILTON,2022-07-01,2022-07-31,True,True
+baseline_2sd,infusion_pumps,FRN,MEDTRONIC,2022-07-01,2022-07-31,True,False
+baseline_2sd,infusion_pumps,FRN,B BRAUN,2022-08-01,2022-08-31,True,True
+baseline_2sd,infusion_pumps,FRN,BECTON,2022-08-01,2022-08-31,True,False
+baseline_2sd,infusion_pumps,FRN,ZYNO MEDICAL,2022-08-01,2022-08-31,True,True
+baseline_2sd,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2022-09-01,2022-09-30,True,False
+baseline_2sd,ventilators_cpap,CBK,SMITHS,2022-09-01,2022-09-30,True,False
+baseline_2sd,infusion_pumps,FRN,INFUTRONIX,2022-09-01,2022-09-30,True,True
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL,2022-10-01,2022-10-31,True,True
+baseline_2sd,infusion_pumps,FRN,REPRO,2022-10-01,2022-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,KORU REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2022-10-01,2022-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,MOOG COSTA RICA,2022-10-01,2022-10-31,True,False
+baseline_2sd,ventilators_cpap,NOU,RESMED,2022-11-01,2022-11-30,True,False
+baseline_2sd,ventilators_cpap,CBK,GE HEALTHCARE,2022-11-01,2022-11-30,True,False
+baseline_2sd,ventilators_cpap,CBK,MEDTRONIC,2022-11-01,2022-11-30,True,True
+baseline_2sd,ventilators_cpap,NOU,RESPIRONICS,2022-11-01,2022-11-30,True,True
+baseline_2sd,ventilators_cpap,CBK,WELCH,2022-11-01,2022-11-30,True,False
+baseline_2sd,ventilators_cpap,BZD,PHILIPS,2022-11-01,2022-11-30,True,False
+baseline_2sd,infusion_pumps,FRN,ZEVEX,2022-12-01,2022-12-31,True,False
+baseline_2sd,infusion_pumps,MEA,B BRAUN,2022-12-01,2022-12-31,True,False
+baseline_2sd,infusion_pumps,FRN,BD,2022-12-01,2022-12-31,True,False
+baseline_2sd,ventilators_cpap,CBK,EVENT MEDICAL,2023-01-01,2023-01-31,True,False
+baseline_2sd,ventilators_cpap,CBK,FISHER,2023-01-01,2023-01-31,True,False
+baseline_2sd,ventilators_cpap,BZD,RESMED,2023-01-01,2023-01-31,True,True
+baseline_2sd,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2023-01-01,2023-01-31,True,False
+baseline_2sd,infusion_pumps,FRN,BD CAREFUSION 303,2023-02-01,2023-02-28,True,False
+baseline_2sd,ventilators_cpap,CBK,L WENSTEIN MEDICAL TECHNOLOGY KG,2023-02-01,2023-02-28,True,False
+baseline_2sd,infusion_pumps,FRN,IRADIMED,2023-03-01,2023-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,MILLYARD,2023-03-01,2023-03-31,True,False
+baseline_2sd,ventilators_cpap,BZD,VYAIRE,2023-04-01,2023-04-30,True,False
+baseline_2sd,ventilators_cpap,CBK,DRAEGERWERK,2023-04-01,2023-04-30,True,False
+baseline_2sd,infusion_pumps,FRN,UNKNOWN FIRM,2023-04-01,2023-04-30,True,False
+baseline_2sd,ventilators_cpap,CBK,DR GERWERK KGAA,2023-04-01,2023-04-30,True,False
+baseline_2sd,infusion_pumps,FRN,BELMONT,2023-04-01,2023-04-30,True,True
+baseline_2sd,ventilators_cpap,CBK,ZOLL MEDICAL,2023-05-01,2023-05-31,True,True
+baseline_2sd,infusion_pumps,FRN,ZYNO MEDICAL,2023-05-01,2023-05-31,True,True
+baseline_2sd,infusion_pumps,MEA,UNKNOWN FIRM,2023-05-01,2023-05-31,True,False
+baseline_2sd,infusion_pumps,FRN,B BRAUN,2023-06-01,2023-06-30,True,True
+baseline_2sd,infusion_pumps,MEA,SMITHS,2023-06-01,2023-06-30,True,True
+baseline_2sd,infusion_pumps,FRN,FRESENIUS,2023-06-01,2023-06-30,True,True
+baseline_2sd,infusion_pumps,FRN,RMS MEDICAL KORU MEDICAL SYSTEMS,2023-07-01,2023-07-31,True,False
+baseline_2sd,ventilators_cpap,MNT,RESPIRONICS,2023-07-01,2023-07-31,True,True
+baseline_2sd,ventilators_cpap,BZD,UNKNOWN,2023-08-01,2023-08-31,True,False
+baseline_2sd,infusion_pumps,LZG,ANIMAS,2023-08-01,2023-08-31,True,False
+baseline_2sd,infusion_pumps,FRN,UNKNOWN,2023-08-01,2023-08-31,True,False
+baseline_2sd,ventilators_cpap,CBK,IMTMEDICAL,2023-08-01,2023-08-31,True,False
+baseline_2sd,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2023-09-01,2023-09-30,True,False
+baseline_2sd,ventilators_cpap,CBK,CAREFUSION,2023-09-01,2023-09-30,True,False
+baseline_2sd,infusion_pumps,FRN,EITAN,2023-09-01,2023-09-30,True,False
+baseline_2sd,ventilators_cpap,BZD,FISHER,2023-09-01,2023-09-30,True,False
+baseline_2sd,ventilators_cpap,NOU,WELCH,2023-10-01,2023-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2023-10-01,2023-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,MOOG COSTA RICA,2023-10-01,2023-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,INFUTRONIX,2023-11-01,2023-11-30,True,True
+baseline_2sd,ventilators_cpap,MNS,RESPIRONICS,2023-11-01,2023-11-30,True,True
+baseline_2sd,infusion_pumps,FRN,ZEVEX,2023-11-01,2023-11-30,True,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL,2023-12-01,2023-12-31,True,True
+baseline_2sd,ventilators_cpap,BZD,BMC MEDICAL,2023-12-01,2023-12-31,True,False
+baseline_2sd,ventilators_cpap,BZD,RESPIRONICS,2023-12-01,2023-12-31,True,True
+baseline_2sd,ventilators_cpap,CBK,DR GERWERK KGAA,2023-12-01,2023-12-31,True,False
+baseline_2sd,ventilators_cpap,CBK,UNKNOWN FIRM,2023-12-01,2023-12-31,True,False
+baseline_2sd,ventilators_cpap,CBK,L WENSTEIN MEDICAL TECHNOLOGY KG,2024-01-01,2024-01-31,True,False
+baseline_2sd,ventilators_cpap,BZD,RESMED,2024-01-01,2024-01-31,True,False
+baseline_2sd,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-01-01,2024-01-31,True,True
+baseline_2sd,ventilators_cpap,CBK,RESPIRONICS,2024-01-01,2024-01-31,True,True
+baseline_2sd,infusion_pumps,FRN,B BRAUN AVITUM,2024-03-01,2024-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,MEDTRONIC,2024-03-01,2024-03-31,True,False
+baseline_2sd,infusion_pumps,FRN,FRESENIUS,2024-03-01,2024-03-31,True,True
+baseline_2sd,ventilators_cpap,BZD,UNKNOWN,2024-04-01,2024-04-30,True,False
+baseline_2sd,ventilators_cpap,BZD,UNK,2024-04-01,2024-04-30,True,False
+baseline_2sd,infusion_pumps,FRN,MOOG,2024-04-01,2024-04-30,True,False
+baseline_2sd,ventilators_cpap,CBK,GETINGE,2024-04-01,2024-04-30,True,False
+baseline_2sd,infusion_pumps,FRN,SMITHS,2024-04-01,2024-04-30,True,True
+baseline_2sd,infusion_pumps,LZG,MEDTRONIC,2024-05-01,2024-05-31,True,True
+baseline_2sd,infusion_pumps,FRN,BECTON,2024-06-01,2024-06-30,True,False
+baseline_2sd,infusion_pumps,LZG,ROCHE,2024-07-01,2024-07-31,True,False
+baseline_2sd,ventilators_cpap,BZD,VYAIRE,2024-07-01,2024-07-31,True,False
+baseline_2sd,infusion_pumps,MEA,ICU MEDICAL DE MEXICO S DE R L DE C V,2024-08-01,2024-08-31,True,False
+baseline_2sd,infusion_pumps,FRN,PUMP INFUSION,2024-08-01,2024-08-31,True,False
+baseline_2sd,infusion_pumps,FRN,CONMED,2024-09-01,2024-09-30,True,False
+baseline_2sd,infusion_pumps,FRN,EITAN,2024-09-01,2024-09-30,True,False
+baseline_2sd,infusion_pumps,FRN,IRADIMED,2024-09-01,2024-09-30,True,False
+baseline_2sd,ventilators_cpap,MNT,RESPIRONICS,2024-09-01,2024-09-30,True,True
+baseline_2sd,infusion_pumps,FRN,REPRO,2024-09-01,2024-09-30,True,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL,2024-10-01,2024-10-31,True,True
+baseline_2sd,ventilators_cpap,CBK,VENTEC,2024-10-01,2024-10-31,True,True
+baseline_2sd,infusion_pumps,MEA,ICU MEDICAL,2024-10-01,2024-10-31,True,False
+baseline_2sd,infusion_pumps,FRN,BELMONT,2024-10-01,2024-10-31,True,True
+baseline_2sd,infusion_pumps,FRN,SMITIHS MEDICAL ASD,2024-10-01,2024-10-31,True,False
+baseline_2sd,ventilators_cpap,CBK,RESPIRONICS,2024-10-01,2024-10-31,True,True
+baseline_2sd,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2024-11-01,2024-11-30,False,False
+baseline_2sd,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2024-11-01,2024-11-30,False,False
+baseline_2sd,infusion_pumps,FRN,B BRAUN AVITUM,2024-12-01,2024-12-31,False,False
+baseline_2sd,infusion_pumps,FRN,B BRAUN,2024-12-01,2024-12-31,False,False
+baseline_2sd,infusion_pumps,FRN,UNK,2024-12-01,2024-12-31,False,False
+baseline_2sd,infusion_pumps,FRN,MOOG COSTA RICA ZEVEX,2025-01-01,2025-01-31,False,False
+baseline_2sd,infusion_pumps,FRN,RMS MEDICAL KORU MEDICAL SYSTEMS,2025-01-01,2025-01-31,False,False
+baseline_2sd,ventilators_cpap,BZD,RESPIRONICS,2025-01-01,2025-01-31,False,False
+baseline_2sd,infusion_pumps,FRN,ZEVEX,2025-01-01,2025-01-31,False,False
+baseline_2sd,infusion_pumps,FRN,RMS KORU MEDICAL SYSTEMS,2025-01-01,2025-01-31,False,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL OAKDALE MN,2025-01-01,2025-01-31,False,False
+baseline_2sd,infusion_pumps,FRN,BD CAREFUSION 303,2025-02-01,2025-02-28,False,False
+baseline_2sd,ventilators_cpap,MNS,RESPIRONICS,2025-02-01,2025-02-28,False,False
+baseline_2sd,ventilators_cpap,BZD,SALTER,2025-02-01,2025-02-28,False,False
+baseline_2sd,infusion_pumps,FRN,BAXTER,2025-02-01,2025-02-28,False,False
+baseline_2sd,ventilators_cpap,NOU,BAXTER,2025-03-01,2025-03-31,False,False
+baseline_2sd,infusion_pumps,FRN,FRESENIUS,2025-03-01,2025-03-31,False,False
+baseline_2sd,infusion_pumps,FRN,MOOG MEDICAL DEVICES,2025-04-01,2025-04-30,False,False
+baseline_2sd,infusion_pumps,MEA,ICU MEDICAL OAKDALE MN,2025-04-01,2025-04-30,False,False
+baseline_2sd,ventilators_cpap,MNT,MAQUET,2025-04-01,2025-04-30,False,False
+baseline_2sd,infusion_pumps,FRN,BECTON,2025-04-01,2025-04-30,False,False
+baseline_2sd,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2025-05-01,2025-05-31,False,False
+baseline_2sd,ventilators_cpap,CBK,NEWPORT,2025-06-01,2025-06-30,False,False
+baseline_2sd,infusion_pumps,MEA,B BRAUN,2025-06-01,2025-06-30,False,False
+baseline_2sd,ventilators_cpap,BZD,FISHER,2025-07-01,2025-07-31,False,False
+baseline_2sd,infusion_pumps,FRN,CAREFUSION,2025-07-01,2025-07-31,False,False
+baseline_2sd,ventilators_cpap,NOU,BREAS,2025-07-01,2025-07-31,False,False
+baseline_2sd,infusion_pumps,FRN,BELMONT,2025-08-01,2025-08-31,False,False
+baseline_2sd,infusion_pumps,FRN,UNKNOWN,2025-08-01,2025-08-31,False,False
+baseline_2sd,ventilators_cpap,CBK,LOEWENSTEIN,2025-09-01,2025-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,MOOG MOOG COSTA RICA,2025-09-01,2025-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,EITAN,2025-09-01,2025-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,MEDTRONIC,2025-09-01,2025-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,RMS MEDICAL KORU MEDICAL SYSTEMS,2025-09-01,2025-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,MOOG MEDICAL DEVICES GROUP ZEVEX,2025-09-01,2025-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,KORU MEDICAL SYSTEMS RMS MEDICAL,2025-09-01,2025-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,MOOG COSTA RICA,2025-09-01,2025-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,UNK,2025-10-01,2025-10-31,False,False
+baseline_2sd,ventilators_cpap,BZD,BMC MEDICAL,2025-10-01,2025-10-31,False,False
+baseline_2sd,infusion_pumps,FRN,PHILIPS,2025-10-01,2025-10-31,False,False
+baseline_2sd,ventilators_cpap,NOU,RESMED,2025-10-01,2025-10-31,False,False
+baseline_2sd,infusion_pumps,FRN,IRADIMED,2025-10-01,2025-10-31,False,False
+baseline_2sd,ventilators_cpap,MNT,RESMED,2025-11-01,2025-11-30,False,False
+baseline_2sd,infusion_pumps,MEA,ICU MEDICAL HEALTHCARE MANUFACTURING S A DE C V,2025-11-01,2025-11-30,False,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL SMITHS MEDICAL,2025-11-01,2025-11-30,False,False
+baseline_2sd,ventilators_cpap,CBK,DATEX,2025-12-01,2025-12-31,False,False
+baseline_2sd,ventilators_cpap,CBK,VYAIRE,2025-12-01,2025-12-31,False,False
+baseline_2sd,ventilators_cpap,MNT,RESPIRONICS,2025-12-01,2025-12-31,False,False
+baseline_2sd,ventilators_cpap,BZD,RESMED,2025-12-01,2025-12-31,False,False
+baseline_2sd,ventilators_cpap,MNT,MAQUET,2026-01-01,2026-01-31,False,False
+baseline_2sd,infusion_pumps,FRN,BECTON,2026-01-01,2026-01-31,False,False
+baseline_2sd,ventilators_cpap,MNS,RESPIRONICS,2026-02-01,2026-02-28,False,False
+baseline_2sd,ventilators_cpap,CBK,ZOLL MEDICAL,2026-02-01,2026-02-28,False,False
+baseline_2sd,infusion_pumps,FRN,MILLYARD,2026-02-01,2026-02-28,False,False
+baseline_2sd,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2026-02-01,2026-02-28,False,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL HEALTHCARE MANUFACTURING S A DE C V,2026-03-01,2026-03-31,False,False
+baseline_2sd,ventilators_cpap,CBK,DRAEGER,2026-03-01,2026-03-31,False,False
+baseline_2sd,infusion_pumps,MEA,CAREFUSION,2026-03-01,2026-03-31,False,False
+baseline_2sd,infusion_pumps,MEA,ICU MEDICAL ASD,2026-04-01,2026-04-30,False,False
+baseline_2sd,infusion_pumps,FRN,FRESENIUS,2026-04-01,2026-04-30,False,False
+baseline_2sd,ventilators_cpap,CBK,RESPIRONICS,2026-04-01,2026-04-30,False,False
+baseline_2sd,ventilators_cpap,CBK,PHILIPS,2026-04-01,2026-04-30,False,False
+baseline_2sd,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2026-04-01,2026-04-30,False,False
+baseline_2sd,ventilators_cpap,NOU,REACT,2026-04-01,2026-04-30,False,False
+baseline_2sd,infusion_pumps,FRN,AVANOS,2026-05-01,2026-05-31,False,False
+baseline_2sd,ventilators_cpap,CBK,UNKNOWN FIRM,2026-05-01,2026-05-31,False,False
+baseline_2sd,ventilators_cpap,CBK,BIO MED DEVICES,2026-05-01,2026-05-31,False,False
+baseline_2sd,ventilators_cpap,CBK,DR GERWERK KGAA,2026-05-01,2026-05-31,False,False
+baseline_2sd,ventilators_cpap,CBK,BIOMED,2026-06-01,2026-06-30,False,False
+baseline_2sd,ventilators_cpap,BZD,RESPIRONICS,2026-06-01,2026-06-30,False,False
+baseline_2sd,ventilators_cpap,CBK,SHANGHAI DRAEGER MEDICAL INSTRUMENT,2026-06-01,2026-06-30,False,False
+baseline_2sd,infusion_pumps,FRN,UNKNOWN,2026-06-01,2026-06-30,False,False
+baseline_2sd,infusion_pumps,FRN,EITAN,2026-07-01,2026-07-31,False,False
+baseline_2sd,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2026-08-01,2026-08-31,False,False
+baseline_2sd,infusion_pumps,FRN,UNKNOWN FIRM,2026-08-01,2026-08-31,False,False
+baseline_2sd,infusion_pumps,FRN,RMS MEDICAL PRODUCTS KORU MEDICAL SYSTEMS,2026-08-01,2026-08-31,False,False
+baseline_2sd,infusion_pumps,MEA,ICU MEDICAL NEDERLAND B V,2026-08-01,2026-08-31,False,False
+baseline_2sd,infusion_pumps,FRN,B BRAUN,2026-08-01,2026-08-31,False,False
+baseline_2sd,ventilators_cpap,BZD,MEDLINE INDUSTRIES,2026-09-01,2026-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL,2026-09-01,2026-09-30,False,False
+baseline_2sd,ventilators_cpap,CBK,HAMILTON,2026-09-01,2026-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL NEDERLAND B V,2026-09-01,2026-09-30,False,False
+baseline_2sd,ventilators_cpap,CBK,MEDLINE INDUSTRIES,2026-09-01,2026-09-30,False,False
+baseline_2sd,ventilators_cpap,BZD,UNKNOWN FIRM,2026-09-01,2026-09-30,False,False
+baseline_2sd,infusion_pumps,LZG,UNKNOWN FIRM,2026-09-01,2026-09-30,False,False
+baseline_2sd,infusion_pumps,FRN,ICU MEDICAL HEALTHCARE MANUFACTURING S A DE C V,2026-10-01,2026-10-31,False,False
+baseline_2sd,ventilators_cpap,CBK,FLIGHT,2026-10-01,2026-10-31,False,False
+baseline_2sd,ventilators_cpap,NOU,UNKNOWN FIRM,2026-10-01,2026-10-31,False,False
+prr_fdr,ventilators_cpap,CBK,MEDTRONIC,2017-01-01,2017-01-31,True,True
+prr_fdr,infusion_pumps,FRN,FRESENIUS,2017-01-01,2017-01-31,True,True
+prr_fdr,infusion_pumps,FRN,B BRAUN,2017-01-01,2017-01-31,True,False
+prr_fdr,infusion_pumps,FRN,CAREFUSION,2017-01-01,2017-01-31,True,True
+prr_fdr,ventilators_cpap,NOU,NEWPORT,2017-01-01,2017-01-31,True,False
+prr_fdr,ventilators_cpap,CBK,RESPIRONICS,2017-01-01,2017-01-31,True,True
+prr_fdr,ventilators_cpap,CBK,DR GERWERK KGAA,2017-01-01,2017-01-31,True,False
+prr_fdr,infusion_pumps,FRN,BAXTER,2017-01-01,2017-01-31,True,True
+prr_fdr,ventilators_cpap,CBK,RESMED,2017-01-01,2017-01-31,True,False
+prr_fdr,infusion_pumps,FRN,MEDTRONIC,2017-01-01,2017-01-31,True,False
+prr_fdr,ventilators_cpap,CBK,DRAEGER,2017-01-01,2017-01-31,True,True
+prr_fdr,ventilators_cpap,CBK,IMPACT,2017-01-01,2017-01-31,True,False
+prr_fdr,infusion_pumps,LZG,TANDEM,2017-01-01,2017-01-31,True,False
+prr_fdr,ventilators_cpap,CBK,NEWPORT,2017-01-01,2017-01-31,True,True
+prr_fdr,ventilators_cpap,BZD,CAREFUSION,2017-01-01,2017-01-31,True,False
+prr_fdr,ventilators_cpap,MNT,RESPIRONICS,2017-01-01,2017-01-31,True,True
+prr_fdr,infusion_pumps,FRN,SMITHS,2017-01-01,2017-01-31,True,True
+prr_fdr,ventilators_cpap,BZD,FISHER,2017-01-01,2017-01-31,True,False
+prr_fdr,infusion_pumps,LZG,ANIMAS,2017-01-01,2017-01-31,True,False
+prr_fdr,infusion_pumps,FRN,ZYNO MEDICAL,2017-01-01,2017-01-31,True,False
+prr_fdr,ventilators_cpap,CBK,CAREFUSION,2017-01-01,2017-01-31,True,False
+prr_fdr,infusion_pumps,FRN,ICU MEDICAL,2017-01-01,2017-01-31,True,True
+prr_fdr,infusion_pumps,FRN,EITAN,2017-01-01,2017-01-31,True,False
+prr_fdr,infusion_pumps,LZG,MEDTRONIC,2017-01-01,2017-01-31,True,True
+prr_fdr,infusion_pumps,LZG,INSULET,2017-02-01,2017-02-28,True,True
+prr_fdr,infusion_pumps,LZG,DEXCOM,2017-02-01,2017-02-28,True,False
+prr_fdr,ventilators_cpap,CBK,DATEX,2017-02-01,2017-02-28,True,True
+prr_fdr,ventilators_cpap,MNT,FISHER,2017-02-01,2017-02-28,True,False
+prr_fdr,ventilators_cpap,CBK,COSTA,2017-02-01,2017-02-28,True,False
+prr_fdr,infusion_pumps,LZG,ROCHE,2017-03-01,2017-03-31,True,False
+prr_fdr,infusion_pumps,FRN,MOOG,2017-04-01,2017-04-30,True,False
+prr_fdr,infusion_pumps,FRN,WALKMED,2017-04-01,2017-04-30,True,True
+prr_fdr,infusion_pumps,FRN,CAN S P A,2017-06-01,2017-06-30,True,False
+prr_fdr,ventilators_cpap,NOU,BREAS,2017-06-01,2017-06-30,True,False
+prr_fdr,ventilators_cpap,CBK,VYAIRE,2017-07-01,2017-07-31,True,False
+prr_fdr,ventilators_cpap,CBK,ZOLL MEDICAL,2017-07-01,2017-07-31,True,False
+prr_fdr,ventilators_cpap,CBK,MAQUET,2017-08-01,2017-08-31,True,False
+prr_fdr,ventilators_cpap,BZD,VYAIRE,2017-09-01,2017-09-30,True,False
+prr_fdr,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2017-10-01,2017-10-31,True,True
+prr_fdr,infusion_pumps,FRN,HALYARD,2017-11-01,2017-11-30,True,False
+prr_fdr,infusion_pumps,FRN,CAREFUSION,2017-11-01,2017-11-30,True,True
+prr_fdr,infusion_pumps,LZG,LIFESCAN,2017-11-01,2017-11-30,True,False
+prr_fdr,infusion_pumps,FRN,INFUTRONIX,2018-02-01,2018-02-28,True,True
+prr_fdr,ventilators_cpap,BZD,TELEFLEX,2018-04-01,2018-04-30,True,True
+prr_fdr,ventilators_cpap,MNT,FISHER,2018-05-01,2018-05-31,True,False
+prr_fdr,ventilators_cpap,CBK,COSTA,2018-05-01,2018-05-31,True,False
+prr_fdr,infusion_pumps,FRN,ZEVEX,2018-06-01,2018-06-30,True,True
+prr_fdr,ventilators_cpap,CBK,SECHRIST INDUSTRIES,2018-06-01,2018-06-30,True,False
+prr_fdr,ventilators_cpap,CBK,DRAEGERWERK,2018-07-01,2018-07-31,True,False
+prr_fdr,ventilators_cpap,CBK,GE HEALTHCARE,2018-07-01,2018-07-31,True,True
+prr_fdr,infusion_pumps,LZG,ROCHE,2018-07-01,2018-07-31,True,False
+prr_fdr,infusion_pumps,FRN,WALKMED,2018-08-01,2018-08-31,True,False
+prr_fdr,ventilators_cpap,CBK,MITG GALWAY,2018-09-01,2018-09-30,True,False
+prr_fdr,infusion_pumps,FRN,UNKNOWN FIRM,2018-10-01,2018-10-31,True,False
+prr_fdr,infusion_pumps,FRN,INFUTRONIX,2018-10-01,2018-10-31,True,True
+prr_fdr,infusion_pumps,LZG,VALERITAS,2018-10-01,2018-10-31,True,True
+prr_fdr,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2018-11-01,2018-11-30,True,False
+prr_fdr,ventilators_cpap,BZD,COOPERSURGICAL,2019-01-01,2019-01-31,True,False
+prr_fdr,ventilators_cpap,MNT,RESMED,2019-01-01,2019-01-31,True,True
+prr_fdr,infusion_pumps,FRN,EITAN,2019-01-01,2019-01-31,True,False
+prr_fdr,infusion_pumps,FRN,ICU MEDICAL,2019-02-01,2019-02-28,True,True
+prr_fdr,infusion_pumps,FRN,BECTON,2019-02-01,2019-02-28,True,False
+prr_fdr,ventilators_cpap,BZD,FISHER,2019-02-01,2019-02-28,True,False
+prr_fdr,ventilators_cpap,CBK,VENTEC,2019-02-01,2019-02-28,True,False
+prr_fdr,infusion_pumps,MEA,B BRAUN,2019-02-01,2019-02-28,True,False
+prr_fdr,infusion_pumps,FRN,B BRAUN,2019-04-01,2019-04-30,True,False
+prr_fdr,infusion_pumps,LZG,LIFESCAN,2019-05-01,2019-05-31,True,False
+prr_fdr,infusion_pumps,FRN,REPRO,2019-05-01,2019-05-31,True,False
+prr_fdr,infusion_pumps,FRN,ZYNO MEDICAL,2019-05-01,2019-05-31,True,False
+prr_fdr,ventilators_cpap,MNT,RESPIRONICS,2019-06-01,2019-06-30,True,True
+prr_fdr,ventilators_cpap,CBK,IMTMEDICAL,2019-06-01,2019-06-30,True,False
+prr_fdr,infusion_pumps,FRN,BD CAREFUSION 303,2019-07-01,2019-07-31,True,False
+prr_fdr,ventilators_cpap,BZD,VYAIRE,2019-07-01,2019-07-31,True,False
+prr_fdr,infusion_pumps,FRN,SIGMA,2019-09-01,2019-09-30,True,False
+prr_fdr,ventilators_cpap,CBK,DATEX,2019-09-01,2019-09-30,True,False
+prr_fdr,infusion_pumps,LZG,ANIMAS,2019-09-01,2019-09-30,True,False
+prr_fdr,ventilators_cpap,CBK,ACUTRONIC MEDICAL SYSTEMS,2019-09-01,2019-09-30,True,False
+prr_fdr,infusion_pumps,FRN,ALARIS,2019-10-01,2019-10-31,True,False
+prr_fdr,infusion_pumps,FRN,WALKMED,2019-10-01,2019-10-31,True,False
+prr_fdr,ventilators_cpap,CBK,HAMILTON,2019-11-01,2019-11-30,True,False
+prr_fdr,ventilators_cpap,CBK,MEDTRONIC,2020-02-01,2020-02-29,True,True
+prr_fdr,infusion_pumps,FRN,CME AMERICA,2020-03-01,2020-03-31,True,True
+prr_fdr,ventilators_cpap,CBK,DRAEGERWERK,2020-03-01,2020-03-31,True,False
+prr_fdr,ventilators_cpap,MNT,FISHER,2020-03-01,2020-03-31,True,False
+prr_fdr,infusion_pumps,FRN,SMISSON CARTLEDGE BIOMEDICAL,2020-04-01,2020-04-30,True,False
+prr_fdr,ventilators_cpap,MNT,UNKNOWN FIRM,2020-04-01,2020-04-30,True,False
+prr_fdr,infusion_pumps,FRN,FRESENIUS,2020-04-01,2020-04-30,True,True
+prr_fdr,ventilators_cpap,BZD,RESPIRONICS,2020-04-01,2020-04-30,True,True
+prr_fdr,infusion_pumps,FRN,UNKNOWN FIRM,2020-05-01,2020-05-31,True,False
+prr_fdr,infusion_pumps,LZG,ZEALAND PHARMA U S,2020-05-01,2020-05-31,True,False
+prr_fdr,infusion_pumps,FRN,MOOG,2020-05-01,2020-05-31,True,False
+prr_fdr,infusion_pumps,FRN,EITAN,2020-05-01,2020-05-31,True,False
+prr_fdr,ventilators_cpap,MNT,RESMED,2020-06-01,2020-06-30,True,False
+prr_fdr,infusion_pumps,MEA,B BRAUN,2020-07-01,2020-07-31,True,True
+prr_fdr,infusion_pumps,FRN,RMS MEDICAL REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2020-07-01,2020-07-31,True,False
+prr_fdr,infusion_pumps,FRN,B BRAUN,2020-08-01,2020-08-31,True,False
+prr_fdr,infusion_pumps,FRN,INFUTRONIX,2020-09-01,2020-09-30,True,True
+prr_fdr,infusion_pumps,LZG,ROCHE,2020-09-01,2020-09-30,True,True
+prr_fdr,infusion_pumps,MEA,CAREFUSION,2020-09-01,2020-09-30,True,False
+prr_fdr,ventilators_cpap,CBK,IMTMEDICAL,2020-09-01,2020-09-30,True,False
+prr_fdr,ventilators_cpap,BZD,COOPERSURGICAL,2020-09-01,2020-09-30,True,False
+prr_fdr,ventilators_cpap,CBK,HAMILTON,2020-10-01,2020-10-31,True,True
+prr_fdr,infusion_pumps,FRN,ZYNO MEDICAL,2020-10-01,2020-10-31,True,False
+prr_fdr,infusion_pumps,FRN,BECTON,2020-11-01,2020-11-30,True,False
+prr_fdr,ventilators_cpap,CBK,VENTEC,2020-11-01,2020-11-30,True,True
+prr_fdr,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2020-12-01,2020-12-31,True,True
+prr_fdr,infusion_pumps,FRN,REPRO,2020-12-01,2020-12-31,True,False
+prr_fdr,ventilators_cpap,CBK,UNKNOWN FIRM,2020-12-01,2020-12-31,True,False
+prr_fdr,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2021-01-01,2021-01-31,True,False
+prr_fdr,infusion_pumps,FRN,EITAN,2021-02-01,2021-02-28,True,False
+prr_fdr,ventilators_cpap,BZD,RESPIRONICS,2021-03-01,2021-03-31,True,True
+prr_fdr,ventilators_cpap,BZD,FISHER,2021-03-01,2021-03-31,True,False
+prr_fdr,infusion_pumps,MEA,SMITHS,2021-03-01,2021-03-31,True,False
+prr_fdr,infusion_pumps,LZG,TANDEM,2021-04-01,2021-04-30,True,False
+prr_fdr,infusion_pumps,FRN,MEDTRONIC,2021-04-01,2021-04-30,True,False
+prr_fdr,ventilators_cpap,BZD,RESMED,2021-05-01,2021-05-31,True,False
+prr_fdr,ventilators_cpap,MNT,RESPIRONICS,2021-06-01,2021-06-30,True,True
+prr_fdr,ventilators_cpap,CBK,DATEX,2021-07-01,2021-07-31,True,False
+prr_fdr,ventilators_cpap,BZD,PHILIPS,2021-08-01,2021-08-31,True,False
+prr_fdr,infusion_pumps,FRN,REPRO,2021-09-01,2021-09-30,True,False
+prr_fdr,infusion_pumps,FRN,BECTON,2021-10-01,2021-10-31,True,False
+prr_fdr,ventilators_cpap,CBK,MEDTRONIC,2021-10-01,2021-10-31,True,True
+prr_fdr,ventilators_cpap,CBK,VYAIRE,2021-11-01,2021-11-30,True,True
+prr_fdr,infusion_pumps,MEA,UNKNOWN FIRM,2021-11-01,2021-11-30,True,False
+prr_fdr,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2021-11-01,2021-11-30,True,False
+prr_fdr,infusion_pumps,FRN,MOOG,2022-01-01,2022-01-31,True,False
+prr_fdr,infusion_pumps,FRN,RMS MEDICAL REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2022-02-01,2022-02-28,True,False
+prr_fdr,ventilators_cpap,CBK,UNKNOWN FIRM,2022-03-01,2022-03-31,True,False
+prr_fdr,ventilators_cpap,CBK,FISHER,2022-04-01,2022-04-30,True,False
+prr_fdr,ventilators_cpap,CBK,MEDTRONIC,2022-05-01,2022-05-31,True,False
+prr_fdr,infusion_pumps,FRN,BELMONT,2022-05-01,2022-05-31,True,False
+prr_fdr,ventilators_cpap,NOU,BREAS,2022-05-01,2022-05-31,True,True
+prr_fdr,ventilators_cpap,BZD,FISHER,2022-06-01,2022-06-30,True,False
+prr_fdr,infusion_pumps,LZG,MANNKIND V GO,2022-06-01,2022-06-30,True,False
+prr_fdr,infusion_pumps,FRN,UNK,2022-07-01,2022-07-31,True,False
+prr_fdr,ventilators_cpap,CBK,HAMILTON,2022-07-01,2022-07-31,True,True
+prr_fdr,infusion_pumps,FRN,MEDTRONIC,2022-07-01,2022-07-31,True,False
+prr_fdr,ventilators_cpap,CBK,NEWPORT,2022-07-01,2022-07-31,True,False
+prr_fdr,infusion_pumps,LZG,ROCHE,2022-08-01,2022-08-31,True,False
+prr_fdr,infusion_pumps,FRN,INFUTRONIX,2022-09-01,2022-09-30,True,True
+prr_fdr,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2022-09-01,2022-09-30,True,False
+prr_fdr,infusion_pumps,FRN,FRESENIUS,2022-10-01,2022-10-31,True,True
+prr_fdr,ventilators_cpap,CBK,WELCH,2022-10-01,2022-10-31,True,False
+prr_fdr,infusion_pumps,FRN,REPRO,2022-10-01,2022-10-31,True,False
+prr_fdr,ventilators_cpap,CBK,COSTA,2022-10-01,2022-10-31,True,False
+prr_fdr,infusion_pumps,FRN,KORU REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2022-10-01,2022-10-31,True,False
+prr_fdr,ventilators_cpap,CBK,VYAIRE,2022-11-01,2022-11-30,True,True
+prr_fdr,ventilators_cpap,CBK,GE HEALTHCARE,2022-11-01,2022-11-30,True,False
+prr_fdr,ventilators_cpap,CBK,UNKNOWN FIRM,2022-11-01,2022-11-30,True,False
+prr_fdr,ventilators_cpap,CBK,EVENT MEDICAL,2022-11-01,2022-11-30,True,False
+prr_fdr,infusion_pumps,MEA,B BRAUN,2022-12-01,2022-12-31,True,False
+prr_fdr,ventilators_cpap,CBK,MEDTRONIC,2022-12-01,2022-12-31,True,True
+prr_fdr,ventilators_cpap,BZD,PHILIPS,2022-12-01,2022-12-31,True,False
+prr_fdr,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2023-01-01,2023-01-31,True,False
+prr_fdr,infusion_pumps,FRN,BD,2023-02-01,2023-02-28,True,False
+prr_fdr,ventilators_cpap,CBK,DR GERWERK KGAA,2023-02-01,2023-02-28,True,False
+prr_fdr,ventilators_cpap,BZD,RESMED,2023-02-01,2023-02-28,True,True
+prr_fdr,infusion_pumps,FRN,BD CAREFUSION 303,2023-02-01,2023-02-28,True,False
+prr_fdr,ventilators_cpap,NOU,RESMED,2023-03-01,2023-03-31,True,False
+prr_fdr,infusion_pumps,FRN,UNKNOWN FIRM,2023-03-01,2023-03-31,True,False
+prr_fdr,ventilators_cpap,NOU,RESPIRONICS,2023-04-01,2023-04-30,True,True
+prr_fdr,ventilators_cpap,CBK,ZOLL MEDICAL,2023-04-01,2023-04-30,True,True
+prr_fdr,infusion_pumps,FRN,ZYNO MEDICAL,2023-04-01,2023-04-30,True,True
+prr_fdr,ventilators_cpap,BZD,VYAIRE,2023-04-01,2023-04-30,True,False
+prr_fdr,infusion_pumps,FRN,AVANOS,2023-05-01,2023-05-31,True,False
+prr_fdr,infusion_pumps,LZG,TANDEM,2023-05-01,2023-05-31,True,False
+prr_fdr,infusion_pumps,FRN,IRADIMED,2023-06-01,2023-06-30,True,False
+prr_fdr,infusion_pumps,LZG,MANNKIND V GO,2023-06-01,2023-06-30,True,False
+prr_fdr,infusion_pumps,MEA,UNKNOWN FIRM,2023-06-01,2023-06-30,True,False
+prr_fdr,ventilators_cpap,CBK,DRAEGERWERK,2023-06-01,2023-06-30,True,False
+prr_fdr,infusion_pumps,FRN,FRESENIUS,2023-07-01,2023-07-31,True,True
+prr_fdr,infusion_pumps,MEA,CAREFUSION,2023-08-01,2023-08-31,True,False
+prr_fdr,infusion_pumps,FRN,MILLYARD,2023-08-01,2023-08-31,True,False
+prr_fdr,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2023-08-01,2023-08-31,True,False
+prr_fdr,infusion_pumps,FRN,EITAN,2023-09-01,2023-09-30,True,False
+prr_fdr,ventilators_cpap,BZD,FISHER,2023-09-01,2023-09-30,True,False
+prr_fdr,ventilators_cpap,MNT,FISHER,2023-09-01,2023-09-30,True,False
+prr_fdr,ventilators_cpap,BZD,PHILIPS,2023-10-01,2023-10-31,True,False
+prr_fdr,infusion_pumps,LZG,ROCHE,2023-10-01,2023-10-31,True,False
+prr_fdr,ventilators_cpap,NOU,WELCH,2023-10-01,2023-10-31,True,False
+prr_fdr,ventilators_cpap,CBK,VYAIRE,2023-11-01,2023-11-30,True,False
+prr_fdr,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2023-11-01,2023-11-30,True,False
+prr_fdr,ventilators_cpap,BZD,RESPIRONICS,2023-11-01,2023-11-30,True,True
+prr_fdr,ventilators_cpap,BZD,BMC MEDICAL,2023-12-01,2023-12-31,True,False
+prr_fdr,ventilators_cpap,CBK,L WENSTEIN MEDICAL TECHNOLOGY KG,2023-12-01,2023-12-31,True,False
+prr_fdr,ventilators_cpap,CBK,FISHER,2023-12-01,2023-12-31,True,False
+prr_fdr,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-01-01,2024-01-31,True,True
+prr_fdr,ventilators_cpap,BZD,RESMED,2024-01-01,2024-01-31,True,False
+prr_fdr,infusion_pumps,FRN,MOOG,2024-02-01,2024-02-29,True,False
+prr_fdr,infusion_pumps,FRN,B BRAUN AVITUM,2024-03-01,2024-03-31,True,False
+prr_fdr,infusion_pumps,MEA,CAREFUSION,2024-04-01,2024-04-30,True,False
+prr_fdr,infusion_pumps,LZG,MANNKIND V GO,2024-07-01,2024-07-31,True,False
+prr_fdr,ventilators_cpap,NOU,RESMED,2024-08-01,2024-08-31,True,False
+prr_fdr,infusion_pumps,MEA,ICU MEDICAL DE MEXICO S DE R L DE C V,2024-08-01,2024-08-31,True,False
+prr_fdr,ventilators_cpap,CBK,ZOLL MEDICAL,2024-09-01,2024-09-30,True,False
+prr_fdr,infusion_pumps,FRN,CONMED,2024-09-01,2024-09-30,True,False
+prr_fdr,ventilators_cpap,CBK,MEDTRONIC,2024-10-01,2024-10-31,True,True
+prr_fdr,ventilators_cpap,MNT,RESPIRONICS,2024-10-01,2024-10-31,True,True
+prr_fdr,infusion_pumps,FRN,SMITIHS MEDICAL ASD,2024-10-01,2024-10-31,True,False
+prr_fdr,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2024-11-01,2024-11-30,False,False
+prr_fdr,infusion_pumps,FRN,B BRAUN,2024-11-01,2024-11-30,False,False
+prr_fdr,infusion_pumps,MEA,AVANOS,2024-11-01,2024-11-30,False,False
+prr_fdr,infusion_pumps,MEA,ICU MEDICAL,2024-12-01,2024-12-31,False,False
+prr_fdr,ventilators_cpap,BZD,FISHER,2025-01-01,2025-01-31,False,False
+prr_fdr,ventilators_cpap,BZD,SALTER,2025-02-01,2025-02-28,False,False
+prr_fdr,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2025-03-01,2025-03-31,False,False
+prr_fdr,infusion_pumps,FRN,ICU MEDICAL OAKDALE MN,2025-03-01,2025-03-31,False,False
+prr_fdr,ventilators_cpap,MNT,MAQUET,2025-04-01,2025-04-30,False,False
+prr_fdr,infusion_pumps,FRN,MOOG MEDICAL DEVICES,2025-04-01,2025-04-30,False,False
+prr_fdr,infusion_pumps,FRN,BD CAREFUSION 303,2025-04-01,2025-04-30,False,False
+prr_fdr,infusion_pumps,MEA,ICU MEDICAL OAKDALE MN,2025-04-01,2025-04-30,False,False
+prr_fdr,ventilators_cpap,BZD,RESMED,2025-04-01,2025-04-30,False,False
+prr_fdr,infusion_pumps,FRN,RMS MEDICAL KORU MEDICAL SYSTEMS,2025-05-01,2025-05-31,False,False
+prr_fdr,infusion_pumps,FRN,ZEVEX,2025-05-01,2025-05-31,False,False
+prr_fdr,infusion_pumps,MEA,B BRAUN,2025-06-01,2025-06-30,False,False
+prr_fdr,infusion_pumps,FRN,BECTON,2025-06-01,2025-06-30,False,False
+prr_fdr,ventilators_cpap,CBK,NEWPORT,2025-06-01,2025-06-30,False,False
+prr_fdr,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2025-06-01,2025-06-30,False,False
+prr_fdr,ventilators_cpap,NOU,BREAS,2025-07-01,2025-07-31,False,False
+prr_fdr,infusion_pumps,FRN,BELMONT,2025-08-01,2025-08-31,False,False
+prr_fdr,ventilators_cpap,CBK,MEDTRONIC,2025-08-01,2025-08-31,False,False
+prr_fdr,infusion_pumps,FRN,MOOG COSTA RICA,2025-09-01,2025-09-30,False,False
+prr_fdr,infusion_pumps,FRN,MOOG MOOG COSTA RICA,2025-09-01,2025-09-30,False,False
+prr_fdr,ventilators_cpap,CBK,LOEWENSTEIN,2025-10-01,2025-10-31,False,False
+prr_fdr,infusion_pumps,FRN,IRADIMED,2025-10-01,2025-10-31,False,False
+prr_fdr,infusion_pumps,FRN,UNK,2025-10-01,2025-10-31,False,False
+prr_fdr,infusion_pumps,FRN,EITAN,2025-10-01,2025-10-31,False,False
+prr_fdr,ventilators_cpap,NOU,RESMED,2025-10-01,2025-10-31,False,False
+prr_fdr,infusion_pumps,LZG,TANDEM,2025-10-01,2025-10-31,False,False
+prr_fdr,infusion_pumps,MEA,ICU MEDICAL HEALTHCARE MANUFACTURING S A DE C V,2025-11-01,2025-11-30,False,False
+prr_fdr,infusion_pumps,FRN,MILLYARD,2026-02-01,2026-02-28,False,False
+prr_fdr,ventilators_cpap,MNT,RESPIRONICS,2026-02-01,2026-02-28,False,False
+prr_fdr,ventilators_cpap,MNT,MAQUET,2026-02-01,2026-02-28,False,False
+prr_fdr,ventilators_cpap,BZD,FISHER,2026-04-01,2026-04-30,False,False
+prr_fdr,infusion_pumps,FRN,ICU MEDICAL SMITHS MEDICAL,2026-05-01,2026-05-31,False,False
+prr_fdr,ventilators_cpap,CBK,DR GERWERK KGAA,2026-05-01,2026-05-31,False,False
+prr_fdr,ventilators_cpap,CBK,SHANGHAI DRAEGER MEDICAL INSTRUMENT,2026-06-01,2026-06-30,False,False
+prr_fdr,infusion_pumps,FRN,UNKNOWN FIRM,2026-08-01,2026-08-31,False,False
+prr_fdr,ventilators_cpap,MNT,RESMED,2026-08-01,2026-08-31,False,False
+prr_fdr,infusion_pumps,MEA,ICU MEDICAL NEDERLAND B V,2026-08-01,2026-08-31,False,False
+prr_fdr,infusion_pumps,FRN,MOOG MEDICAL DEVICES,2026-08-01,2026-08-31,False,False
+prr_fdr,ventilators_cpap,NOU,RESMED,2026-08-01,2026-08-31,False,False
+prr_fdr,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2026-08-01,2026-08-31,False,False
+prr_fdr,infusion_pumps,FRN,RMS MEDICAL PRODUCTS KORU MEDICAL SYSTEMS,2026-08-01,2026-08-31,False,False
+prr_fdr,infusion_pumps,FRN,PHILIPS,2026-09-01,2026-09-30,False,False
+prr_fdr,infusion_pumps,MEA,B BRAUN,2026-09-01,2026-09-30,False,False
+prr_fdr,infusion_pumps,FRN,SMITHS,2026-09-01,2026-09-30,False,False
+prr_fdr,infusion_pumps,LZG,UNKNOWN FIRM,2026-10-01,2026-10-31,False,False
+prr_fdr,ventilators_cpap,NOU,UNKNOWN FIRM,2026-10-01,2026-10-31,False,False
+prr_fdr,ventilators_cpap,CBK,FLIGHT,2026-10-01,2026-10-31,False,False
+prr_fdr,ventilators_cpap,BZD,MEDLINE INDUSTRIES,2026-10-01,2026-10-31,False,False
+prr_fdr,infusion_pumps,FRN,ICU MEDICAL NEDERLAND B V,2026-10-01,2026-10-31,False,False
+prr_sensitive,ventilators_cpap,MNT,RESPIRONICS,2017-01-01,2017-01-31,True,True
+prr_sensitive,ventilators_cpap,CBK,MAQUET,2017-01-01,2017-01-31,True,False
+prr_sensitive,ventilators_cpap,CBK,RESPIRONICS,2017-01-01,2017-01-31,True,True
+prr_sensitive,ventilators_cpap,CBK,RESMED,2017-01-01,2017-01-31,True,False
+prr_sensitive,ventilators_cpap,CBK,NEWPORT,2017-01-01,2017-01-31,True,True
+prr_sensitive,ventilators_cpap,CBK,IMPACT,2017-01-01,2017-01-31,True,False
+prr_sensitive,ventilators_cpap,CBK,DRAEGER,2017-01-01,2017-01-31,True,True
+prr_sensitive,ventilators_cpap,CBK,DR GERWERK KGAA,2017-01-01,2017-01-31,True,False
+prr_sensitive,infusion_pumps,FRN,CAREFUSION,2017-01-01,2017-01-31,True,True
+prr_sensitive,ventilators_cpap,NOU,NEWPORT,2017-01-01,2017-01-31,True,False
+prr_sensitive,ventilators_cpap,CBK,MEDTRONIC,2017-01-01,2017-01-31,True,True
+prr_sensitive,infusion_pumps,FRN,EITAN,2017-01-01,2017-01-31,True,False
+prr_sensitive,ventilators_cpap,CBK,DATEX,2017-01-01,2017-01-31,True,True
+prr_sensitive,ventilators_cpap,CBK,CAREFUSION,2017-01-01,2017-01-31,True,False
+prr_sensitive,infusion_pumps,LZG,MEDTRONIC,2017-01-01,2017-01-31,True,True
+prr_sensitive,ventilators_cpap,BZD,CAREFUSION,2017-01-01,2017-01-31,True,False
+prr_sensitive,infusion_pumps,FRN,ICU MEDICAL,2017-01-01,2017-01-31,True,True
+prr_sensitive,infusion_pumps,LZG,INSULET,2017-01-01,2017-01-31,True,True
+prr_sensitive,infusion_pumps,FRN,SMITHS,2017-01-01,2017-01-31,True,True
+prr_sensitive,infusion_pumps,FRN,MEDTRONIC,2017-01-01,2017-01-31,True,False
+prr_sensitive,infusion_pumps,LZG,ANIMAS,2017-01-01,2017-01-31,True,False
+prr_sensitive,infusion_pumps,LZG,TANDEM,2017-01-01,2017-01-31,True,False
+prr_sensitive,infusion_pumps,FRN,B BRAUN,2017-01-01,2017-01-31,True,False
+prr_sensitive,infusion_pumps,FRN,FRESENIUS,2017-01-01,2017-01-31,True,True
+prr_sensitive,ventilators_cpap,BZD,FISHER,2017-01-01,2017-01-31,True,False
+prr_sensitive,infusion_pumps,FRN,ZYNO MEDICAL,2017-01-01,2017-01-31,True,False
+prr_sensitive,infusion_pumps,FRN,BAXTER,2017-01-01,2017-01-31,True,True
+prr_sensitive,ventilators_cpap,MNT,FISHER,2017-02-01,2017-02-28,True,False
+prr_sensitive,ventilators_cpap,CBK,COSTA,2017-02-01,2017-02-28,True,False
+prr_sensitive,ventilators_cpap,CBK,ZOLL MEDICAL,2017-02-01,2017-02-28,True,True
+prr_sensitive,infusion_pumps,FRN,IRADIMED,2017-02-01,2017-02-28,True,False
+prr_sensitive,infusion_pumps,LZG,DEXCOM,2017-02-01,2017-02-28,True,False
+prr_sensitive,infusion_pumps,FRN,UNKNOWN FIRM,2017-03-01,2017-03-31,True,False
+prr_sensitive,infusion_pumps,LZG,ROCHE,2017-03-01,2017-03-31,True,False
+prr_sensitive,infusion_pumps,FRN,MOOG,2017-04-01,2017-04-30,True,False
+prr_sensitive,infusion_pumps,FRN,WALKMED,2017-04-01,2017-04-30,True,True
+prr_sensitive,infusion_pumps,FRN,CAN S P A,2017-05-01,2017-05-31,True,False
+prr_sensitive,ventilators_cpap,NOU,BREAS,2017-06-01,2017-06-30,True,False
+prr_sensitive,ventilators_cpap,CBK,VYAIRE,2017-07-01,2017-07-31,True,False
+prr_sensitive,ventilators_cpap,BZD,VYAIRE,2017-09-01,2017-09-30,True,False
+prr_sensitive,ventilators_cpap,CBK,SECHRIST INDUSTRIES,2017-09-01,2017-09-30,True,False
+prr_sensitive,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2017-10-01,2017-10-31,True,True
+prr_sensitive,infusion_pumps,LZG,LIFESCAN,2017-11-01,2017-11-30,True,False
+prr_sensitive,infusion_pumps,FRN,HALYARD,2017-11-01,2017-11-30,True,False
+prr_sensitive,infusion_pumps,FRN,INFUTRONIX,2018-02-01,2018-02-28,True,True
+prr_sensitive,ventilators_cpap,BZD,TELEFLEX,2018-04-01,2018-04-30,True,True
+prr_sensitive,ventilators_cpap,CBK,COSTA,2018-04-01,2018-04-30,True,False
+prr_sensitive,ventilators_cpap,MNT,FISHER,2018-05-01,2018-05-31,True,False
+prr_sensitive,infusion_pumps,FRN,ZEVEX,2018-06-01,2018-06-30,True,True
+prr_sensitive,ventilators_cpap,CBK,SECHRIST INDUSTRIES,2018-06-01,2018-06-30,True,False
+prr_sensitive,ventilators_cpap,CBK,DRAEGERWERK,2018-07-01,2018-07-31,True,False
+prr_sensitive,ventilators_cpap,CBK,GE HEALTHCARE,2018-07-01,2018-07-31,True,True
+prr_sensitive,infusion_pumps,FRN,WALKMED,2018-08-01,2018-08-31,True,False
+prr_sensitive,ventilators_cpap,BZD,RESMED,2018-08-01,2018-08-31,True,False
+prr_sensitive,ventilators_cpap,CBK,MITG GALWAY,2018-09-01,2018-09-30,True,False
+prr_sensitive,infusion_pumps,FRN,UNKNOWN FIRM,2018-10-01,2018-10-31,True,False
+prr_sensitive,infusion_pumps,LZG,VALERITAS,2018-10-01,2018-10-31,True,True
+prr_sensitive,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2018-11-01,2018-11-30,True,False
+prr_sensitive,ventilators_cpap,BZD,COOPERSURGICAL,2019-01-01,2019-01-31,True,False
+prr_sensitive,ventilators_cpap,MNT,RESMED,2019-01-01,2019-01-31,True,True
+prr_sensitive,ventilators_cpap,CBK,VENTEC,2019-02-01,2019-02-28,True,False
+prr_sensitive,infusion_pumps,FRN,ICU MEDICAL,2019-02-01,2019-02-28,True,True
+prr_sensitive,infusion_pumps,MEA,B BRAUN,2019-02-01,2019-02-28,True,False
+prr_sensitive,infusion_pumps,FRN,BECTON,2019-02-01,2019-02-28,True,False
+prr_sensitive,ventilators_cpap,BZD,FISHER,2019-02-01,2019-02-28,True,False
+prr_sensitive,infusion_pumps,FRN,ZYNO MEDICAL,2019-05-01,2019-05-31,True,False
+prr_sensitive,ventilators_cpap,BZD,VYAIRE,2019-05-01,2019-05-31,True,False
+prr_sensitive,infusion_pumps,FRN,REPRO,2019-05-01,2019-05-31,True,False
+prr_sensitive,infusion_pumps,LZG,LIFESCAN,2019-05-01,2019-05-31,True,False
+prr_sensitive,ventilators_cpap,MNT,RESPIRONICS,2019-06-01,2019-06-30,True,True
+prr_sensitive,ventilators_cpap,CBK,IMTMEDICAL,2019-06-01,2019-06-30,True,False
+prr_sensitive,infusion_pumps,FRN,BD CAREFUSION 303,2019-07-01,2019-07-31,True,False
+prr_sensitive,ventilators_cpap,BZD,RESMED,2019-07-01,2019-07-31,True,False
+prr_sensitive,infusion_pumps,FRN,SIGMA,2019-09-01,2019-09-30,True,False
+prr_sensitive,ventilators_cpap,CBK,ACUTRONIC MEDICAL SYSTEMS,2019-09-01,2019-09-30,True,False
+prr_sensitive,ventilators_cpap,CBK,DATEX,2019-09-01,2019-09-30,True,False
+prr_sensitive,infusion_pumps,LZG,ANIMAS,2019-09-01,2019-09-30,True,False
+prr_sensitive,infusion_pumps,FRN,WALKMED,2019-10-01,2019-10-31,True,False
+prr_sensitive,infusion_pumps,FRN,ALARIS,2019-10-01,2019-10-31,True,False
+prr_sensitive,ventilators_cpap,CBK,HAMILTON,2019-11-01,2019-11-30,True,False
+prr_sensitive,ventilators_cpap,CBK,MEDTRONIC,2020-02-01,2020-02-29,True,True
+prr_sensitive,ventilators_cpap,MNT,FISHER,2020-03-01,2020-03-31,True,False
+prr_sensitive,infusion_pumps,FRN,CME AMERICA,2020-03-01,2020-03-31,True,True
+prr_sensitive,infusion_pumps,FRN,FRESENIUS,2020-03-01,2020-03-31,True,False
+prr_sensitive,ventilators_cpap,CBK,DRAEGERWERK,2020-03-01,2020-03-31,True,False
+prr_sensitive,ventilators_cpap,BZD,RESPIRONICS,2020-04-01,2020-04-30,True,True
+prr_sensitive,infusion_pumps,FRN,SMISSON CARTLEDGE BIOMEDICAL,2020-04-01,2020-04-30,True,False
+prr_sensitive,ventilators_cpap,MNT,UNKNOWN FIRM,2020-04-01,2020-04-30,True,False
+prr_sensitive,infusion_pumps,FRN,EITAN,2020-05-01,2020-05-31,True,False
+prr_sensitive,infusion_pumps,FRN,UNKNOWN FIRM,2020-05-01,2020-05-31,True,False
+prr_sensitive,infusion_pumps,LZG,ZEALAND PHARMA U S,2020-05-01,2020-05-31,True,False
+prr_sensitive,ventilators_cpap,MNT,RESMED,2020-06-01,2020-06-30,True,False
+prr_sensitive,infusion_pumps,FRN,REPRO,2020-06-01,2020-06-30,True,False
+prr_sensitive,infusion_pumps,MEA,B BRAUN,2020-07-01,2020-07-31,True,True
+prr_sensitive,ventilators_cpap,CBK,NEWPORT,2020-07-01,2020-07-31,True,False
+prr_sensitive,infusion_pumps,FRN,RMS MEDICAL REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2020-07-01,2020-07-31,True,False
+prr_sensitive,infusion_pumps,FRN,B BRAUN,2020-07-01,2020-07-31,True,False
+prr_sensitive,ventilators_cpap,CBK,IMTMEDICAL,2020-08-01,2020-08-31,True,False
+prr_sensitive,infusion_pumps,MEA,CAREFUSION,2020-09-01,2020-09-30,True,False
+prr_sensitive,ventilators_cpap,BZD,COOPERSURGICAL,2020-09-01,2020-09-30,True,False
+prr_sensitive,infusion_pumps,FRN,INFUTRONIX,2020-09-01,2020-09-30,True,True
+prr_sensitive,ventilators_cpap,CBK,HAMILTON,2020-10-01,2020-10-31,True,True
+prr_sensitive,ventilators_cpap,CBK,VENTEC,2020-10-01,2020-10-31,True,True
+prr_sensitive,infusion_pumps,FRN,ZYNO MEDICAL,2020-10-01,2020-10-31,True,False
+prr_sensitive,infusion_pumps,FRN,BECTON,2020-11-01,2020-11-30,True,False
+prr_sensitive,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2020-12-01,2020-12-31,True,True
+prr_sensitive,ventilators_cpap,CBK,UNKNOWN FIRM,2020-12-01,2020-12-31,True,False
+prr_sensitive,ventilators_cpap,BZD,RESMED,2021-01-01,2021-01-31,True,False
+prr_sensitive,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2021-01-01,2021-01-31,True,False
+prr_sensitive,ventilators_cpap,BZD,FISHER,2021-03-01,2021-03-31,True,False
+prr_sensitive,ventilators_cpap,BZD,RESPIRONICS,2021-03-01,2021-03-31,True,True
+prr_sensitive,infusion_pumps,MEA,SMITHS,2021-03-01,2021-03-31,True,False
+prr_sensitive,infusion_pumps,FRN,MEDTRONIC,2021-04-01,2021-04-30,True,False
+prr_sensitive,infusion_pumps,LZG,TANDEM,2021-04-01,2021-04-30,True,False
+prr_sensitive,ventilators_cpap,MNT,RESPIRONICS,2021-06-01,2021-06-30,True,True
+prr_sensitive,infusion_pumps,FRN,INFUTRONIX,2021-06-01,2021-06-30,True,True
+prr_sensitive,ventilators_cpap,CBK,DATEX,2021-06-01,2021-06-30,True,False
+prr_sensitive,ventilators_cpap,BZD,PHILIPS,2021-08-01,2021-08-31,True,False
+prr_sensitive,infusion_pumps,FRN,REPRO,2021-09-01,2021-09-30,True,False
+prr_sensitive,ventilators_cpap,CBK,VYAIRE,2021-10-01,2021-10-31,True,True
+prr_sensitive,infusion_pumps,FRN,BECTON,2021-10-01,2021-10-31,True,False
+prr_sensitive,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2021-11-01,2021-11-30,True,False
+prr_sensitive,infusion_pumps,MEA,UNKNOWN FIRM,2021-11-01,2021-11-30,True,False
+prr_sensitive,ventilators_cpap,CBK,NEWPORT,2021-12-01,2021-12-31,True,False
+prr_sensitive,ventilators_cpap,CBK,HAMILTON,2022-01-01,2022-01-31,True,True
+prr_sensitive,infusion_pumps,FRN,RMS MEDICAL REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2022-02-01,2022-02-28,True,False
+prr_sensitive,ventilators_cpap,CBK,UNKNOWN FIRM,2022-02-01,2022-02-28,True,False
+prr_sensitive,infusion_pumps,FRN,INFUTRONIX,2022-03-01,2022-03-31,True,True
+prr_sensitive,ventilators_cpap,CBK,FISHER,2022-04-01,2022-04-30,True,False
+prr_sensitive,ventilators_cpap,NOU,BREAS,2022-05-01,2022-05-31,True,True
+prr_sensitive,infusion_pumps,FRN,BELMONT,2022-05-01,2022-05-31,True,False
+prr_sensitive,infusion_pumps,LZG,MANNKIND V GO,2022-06-01,2022-06-30,True,False
+prr_sensitive,ventilators_cpap,BZD,FISHER,2022-06-01,2022-06-30,True,False
+prr_sensitive,ventilators_cpap,CBK,NEWPORT,2022-07-01,2022-07-31,True,False
+prr_sensitive,infusion_pumps,FRN,MEDTRONIC,2022-07-01,2022-07-31,True,False
+prr_sensitive,infusion_pumps,FRN,UNK,2022-07-01,2022-07-31,True,False
+prr_sensitive,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2022-09-01,2022-09-30,True,False
+prr_sensitive,infusion_pumps,FRN,FRESENIUS,2022-10-01,2022-10-31,True,True
+prr_sensitive,infusion_pumps,FRN,KORU REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2022-10-01,2022-10-31,True,False
+prr_sensitive,infusion_pumps,FRN,REPRO,2022-10-01,2022-10-31,True,False
+prr_sensitive,ventilators_cpap,CBK,COSTA,2022-10-01,2022-10-31,True,False
+prr_sensitive,ventilators_cpap,CBK,WELCH,2022-10-01,2022-10-31,True,False
+prr_sensitive,ventilators_cpap,CBK,GE HEALTHCARE,2022-11-01,2022-11-30,True,False
+prr_sensitive,ventilators_cpap,CBK,EVENT MEDICAL,2022-11-01,2022-11-30,True,False
+prr_sensitive,ventilators_cpap,CBK,VYAIRE,2022-11-01,2022-11-30,True,True
+prr_sensitive,ventilators_cpap,CBK,UNKNOWN FIRM,2022-11-01,2022-11-30,True,False
+prr_sensitive,ventilators_cpap,CBK,DR GERWERK KGAA,2022-11-01,2022-11-30,True,False
+prr_sensitive,infusion_pumps,MEA,B BRAUN,2022-12-01,2022-12-31,True,False
+prr_sensitive,ventilators_cpap,BZD,PHILIPS,2022-12-01,2022-12-31,True,False
+prr_sensitive,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2023-01-01,2023-01-31,True,False
+prr_sensitive,infusion_pumps,FRN,BD CAREFUSION 303,2023-02-01,2023-02-28,True,False
+prr_sensitive,ventilators_cpap,BZD,RESMED,2023-02-01,2023-02-28,True,True
+prr_sensitive,infusion_pumps,FRN,BD,2023-02-01,2023-02-28,True,False
+prr_sensitive,ventilators_cpap,NOU,RESMED,2023-03-01,2023-03-31,True,False
+prr_sensitive,infusion_pumps,FRN,UNKNOWN FIRM,2023-03-01,2023-03-31,True,False
+prr_sensitive,ventilators_cpap,NOU,RESPIRONICS,2023-04-01,2023-04-30,True,True
+prr_sensitive,ventilators_cpap,BZD,VYAIRE,2023-04-01,2023-04-30,True,False
+prr_sensitive,infusion_pumps,FRN,ZYNO MEDICAL,2023-04-01,2023-04-30,True,True
+prr_sensitive,infusion_pumps,MEA,UNKNOWN FIRM,2023-05-01,2023-05-31,True,False
+prr_sensitive,infusion_pumps,FRN,AVANOS,2023-05-01,2023-05-31,True,False
+prr_sensitive,infusion_pumps,FRN,IRADIMED,2023-06-01,2023-06-30,True,False
+prr_sensitive,ventilators_cpap,CBK,DRAEGERWERK,2023-06-01,2023-06-30,True,False
+prr_sensitive,infusion_pumps,FRN,FRESENIUS,2023-07-01,2023-07-31,True,True
+prr_sensitive,infusion_pumps,MEA,CAREFUSION,2023-08-01,2023-08-31,True,False
+prr_sensitive,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2023-08-01,2023-08-31,True,False
+prr_sensitive,infusion_pumps,FRN,MILLYARD,2023-08-01,2023-08-31,True,False
+prr_sensitive,ventilators_cpap,BZD,FISHER,2023-09-01,2023-09-30,True,False
+prr_sensitive,ventilators_cpap,MNT,FISHER,2023-09-01,2023-09-30,True,False
+prr_sensitive,infusion_pumps,LZG,ROCHE,2023-10-01,2023-10-31,True,False
+prr_sensitive,ventilators_cpap,NOU,WELCH,2023-10-01,2023-10-31,True,False
+prr_sensitive,ventilators_cpap,BZD,PHILIPS,2023-10-01,2023-10-31,True,False
+prr_sensitive,ventilators_cpap,CBK,FISHER,2023-10-01,2023-10-31,True,False
+prr_sensitive,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2023-11-01,2023-11-30,True,False
+prr_sensitive,ventilators_cpap,BZD,RESPIRONICS,2023-11-01,2023-11-30,True,True
+prr_sensitive,ventilators_cpap,CBK,VYAIRE,2023-11-01,2023-11-30,True,False
+prr_sensitive,ventilators_cpap,CBK,L WENSTEIN MEDICAL TECHNOLOGY KG,2023-12-01,2023-12-31,True,False
+prr_sensitive,ventilators_cpap,BZD,BMC MEDICAL,2023-12-01,2023-12-31,True,False
+prr_sensitive,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-01-01,2024-01-31,True,True
+prr_sensitive,infusion_pumps,FRN,MOOG,2024-02-01,2024-02-29,True,False
+prr_sensitive,infusion_pumps,FRN,B BRAUN AVITUM,2024-03-01,2024-03-31,True,False
+prr_sensitive,infusion_pumps,LZG,MANNKIND V GO,2024-07-01,2024-07-31,True,False
+prr_sensitive,infusion_pumps,MEA,ICU MEDICAL DE MEXICO S DE R L DE C V,2024-08-01,2024-08-31,True,False
+prr_sensitive,ventilators_cpap,NOU,RESMED,2024-08-01,2024-08-31,True,False
+prr_sensitive,infusion_pumps,FRN,CONMED,2024-09-01,2024-09-30,True,False
+prr_sensitive,ventilators_cpap,MNT,RESPIRONICS,2024-10-01,2024-10-31,True,True
+prr_sensitive,infusion_pumps,FRN,MOOG MEDICAL DEVICES,2024-10-01,2024-10-31,True,False
+prr_sensitive,ventilators_cpap,CBK,MEDTRONIC,2024-10-01,2024-10-31,True,True
+prr_sensitive,infusion_pumps,FRN,SMITIHS MEDICAL ASD,2024-10-01,2024-10-31,True,False
+prr_sensitive,infusion_pumps,FRN,B BRAUN,2024-11-01,2024-11-30,False,False
+prr_sensitive,ventilators_cpap,NOU,WELCH,2024-11-01,2024-11-30,False,False
+prr_sensitive,infusion_pumps,MEA,AVANOS,2024-11-01,2024-11-30,False,False
+prr_sensitive,infusion_pumps,MEA,ICU MEDICAL,2024-12-01,2024-12-31,False,False
+prr_sensitive,ventilators_cpap,BZD,FISHER,2025-01-01,2025-01-31,False,False
+prr_sensitive,ventilators_cpap,BZD,SALTER,2025-02-01,2025-02-28,False,False
+prr_sensitive,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2025-02-01,2025-02-28,False,False
+prr_sensitive,ventilators_cpap,CBK,L WENSTEIN MEDICAL TECHNOLOGY KG,2025-03-01,2025-03-31,False,False
+prr_sensitive,infusion_pumps,FRN,ICU MEDICAL OAKDALE MN,2025-03-01,2025-03-31,False,False
+prr_sensitive,ventilators_cpap,MNT,MAQUET,2025-04-01,2025-04-30,False,False
+prr_sensitive,infusion_pumps,MEA,ICU MEDICAL OAKDALE MN,2025-04-01,2025-04-30,False,False
+prr_sensitive,infusion_pumps,FRN,BD CAREFUSION 303,2025-04-01,2025-04-30,False,False
+prr_sensitive,infusion_pumps,FRN,RMS MEDICAL KORU MEDICAL SYSTEMS,2025-05-01,2025-05-31,False,False
+prr_sensitive,infusion_pumps,FRN,ZEVEX,2025-05-01,2025-05-31,False,False
+prr_sensitive,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2025-06-01,2025-06-30,False,False
+prr_sensitive,infusion_pumps,MEA,B BRAUN,2025-06-01,2025-06-30,False,False
+prr_sensitive,ventilators_cpap,CBK,NEWPORT,2025-06-01,2025-06-30,False,False
+prr_sensitive,infusion_pumps,FRN,BECTON,2025-06-01,2025-06-30,False,False
+prr_sensitive,ventilators_cpap,NOU,BREAS,2025-07-01,2025-07-31,False,False
+prr_sensitive,infusion_pumps,FRN,BELMONT,2025-08-01,2025-08-31,False,False
+prr_sensitive,ventilators_cpap,CBK,MEDTRONIC,2025-08-01,2025-08-31,False,False
+prr_sensitive,infusion_pumps,FRN,MOOG COSTA RICA,2025-09-01,2025-09-30,False,False
+prr_sensitive,ventilators_cpap,NOU,RESMED,2025-09-01,2025-09-30,False,False
+prr_sensitive,infusion_pumps,FRN,MOOG MOOG COSTA RICA,2025-09-01,2025-09-30,False,False
+prr_sensitive,infusion_pumps,LZG,TANDEM,2025-10-01,2025-10-31,False,False
+prr_sensitive,ventilators_cpap,CBK,LOEWENSTEIN,2025-10-01,2025-10-31,False,False
+prr_sensitive,infusion_pumps,FRN,IRADIMED,2025-10-01,2025-10-31,False,False
+prr_sensitive,infusion_pumps,FRN,UNK,2025-10-01,2025-10-31,False,False
+prr_sensitive,infusion_pumps,MEA,ICU MEDICAL HEALTHCARE MANUFACTURING S A DE C V,2025-11-01,2025-11-30,False,False
+prr_sensitive,infusion_pumps,FRN,MILLYARD,2026-02-01,2026-02-28,False,False
+prr_sensitive,ventilators_cpap,MNT,RESPIRONICS,2026-02-01,2026-02-28,False,False
+prr_sensitive,ventilators_cpap,BZD,FISHER,2026-04-01,2026-04-30,False,False
+prr_sensitive,ventilators_cpap,CBK,DR GERWERK KGAA,2026-04-01,2026-04-30,False,False
+prr_sensitive,infusion_pumps,FRN,AVANOS,2026-05-01,2026-05-31,False,False
+prr_sensitive,infusion_pumps,FRN,ICU MEDICAL SMITHS MEDICAL,2026-05-01,2026-05-31,False,False
+prr_sensitive,ventilators_cpap,CBK,SHANGHAI DRAEGER MEDICAL INSTRUMENT,2026-06-01,2026-06-30,False,False
+prr_sensitive,infusion_pumps,FRN,MOOG MEDICAL DEVICES,2026-07-01,2026-07-31,False,False
+prr_sensitive,infusion_pumps,FRN,SMITHS,2026-07-01,2026-07-31,False,False
+prr_sensitive,infusion_pumps,FRN,RMS MEDICAL PRODUCTS KORU MEDICAL SYSTEMS,2026-08-01,2026-08-31,False,False
+prr_sensitive,infusion_pumps,FRN,UNKNOWN FIRM,2026-08-01,2026-08-31,False,False
+prr_sensitive,infusion_pumps,LZG,MANNKIND V GO,2026-08-01,2026-08-31,False,False
+prr_sensitive,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2026-08-01,2026-08-31,False,False
+prr_sensitive,ventilators_cpap,MNT,RESMED,2026-08-01,2026-08-31,False,False
+prr_sensitive,infusion_pumps,MEA,ICU MEDICAL NEDERLAND B V,2026-08-01,2026-08-31,False,False
+prr_sensitive,infusion_pumps,FRN,PHILIPS,2026-09-01,2026-09-30,False,False
+prr_sensitive,ventilators_cpap,CBK,MEDTRONIC,2026-10-01,2026-10-31,False,False
+prr_sensitive,infusion_pumps,FRN,ICU MEDICAL NEDERLAND B V,2026-10-01,2026-10-31,False,False
+prr_sensitive,ventilators_cpap,NOU,UNKNOWN FIRM,2026-10-01,2026-10-31,False,False
+prr_sensitive,ventilators_cpap,BZD,MEDLINE INDUSTRIES,2026-10-01,2026-10-31,False,False
+prr_sensitive,ventilators_cpap,CBK,FLIGHT,2026-10-01,2026-10-31,False,False
+prr_sensitive,infusion_pumps,LZG,UNKNOWN FIRM,2026-10-01,2026-10-31,False,False
+prr_sensitive,infusion_pumps,FRN,MOOG,2026-10-01,2026-10-31,False,False
+prr_strict,ventilators_cpap,CBK,CAREFUSION,2017-01-01,2017-01-31,True,False
+prr_strict,ventilators_cpap,BZD,CAREFUSION,2017-01-01,2017-01-31,True,False
+prr_strict,ventilators_cpap,CBK,NEWPORT,2017-01-01,2017-01-31,True,True
+prr_strict,infusion_pumps,LZG,ANIMAS,2017-01-01,2017-01-31,True,False
+prr_strict,ventilators_cpap,NOU,NEWPORT,2017-01-01,2017-01-31,True,False
+prr_strict,infusion_pumps,FRN,EITAN,2017-01-01,2017-01-31,True,False
+prr_strict,infusion_pumps,LZG,INSULET,2017-01-01,2017-01-31,True,True
+prr_strict,ventilators_cpap,CBK,IMPACT,2017-01-01,2017-01-31,True,False
+prr_strict,infusion_pumps,LZG,TANDEM,2017-01-01,2017-01-31,True,False
+prr_strict,infusion_pumps,FRN,MEDTRONIC,2017-01-01,2017-01-31,True,False
+prr_strict,ventilators_cpap,CBK,RESMED,2017-01-01,2017-01-31,True,False
+prr_strict,infusion_pumps,FRN,B BRAUN,2017-01-01,2017-01-31,True,False
+prr_strict,infusion_pumps,FRN,SMITHS,2017-01-01,2017-01-31,True,True
+prr_strict,infusion_pumps,FRN,ICU MEDICAL,2017-01-01,2017-01-31,True,True
+prr_strict,ventilators_cpap,CBK,RESPIRONICS,2017-01-01,2017-01-31,True,True
+prr_strict,infusion_pumps,FRN,FRESENIUS,2017-01-01,2017-01-31,True,True
+prr_strict,ventilators_cpap,BZD,FISHER,2017-01-01,2017-01-31,True,False
+prr_strict,infusion_pumps,LZG,MEDTRONIC,2017-01-01,2017-01-31,True,True
+prr_strict,ventilators_cpap,CBK,DRAEGER,2017-01-01,2017-01-31,True,True
+prr_strict,infusion_pumps,FRN,ZYNO MEDICAL,2017-01-01,2017-01-31,True,False
+prr_strict,ventilators_cpap,CBK,DR GERWERK KGAA,2017-01-01,2017-01-31,True,False
+prr_strict,infusion_pumps,FRN,BAXTER,2017-01-01,2017-01-31,True,True
+prr_strict,infusion_pumps,FRN,CAREFUSION,2017-01-01,2017-01-31,True,True
+prr_strict,ventilators_cpap,CBK,COSTA,2017-02-01,2017-02-28,True,False
+prr_strict,ventilators_cpap,MNT,FISHER,2017-02-01,2017-02-28,True,False
+prr_strict,infusion_pumps,LZG,DEXCOM,2017-02-01,2017-02-28,True,False
+prr_strict,ventilators_cpap,CBK,MEDTRONIC,2017-02-01,2017-02-28,True,True
+prr_strict,infusion_pumps,LZG,ROCHE,2017-03-01,2017-03-31,True,False
+prr_strict,ventilators_cpap,CBK,ZOLL MEDICAL,2017-03-01,2017-03-31,True,True
+prr_strict,infusion_pumps,FRN,MOOG,2017-04-01,2017-04-30,True,False
+prr_strict,ventilators_cpap,CBK,DATEX,2017-05-01,2017-05-31,True,True
+prr_strict,infusion_pumps,FRN,CAN S P A,2017-06-01,2017-06-30,True,False
+prr_strict,ventilators_cpap,NOU,BREAS,2017-06-01,2017-06-30,True,False
+prr_strict,ventilators_cpap,CBK,VYAIRE,2017-07-01,2017-07-31,True,False
+prr_strict,infusion_pumps,FRN,CAREFUSION,2017-08-01,2017-08-31,True,True
+prr_strict,ventilators_cpap,CBK,MAQUET,2017-08-01,2017-08-31,True,False
+prr_strict,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2017-10-01,2017-10-31,True,True
+prr_strict,infusion_pumps,FRN,WALKMED,2017-10-01,2017-10-31,True,False
+prr_strict,infusion_pumps,FRN,HALYARD,2017-11-01,2017-11-30,True,False
+prr_strict,infusion_pumps,LZG,LIFESCAN,2017-11-01,2017-11-30,True,False
+prr_strict,infusion_pumps,FRN,INFUTRONIX,2018-02-01,2018-02-28,True,True
+prr_strict,ventilators_cpap,BZD,TELEFLEX,2018-04-01,2018-04-30,True,True
+prr_strict,ventilators_cpap,MNT,FISHER,2018-05-01,2018-05-31,True,False
+prr_strict,ventilators_cpap,CBK,COSTA,2018-05-01,2018-05-31,True,False
+prr_strict,ventilators_cpap,CBK,SECHRIST INDUSTRIES,2018-06-01,2018-06-30,True,False
+prr_strict,ventilators_cpap,CBK,DR GERWERK KGAA,2018-06-01,2018-06-30,True,False
+prr_strict,infusion_pumps,LZG,ROCHE,2018-07-01,2018-07-31,True,False
+prr_strict,ventilators_cpap,CBK,DRAEGERWERK,2018-07-01,2018-07-31,True,False
+prr_strict,ventilators_cpap,CBK,GE HEALTHCARE,2018-07-01,2018-07-31,True,True
+prr_strict,ventilators_cpap,CBK,NEWPORT,2018-08-01,2018-08-31,True,False
+prr_strict,infusion_pumps,FRN,WALKMED,2018-08-01,2018-08-31,True,False
+prr_strict,ventilators_cpap,CBK,MITG GALWAY,2018-09-01,2018-09-30,True,False
+prr_strict,infusion_pumps,FRN,UNKNOWN FIRM,2018-10-01,2018-10-31,True,False
+prr_strict,infusion_pumps,FRN,INFUTRONIX,2018-10-01,2018-10-31,True,True
+prr_strict,infusion_pumps,LZG,VALERITAS,2018-10-01,2018-10-31,True,True
+prr_strict,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2018-11-01,2018-11-30,True,False
+prr_strict,ventilators_cpap,MNT,RESMED,2019-01-01,2019-01-31,True,True
+prr_strict,ventilators_cpap,BZD,COOPERSURGICAL,2019-01-01,2019-01-31,True,False
+prr_strict,ventilators_cpap,CBK,VENTEC,2019-02-01,2019-02-28,True,False
+prr_strict,infusion_pumps,FRN,BECTON,2019-02-01,2019-02-28,True,False
+prr_strict,infusion_pumps,FRN,ICU MEDICAL,2019-02-01,2019-02-28,True,True
+prr_strict,infusion_pumps,MEA,B BRAUN,2019-02-01,2019-02-28,True,False
+prr_strict,ventilators_cpap,BZD,FISHER,2019-03-01,2019-03-31,True,False
+prr_strict,infusion_pumps,FRN,B BRAUN,2019-04-01,2019-04-30,True,False
+prr_strict,infusion_pumps,FRN,ZYNO MEDICAL,2019-05-01,2019-05-31,True,False
+prr_strict,infusion_pumps,LZG,LIFESCAN,2019-05-01,2019-05-31,True,False
+prr_strict,infusion_pumps,FRN,REPRO,2019-05-01,2019-05-31,True,False
+prr_strict,ventilators_cpap,CBK,IMTMEDICAL,2019-06-01,2019-06-30,True,False
+prr_strict,ventilators_cpap,BZD,VYAIRE,2019-07-01,2019-07-31,True,False
+prr_strict,infusion_pumps,FRN,BD CAREFUSION 303,2019-07-01,2019-07-31,True,False
+prr_strict,infusion_pumps,LZG,ANIMAS,2019-09-01,2019-09-30,True,False
+prr_strict,infusion_pumps,FRN,SIGMA,2019-09-01,2019-09-30,True,False
+prr_strict,ventilators_cpap,CBK,DATEX,2019-09-01,2019-09-30,True,False
+prr_strict,infusion_pumps,FRN,EITAN,2019-09-01,2019-09-30,True,False
+prr_strict,infusion_pumps,FRN,WALKMED,2019-10-01,2019-10-31,True,False
+prr_strict,infusion_pumps,FRN,ALARIS,2019-10-01,2019-10-31,True,False
+prr_strict,ventilators_cpap,CBK,HAMILTON,2019-11-01,2019-11-30,True,False
+prr_strict,ventilators_cpap,CBK,MEDTRONIC,2020-02-01,2020-02-29,True,True
+prr_strict,ventilators_cpap,MNT,FISHER,2020-03-01,2020-03-31,True,False
+prr_strict,infusion_pumps,FRN,CME AMERICA,2020-03-01,2020-03-31,True,True
+prr_strict,infusion_pumps,FRN,FRESENIUS,2020-03-01,2020-03-31,True,False
+prr_strict,ventilators_cpap,CBK,DRAEGERWERK,2020-03-01,2020-03-31,True,False
+prr_strict,infusion_pumps,FRN,SMISSON CARTLEDGE BIOMEDICAL,2020-04-01,2020-04-30,True,False
+prr_strict,infusion_pumps,FRN,MOOG,2020-05-01,2020-05-31,True,False
+prr_strict,infusion_pumps,LZG,ZEALAND PHARMA U S,2020-05-01,2020-05-31,True,False
+prr_strict,ventilators_cpap,MNT,RESMED,2020-06-01,2020-06-30,True,False
+prr_strict,infusion_pumps,FRN,EITAN,2020-06-01,2020-06-30,True,False
+prr_strict,ventilators_cpap,MNT,UNKNOWN FIRM,2020-06-01,2020-06-30,True,False
+prr_strict,infusion_pumps,FRN,RMS MEDICAL REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2020-07-01,2020-07-31,True,False
+prr_strict,infusion_pumps,MEA,B BRAUN,2020-08-01,2020-08-31,True,True
+prr_strict,infusion_pumps,FRN,B BRAUN,2020-08-01,2020-08-31,True,False
+prr_strict,infusion_pumps,MEA,CAREFUSION,2020-09-01,2020-09-30,True,False
+prr_strict,ventilators_cpap,CBK,IMTMEDICAL,2020-09-01,2020-09-30,True,False
+prr_strict,ventilators_cpap,BZD,COOPERSURGICAL,2020-09-01,2020-09-30,True,False
+prr_strict,infusion_pumps,LZG,ROCHE,2020-09-01,2020-09-30,True,True
+prr_strict,infusion_pumps,FRN,UNKNOWN FIRM,2020-09-01,2020-09-30,True,False
+prr_strict,ventilators_cpap,CBK,HAMILTON,2020-10-01,2020-10-31,True,True
+prr_strict,infusion_pumps,FRN,ZYNO MEDICAL,2020-10-01,2020-10-31,True,False
+prr_strict,ventilators_cpap,CBK,VENTEC,2020-11-01,2020-11-30,True,True
+prr_strict,infusion_pumps,FRN,BECTON,2020-11-01,2020-11-30,True,False
+prr_strict,ventilators_cpap,CBK,UNKNOWN FIRM,2020-12-01,2020-12-31,True,False
+prr_strict,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2020-12-01,2020-12-31,True,True
+prr_strict,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2021-01-01,2021-01-31,True,False
+prr_strict,infusion_pumps,FRN,EITAN,2021-02-01,2021-02-28,True,False
+prr_strict,infusion_pumps,FRN,REPRO,2021-02-01,2021-02-28,True,False
+prr_strict,infusion_pumps,MEA,SMITHS,2021-03-01,2021-03-31,True,False
+prr_strict,infusion_pumps,FRN,MEDTRONIC,2021-04-01,2021-04-30,True,False
+prr_strict,infusion_pumps,LZG,TANDEM,2021-04-01,2021-04-30,True,False
+prr_strict,ventilators_cpap,BZD,RESPIRONICS,2021-05-01,2021-05-31,True,True
+prr_strict,ventilators_cpap,BZD,RESMED,2021-06-01,2021-06-30,True,False
+prr_strict,ventilators_cpap,CBK,DATEX,2021-06-01,2021-06-30,True,False
+prr_strict,ventilators_cpap,CBK,VENTEC,2021-06-01,2021-06-30,True,False
+prr_strict,infusion_pumps,FRN,INFUTRONIX,2021-08-01,2021-08-31,True,True
+prr_strict,ventilators_cpap,BZD,PHILIPS,2021-08-01,2021-08-31,True,False
+prr_strict,infusion_pumps,FRN,REPRO,2021-09-01,2021-09-30,True,False
+prr_strict,infusion_pumps,FRN,BECTON,2021-10-01,2021-10-31,True,False
+prr_strict,ventilators_cpap,CBK,VYAIRE,2021-11-01,2021-11-30,True,True
+prr_strict,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2021-11-01,2021-11-30,True,False
+prr_strict,ventilators_cpap,CBK,HAMILTON,2022-01-01,2022-01-31,True,True
+prr_strict,infusion_pumps,LZG,TANDEM,2022-01-01,2022-01-31,True,False
+prr_strict,infusion_pumps,FRN,RMS MEDICAL REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2022-02-01,2022-02-28,True,False
+prr_strict,ventilators_cpap,CBK,FISHER,2022-04-01,2022-04-30,True,False
+prr_strict,infusion_pumps,FRN,BELMONT,2022-05-01,2022-05-31,True,False
+prr_strict,ventilators_cpap,NOU,BREAS,2022-05-01,2022-05-31,True,True
+prr_strict,ventilators_cpap,BZD,FISHER,2022-06-01,2022-06-30,True,False
+prr_strict,infusion_pumps,LZG,MANNKIND V GO,2022-06-01,2022-06-30,True,False
+prr_strict,infusion_pumps,FRN,UNK,2022-07-01,2022-07-31,True,False
+prr_strict,infusion_pumps,FRN,MEDTRONIC,2022-07-01,2022-07-31,True,False
+prr_strict,ventilators_cpap,CBK,NEWPORT,2022-07-01,2022-07-31,True,False
+prr_strict,infusion_pumps,LZG,ROCHE,2022-08-01,2022-08-31,True,False
+prr_strict,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2022-09-01,2022-09-30,True,False
+prr_strict,infusion_pumps,FRN,INFUTRONIX,2022-09-01,2022-09-30,True,True
+prr_strict,infusion_pumps,FRN,KORU REPRO MED SYSTEMS DBA KORU MEDICAL SYSTEMS,2022-10-01,2022-10-31,True,False
+prr_strict,infusion_pumps,FRN,FRESENIUS,2022-10-01,2022-10-31,True,True
+prr_strict,ventilators_cpap,CBK,WELCH,2022-10-01,2022-10-31,True,False
+prr_strict,ventilators_cpap,CBK,COSTA,2022-10-01,2022-10-31,True,False
+prr_strict,infusion_pumps,FRN,REPRO,2022-10-01,2022-10-31,True,False
+prr_strict,ventilators_cpap,CBK,VYAIRE,2022-11-01,2022-11-30,True,True
+prr_strict,ventilators_cpap,CBK,GE HEALTHCARE,2022-11-01,2022-11-30,True,False
+prr_strict,ventilators_cpap,CBK,EVENT MEDICAL,2022-11-01,2022-11-30,True,False
+prr_strict,ventilators_cpap,CBK,UNKNOWN FIRM,2022-11-01,2022-11-30,True,False
+prr_strict,ventilators_cpap,CBK,MAQUET,2022-12-01,2022-12-31,True,False
+prr_strict,ventilators_cpap,CBK,MEDTRONIC,2022-12-01,2022-12-31,True,True
+prr_strict,infusion_pumps,MEA,B BRAUN,2022-12-01,2022-12-31,True,False
+prr_strict,ventilators_cpap,BZD,PHILIPS,2022-12-01,2022-12-31,True,False
+prr_strict,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2023-01-01,2023-01-31,True,False
+prr_strict,infusion_pumps,FRN,BD CAREFUSION 303,2023-02-01,2023-02-28,True,False
+prr_strict,ventilators_cpap,BZD,RESMED,2023-02-01,2023-02-28,True,True
+prr_strict,ventilators_cpap,CBK,DR GERWERK KGAA,2023-02-01,2023-02-28,True,False
+prr_strict,infusion_pumps,FRN,BD,2023-02-01,2023-02-28,True,False
+prr_strict,infusion_pumps,FRN,UNKNOWN FIRM,2023-03-01,2023-03-31,True,False
+prr_strict,ventilators_cpap,BZD,VYAIRE,2023-04-01,2023-04-30,True,False
+prr_strict,ventilators_cpap,CBK,ZOLL MEDICAL,2023-04-01,2023-04-30,True,True
+prr_strict,ventilators_cpap,NOU,RESMED,2023-04-01,2023-04-30,True,False
+prr_strict,ventilators_cpap,NOU,RESPIRONICS,2023-04-01,2023-04-30,True,True
+prr_strict,infusion_pumps,FRN,ZYNO MEDICAL,2023-04-01,2023-04-30,True,True
+prr_strict,infusion_pumps,FRN,AVANOS,2023-05-01,2023-05-31,True,False
+prr_strict,infusion_pumps,LZG,TANDEM,2023-05-01,2023-05-31,True,False
+prr_strict,infusion_pumps,FRN,IRADIMED,2023-06-01,2023-06-30,True,False
+prr_strict,infusion_pumps,LZG,MANNKIND V GO,2023-06-01,2023-06-30,True,False
+prr_strict,infusion_pumps,MEA,UNKNOWN FIRM,2023-06-01,2023-06-30,True,False
+prr_strict,ventilators_cpap,CBK,DRAEGERWERK,2023-06-01,2023-06-30,True,False
+prr_strict,infusion_pumps,FRN,FRESENIUS,2023-07-01,2023-07-31,True,True
+prr_strict,infusion_pumps,FRN,MILLYARD,2023-08-01,2023-08-31,True,False
+prr_strict,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2023-08-01,2023-08-31,True,False
+prr_strict,ventilators_cpap,CBK,MAQUET,2023-08-01,2023-08-31,True,True
+prr_strict,infusion_pumps,MEA,CAREFUSION,2023-08-01,2023-08-31,True,False
+prr_strict,infusion_pumps,FRN,EITAN,2023-09-01,2023-09-30,True,False
+prr_strict,ventilators_cpap,MNT,FISHER,2023-09-01,2023-09-30,True,False
+prr_strict,ventilators_cpap,BZD,FISHER,2023-09-01,2023-09-30,True,False
+prr_strict,ventilators_cpap,BZD,PHILIPS,2023-10-01,2023-10-31,True,False
+prr_strict,ventilators_cpap,NOU,WELCH,2023-10-01,2023-10-31,True,False
+prr_strict,infusion_pumps,LZG,ROCHE,2023-10-01,2023-10-31,True,False
+prr_strict,ventilators_cpap,CBK,VYAIRE,2023-11-01,2023-11-30,True,False
+prr_strict,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2023-11-01,2023-11-30,True,False
+prr_strict,ventilators_cpap,BZD,RESPIRONICS,2023-11-01,2023-11-30,True,True
+prr_strict,ventilators_cpap,CBK,FISHER,2023-12-01,2023-12-31,True,False
+prr_strict,ventilators_cpap,BZD,BMC MEDICAL,2023-12-01,2023-12-31,True,False
+prr_strict,ventilators_cpap,CBK,L WENSTEIN MEDICAL TECHNOLOGY KG,2023-12-01,2023-12-31,True,False
+prr_strict,ventilators_cpap,BZD,RESMED,2024-01-01,2024-01-31,True,False
+prr_strict,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-01-01,2024-01-31,True,True
+prr_strict,infusion_pumps,FRN,MOOG,2024-02-01,2024-02-29,True,False
+prr_strict,infusion_pumps,FRN,B BRAUN AVITUM,2024-03-01,2024-03-31,True,False
+prr_strict,infusion_pumps,MEA,CAREFUSION,2024-04-01,2024-04-30,True,False
+prr_strict,infusion_pumps,LZG,MANNKIND V GO,2024-07-01,2024-07-31,True,False
+prr_strict,infusion_pumps,MEA,ICU MEDICAL DE MEXICO S DE R L DE C V,2024-08-01,2024-08-31,True,False
+prr_strict,ventilators_cpap,NOU,RESMED,2024-08-01,2024-08-31,True,False
+prr_strict,infusion_pumps,FRN,CONMED,2024-09-01,2024-09-30,True,False
+prr_strict,infusion_pumps,FRN,SMITIHS MEDICAL ASD,2024-10-01,2024-10-31,True,False
+prr_strict,ventilators_cpap,CBK,MEDTRONIC,2024-11-01,2024-11-30,False,False
+prr_strict,infusion_pumps,FRN,B BRAUN,2024-11-01,2024-11-30,False,False
+prr_strict,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2024-11-01,2024-11-30,False,False
+prr_strict,infusion_pumps,MEA,AVANOS,2024-11-01,2024-11-30,False,False
+prr_strict,infusion_pumps,MEA,ICU MEDICAL,2024-12-01,2024-12-31,False,False
+prr_strict,ventilators_cpap,BZD,FISHER,2025-01-01,2025-01-31,False,False
+prr_strict,ventilators_cpap,BZD,SALTER,2025-02-01,2025-02-28,False,False
+prr_strict,infusion_pumps,FRN,KORU MEDICAL SYSTEMS,2025-03-01,2025-03-31,False,False
+prr_strict,ventilators_cpap,CBK,ZOLL MEDICAL,2025-03-01,2025-03-31,False,False
+prr_strict,infusion_pumps,FRN,ICU MEDICAL OAKDALE MN,2025-03-01,2025-03-31,False,False
+prr_strict,ventilators_cpap,BZD,RESMED,2025-04-01,2025-04-30,False,False
+prr_strict,infusion_pumps,FRN,MOOG MEDICAL DEVICES,2025-04-01,2025-04-30,False,False
+prr_strict,infusion_pumps,FRN,BD CAREFUSION 303,2025-04-01,2025-04-30,False,False
+prr_strict,ventilators_cpap,MNT,MAQUET,2025-04-01,2025-04-30,False,False
+prr_strict,infusion_pumps,FRN,RMS MEDICAL KORU MEDICAL SYSTEMS,2025-05-01,2025-05-31,False,False
+prr_strict,infusion_pumps,FRN,ZEVEX,2025-05-01,2025-05-31,False,False
+prr_strict,ventilators_cpap,CBK,NEWPORT,2025-06-01,2025-06-30,False,False
+prr_strict,infusion_pumps,MEA,ICU MEDICAL OAKDALE MN,2025-06-01,2025-06-30,False,False
+prr_strict,infusion_pumps,MEA,B BRAUN,2025-06-01,2025-06-30,False,False
+prr_strict,ventilators_cpap,NOU,BREAS,2025-07-01,2025-07-31,False,False
+prr_strict,ventilators_cpap,CBK,MEDTRONIC,2025-08-01,2025-08-31,False,False
+prr_strict,infusion_pumps,FRN,BELMONT,2025-08-01,2025-08-31,False,False
+prr_strict,infusion_pumps,FRN,MOOG MOOG COSTA RICA,2025-09-01,2025-09-30,False,False
+prr_strict,infusion_pumps,FRN,MOOG COSTA RICA,2025-09-01,2025-09-30,False,False
+prr_strict,ventilators_cpap,CBK,LOEWENSTEIN,2025-10-01,2025-10-31,False,False
+prr_strict,infusion_pumps,FRN,UNK,2025-10-01,2025-10-31,False,False
+prr_strict,infusion_pumps,LZG,TANDEM,2025-10-01,2025-10-31,False,False
+prr_strict,ventilators_cpap,CBK,GE MEDICAL SYSTEMS CHINA,2025-10-01,2025-10-31,False,False
+prr_strict,infusion_pumps,FRN,IRADIMED,2025-10-01,2025-10-31,False,False
+prr_strict,infusion_pumps,FRN,EITAN,2025-10-01,2025-10-31,False,False
+prr_strict,ventilators_cpap,NOU,RESMED,2025-10-01,2025-10-31,False,False
+prr_strict,infusion_pumps,MEA,ICU MEDICAL HEALTHCARE MANUFACTURING S A DE C V,2025-11-01,2025-11-30,False,False
+prr_strict,ventilators_cpap,CBK,DATEX,2025-12-01,2025-12-31,False,False
+prr_strict,infusion_pumps,FRN,MILLYARD,2026-02-01,2026-02-28,False,False
+prr_strict,ventilators_cpap,MNT,MAQUET,2026-02-01,2026-02-28,False,False
+prr_strict,ventilators_cpap,BZD,RESPIRONICS,2026-03-01,2026-03-31,False,False
+prr_strict,ventilators_cpap,BZD,FISHER,2026-04-01,2026-04-30,False,False
+prr_strict,infusion_pumps,FRN,ICU MEDICAL SMITHS MEDICAL,2026-05-01,2026-05-31,False,False
+prr_strict,ventilators_cpap,CBK,DR GERWERK KGAA,2026-05-01,2026-05-31,False,False
+prr_strict,ventilators_cpap,CBK,SHANGHAI DRAEGER MEDICAL INSTRUMENT,2026-06-01,2026-06-30,False,False
+prr_strict,ventilators_cpap,MNT,RESPIRONICS,2026-06-01,2026-06-30,False,False
+prr_strict,infusion_pumps,FRN,SMITHS,2026-07-01,2026-07-31,False,False
+prr_strict,infusion_pumps,FRN,MOOG MEDICAL DEVICES,2026-07-01,2026-07-31,False,False
+prr_strict,ventilators_cpap,MNT,NIHON KOHDEN ORANGEMED,2026-08-01,2026-08-31,False,False
+prr_strict,ventilators_cpap,MNT,RESMED,2026-08-01,2026-08-31,False,False
+prr_strict,infusion_pumps,FRN,RMS MEDICAL PRODUCTS KORU MEDICAL SYSTEMS,2026-08-01,2026-08-31,False,False
+prr_strict,ventilators_cpap,NOU,RESMED,2026-08-01,2026-08-31,False,False
+prr_strict,infusion_pumps,FRN,UNKNOWN FIRM,2026-08-01,2026-08-31,False,False
+prr_strict,infusion_pumps,MEA,ICU MEDICAL NEDERLAND B V,2026-08-01,2026-08-31,False,False
+prr_strict,infusion_pumps,FRN,PHILIPS,2026-09-01,2026-09-30,False,False
+prr_strict,infusion_pumps,MEA,B BRAUN,2026-09-01,2026-09-30,False,False
+prr_strict,ventilators_cpap,NOU,UNKNOWN FIRM,2026-10-01,2026-10-31,False,False
+prr_strict,infusion_pumps,FRN,ICU MEDICAL NEDERLAND B V,2026-10-01,2026-10-31,False,False
+prr_strict,ventilators_cpap,BZD,MEDLINE INDUSTRIES,2026-10-01,2026-10-31,False,False
+prr_strict,infusion_pumps,LZG,UNKNOWN FIRM,2026-10-01,2026-10-31,False,False

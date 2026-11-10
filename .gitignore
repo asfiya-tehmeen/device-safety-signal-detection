@@ -1,0 +1,23 @@
+# Python / tooling
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Working files and logs (logs contain nothing needed to reproduce)
+logs/
+NEXT_PROMPT.md
+
+# Large, reproducible data: rebuilt with `python src/ingest.py all` and `python src/build.py`
+data/raw/**/*.gz
+data/raw/**/*.split
+data/raw/**/*.tmp
+data/gold/
+
+# Power BI: keep the .pbix, DAX docs, CSVs and PNG. The .pbip project folder has a machine-specific
+# absolute path and local cache files, and it duplicates the .pbix.
+reports/powerbi/DeviceWatch/
+**/.pbi/
+
+# Secrets: never commit keys
+.env
+*.key

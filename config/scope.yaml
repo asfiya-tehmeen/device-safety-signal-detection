@@ -1,0 +1,33 @@
+# DeviceWatch scope (4-day core): 2 product areas.
+# Chosen as the two largest areas on both MAUDE reports and recalls, from live openFDA counts on 2026-11-09.
+# Report counts are date_received since 2015. Recall counts are ALL years and must be re-checked
+# since 2015 in Phase 1 before this scope is treated as final.
+date_range:
+  start: "2015-01-01"
+  end: null              # null = through latest available
+  backtest_start: "2017-01-01"   # first month of the as-of replay (2015-2016 = history)
+
+areas:
+  infusion_pumps:
+    FRN: "Pump, Infusion"              # ~1.6M reports since 2015; 721 recalls. 888k received in 2022 = artefact to investigate
+    LZG: "Pump, Infusion, Insulin"     # ~0.39M; 126 recalls
+    MEA: "Pump, Infusion, PCA"         # ~33k (all years); 46 recalls
+  ventilators_cpap:
+    CBK: "Ventilator, Continuous, Facility Use"        # ~175k; 335 recalls
+    BZD: "Ventilator, Non-Continuous (CPAP/BiPAP)"     # ~300k; 83 recalls; surge in 2021-22
+    MNS: "Ventilator, Continuous, Non-Life-Supporting" # ~12k; 21 recalls
+    NOU: "Ventilator, Continuous, Home Use"            # ~7k; 16 recalls
+    MNT: "Ventilator, Continuous, Minimal Ventilatory Support, Facility Use"  # ~49k; 64 recalls
+
+# Considered and excluded: QBJ/QLG (CGM: 23 and 10 recalls), QFG (AID pump: 24 recalls), MDS (CGM sensor).
+
+thresholds:
+  min_reports: 3
+  recall_lookahead_months: 24
+  episode_cooldown_months: 6   # fires <= 6 months apart merge into one alert episode
+  baseline_sd: 2               # baseline rule: count > 12-month mean + 2 SD
+  trend_recent_months: 3
+  trend_baseline_months: 12
+  sensitive: {prr_lower_ci: 1.0, trend_p: 0.05}
+  strict:    {prr_lower_ci: 2.0, trend_p: 0.01}
+  fdr_q: 0.05   # prr_fdr variant: Benjamini-Hochberg q on the trend test across all pairs scored each month (added after the null test)

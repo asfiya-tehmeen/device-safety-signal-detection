@@ -1,0 +1,11 @@
+Reconciliation vs live openFDA API, date_received 2015-01-01..2026-11-10
+code   api_total  loaded_rows  clean_reports  api-loaded
+BZD       304203       304487         304173        -284
+CBK       174225       174285         174221         -60
+FRN      1590907      1591557        1590900        -650
+LZG       385399       385619         385398        -220
+MEA        27477        27525          27476         -48
+MNS        11808        11973          11808        -165
+MNT        47464        47485          47462         -21
+NOU         7083         7270           7083        -187
+loaded_rows count report x device rows, so multi-device reports can push them above the API total; clean_reports is after dedupe.

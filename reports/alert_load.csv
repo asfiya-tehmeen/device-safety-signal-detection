@@ -1,0 +1,6 @@
+method,firing_firm_months,active_firm_months,share_of_active_firm_months
+any_activity,4435,4435,1.0
+baseline_2sd,738,4435,0.166
+prr_fdr,2811,4435,0.634
+prr_sensitive,3210,4435,0.724
+prr_strict,2689,4435,0.606

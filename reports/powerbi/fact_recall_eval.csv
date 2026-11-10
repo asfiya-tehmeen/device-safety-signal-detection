@@ -1,0 +1,1396 @@
+method,recall_id,res_event_number,area,product_code,firm,recall_date,detectable,firm_in_maude,first_fire_month,lead_months,flagged_in_advance
+any_activity,76364|FRN|BAXTER,76364,infusion_pumps,FRN,BAXTER,2017-01-26,True,True,,,False
+any_activity,76377|MNT|RESPIRONICS,76377,ventilators_cpap,MNT,RESPIRONICS,2017-02-01,True,True,2017-01-01,0.03,True
+any_activity,76429|CBK|DEL MAR REYNOLDS MEDICAL,76429,ventilators_cpap,CBK,DEL MAR REYNOLDS MEDICAL,2017-02-08,False,False,,,False
+any_activity,76891|CBK|NEWPORT,76891,ventilators_cpap,CBK,NEWPORT,2017-03-30,True,True,2017-01-01,1.91,True
+any_activity,77084|MNT|RESPIRONICS,77084,ventilators_cpap,MNT,RESPIRONICS,2017-04-24,True,True,2017-01-01,2.73,True
+any_activity,77555|FRN|SMITHS,77555,infusion_pumps,FRN,SMITHS,2017-06-05,True,True,2017-01-01,4.11,True
+any_activity,77279|FRN|CAREFUSION,77279,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,2017-01-01,4.34,True
+any_activity,77077|FRN|CAREFUSION,77077,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,2017-01-01,4.34,True
+any_activity,77624|FRN|ICU MEDICAL,77624,infusion_pumps,FRN,ICU MEDICAL,2017-06-15,True,True,2017-01-01,4.44,True
+any_activity,79248|CBK|ZOLL MEDICAL,79248,ventilators_cpap,CBK,ZOLL MEDICAL,2017-06-30,True,True,2017-02-01,4.01,True
+any_activity,77987|FRN|CAREFUSION,77987,infusion_pumps,FRN,CAREFUSION,2017-08-09,True,True,2017-01-01,6.24,True
+any_activity,77761|FRN|SMITHS,77761,infusion_pumps,FRN,SMITHS,2017-08-22,True,True,2017-01-01,6.67,True
+any_activity,78943|MEA|SMITHS,78943,infusion_pumps,MEA,SMITHS,2017-08-24,True,True,2017-05-01,2.79,True
+any_activity,78255|FRN|SMITHS,78255,infusion_pumps,FRN,SMITHS,2017-09-25,True,True,2017-01-01,7.79,True
+any_activity,78302|FRN|WALKMED,78302,infusion_pumps,FRN,WALKMED,2017-09-27,True,True,2017-02-01,6.93,True
+any_activity,79177|FRN|BAXTER,79177,infusion_pumps,FRN,BAXTER,2017-10-06,True,True,2017-01-01,8.15,True
+any_activity,78418|FRN|ICU MEDICAL,78418,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+any_activity,78312|FRN|ICU MEDICAL,78312,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+any_activity,78922|FRN|SMITHS,78922,infusion_pumps,FRN,SMITHS,2017-11-13,True,True,2017-01-01,9.4,True
+any_activity,78588|MEA|CAREFUSION,78588,infusion_pumps,MEA,CAREFUSION,2017-11-17,True,True,,,False
+any_activity,78588|FRN|CAREFUSION,78588,infusion_pumps,FRN,CAREFUSION,2017-11-17,True,True,2017-01-01,9.53,True
+any_activity,79371|CBK|MEDTRONIC,79371,ventilators_cpap,CBK,MEDTRONIC,2017-11-21,True,True,2017-01-01,9.66,True
+any_activity,78673|FRN|SMITHS,78673,infusion_pumps,FRN,SMITHS,2017-11-22,True,True,2017-01-01,9.69,True
+any_activity,81208|FRN|FRESENIUS,81208,infusion_pumps,FRN,FRESENIUS,2017-12-02,True,True,2017-01-01,10.02,True
+any_activity,80173|CBK|DATEX,80173,ventilators_cpap,CBK,DATEX,2017-12-08,True,True,2017-01-01,10.22,True
+any_activity,80467|CBK|HAMILTON,80467,ventilators_cpap,CBK,HAMILTON,2018-03-09,True,True,2017-02-01,12.29,True
+any_activity,78599|CBK|HAMILTON,78599,ventilators_cpap,CBK,HAMILTON,2018-03-12,True,True,2017-02-01,12.39,True
+any_activity,79815|FRN|BAXTER,79815,infusion_pumps,FRN,BAXTER,2018-04-03,True,True,2017-01-01,14.03,True
+any_activity,80490|FRN|SMITHS,80490,infusion_pumps,FRN,SMITHS,2018-04-13,True,True,2017-01-01,14.36,True
+any_activity,82143|FRN|CAREFUSION,82143,infusion_pumps,FRN,CAREFUSION,2018-04-13,True,True,2017-01-01,14.36,True
+any_activity,80027|CBK|DRAEGER,80027,ventilators_cpap,CBK,DRAEGER,2018-04-26,True,True,2017-01-01,14.78,True
+any_activity,80014|FRN|BAXTER,80014,infusion_pumps,FRN,BAXTER,2018-05-08,True,True,2017-01-01,15.18,True
+any_activity,80296|NOU|HUMAN DESIGN MEDICAL,80296,ventilators_cpap,NOU,HUMAN DESIGN MEDICAL,2018-05-08,False,False,,,False
+any_activity,89584|CBK|RESPIRONICS,89584,ventilators_cpap,CBK,RESPIRONICS,2018-06-12,True,True,2017-01-01,16.33,True
+any_activity,80545|BZD|COMPASS HEALTH BRANDS CORPORATE OFFICE,80545,ventilators_cpap,BZD,COMPASS HEALTH BRANDS CORPORATE OFFICE,2018-06-18,False,False,,,False
+any_activity,80355|FRN|BAXTER,80355,infusion_pumps,FRN,BAXTER,2018-06-21,True,True,2017-01-01,16.62,True
+any_activity,80458|CBK|DATEX,80458,ventilators_cpap,CBK,DATEX,2018-06-28,True,True,2017-01-01,16.85,True
+any_activity,80462|CBK|SPACELABS HEALTHCARE,80462,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2018-07-11,True,True,2017-10-01,8.31,True
+any_activity,83480|FRN|ICU MEDICAL,83480,infusion_pumps,FRN,ICU MEDICAL,2018-08-01,True,True,2017-01-01,17.97,True
+any_activity,82078|LZG|MEDTRONIC,82078,infusion_pumps,LZG,MEDTRONIC,2018-08-07,True,True,2017-01-01,18.17,True
+any_activity,81167|CBK|MEDTRONIC,81167,ventilators_cpap,CBK,MEDTRONIC,2018-09-18,True,True,2017-01-01,19.55,True
+any_activity,81341|CBK|GE HEALTHCARE,81341,ventilators_cpap,CBK,GE HEALTHCARE,2018-10-05,True,True,2018-07-01,2.17,True
+any_activity,82003|LZG|INSULET,82003,infusion_pumps,LZG,INSULET,2018-12-18,True,True,2017-01-01,22.54,True
+any_activity,82864|FRN|ZEVEX,82864,infusion_pumps,FRN,ZEVEX,2019-02-27,True,True,2018-02-01,11.96,True
+any_activity,82328|CBK|HAMILTON,82328,ventilators_cpap,CBK,HAMILTON,2019-03-25,True,True,2018-01-01,13.73,True
+any_activity,82997|FRN|INFUTRONIX,82997,infusion_pumps,FRN,INFUTRONIX,2019-05-28,True,True,2018-10-01,6.87,True
+any_activity,83318|BZD|GALEMED,83318,ventilators_cpap,BZD,GALEMED,2019-05-30,False,True,,,False
+any_activity,83119|BZD|TELEFLEX,83119,ventilators_cpap,BZD,TELEFLEX,2019-06-14,False,True,2018-04-01,13.47,True
+any_activity,83138|FRN|FENWAL,83138,infusion_pumps,FRN,FENWAL,2019-06-24,False,False,,,False
+any_activity,83433|LZG|MEDTRONIC,83433,infusion_pumps,LZG,MEDTRONIC,2019-06-27,True,True,2017-06-01,23.89,True
+any_activity,83386|LZG|VALERITAS,83386,infusion_pumps,LZG,VALERITAS,2019-07-03,True,True,2018-01-01,17.02,True
+any_activity,83425|CBK|GE HEALTHCARE,83425,ventilators_cpap,CBK,GE HEALTHCARE,2019-07-19,True,True,2018-07-01,11.6,True
+any_activity,83549|FRN|ICU MEDICAL,83549,infusion_pumps,FRN,ICU MEDICAL,2019-07-29,True,True,2017-07-01,23.92,True
+any_activity,83980|MNT|RESPIRONICS,83980,ventilators_cpap,MNT,RESPIRONICS,2019-09-11,True,True,2017-09-01,23.36,True
+any_activity,84985|FRN|CME AMERICA,84985,infusion_pumps,FRN,CME AMERICA,2019-09-16,True,True,,,False
+any_activity,84232|FRN|SMITHS,84232,infusion_pumps,FRN,SMITHS,2019-10-28,True,True,2017-10-01,23.89,True
+any_activity,84406|CBK|RESPIRONICS,84406,ventilators_cpap,CBK,RESPIRONICS,2019-11-19,True,True,2017-11-01,23.62,True
+any_activity,84337|CBK|VYAIRE,84337,ventilators_cpap,CBK,VYAIRE,2019-11-25,True,True,2017-11-01,23.82,True
+any_activity,84551|MNT|RESMED,84551,ventilators_cpap,MNT,RESMED,2019-12-12,True,True,2018-12-01,11.37,True
+any_activity,85033|FRN|CME AMERICA,85033,infusion_pumps,FRN,CME AMERICA,2020-01-07,True,True,,,False
+any_activity,84828|NOU|BREAS,84828,ventilators_cpap,NOU,BREAS,2020-01-28,True,True,2018-10-01,14.92,True
+any_activity,84579|FRN|CAREFUSION,84579,infusion_pumps,FRN,CAREFUSION,2020-02-04,True,True,2018-02-01,23.2,True
+any_activity,84982|LZG|INSULET,84982,infusion_pumps,LZG,INSULET,2020-02-13,True,True,2018-02-01,23.49,True
+any_activity,85479|FRN|CME AMERICA,85479,infusion_pumps,FRN,CME AMERICA,2020-02-27,True,True,,,False
+any_activity,85113|MNT|RESPIRONICS,85113,ventilators_cpap,MNT,RESPIRONICS,2020-03-05,True,True,2018-03-01,23.16,True
+any_activity,88701|FRN|SMITHS,88701,infusion_pumps,FRN,SMITHS,2020-03-24,True,True,2018-03-01,23.79,True
+any_activity,85552|LZG|INSULET,85552,infusion_pumps,LZG,INSULET,2020-04-02,True,True,2018-04-01,23.1,True
+any_activity,85912|FRN|SMITHS,85912,infusion_pumps,FRN,SMITHS,2020-06-26,True,True,2018-06-01,23.89,True
+any_activity,85954|FRN|CAREFUSION,85954,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+any_activity,86062|FRN|BAXTER,86062,infusion_pumps,FRN,BAXTER,2020-06-30,True,True,2018-06-01,24.02,True
+any_activity,85919|FRN|CAREFUSION,85919,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+any_activity,85915|FRN|CAREFUSION,85915,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+any_activity,85691|FRN|CAREFUSION,85691,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+any_activity,86107|CBK|GE HEALTHCARE,86107,ventilators_cpap,CBK,GE HEALTHCARE,2020-07-14,False,True,2018-07-01,23.46,True
+any_activity,86047|FRN|CME AMERICA,86047,infusion_pumps,FRN,CME AMERICA,2020-07-30,True,True,2020-03-01,3.98,True
+any_activity,85900|FRN|CAREFUSION,85900,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+any_activity,85962|FRN|CAREFUSION,85962,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+any_activity,86005|FRN|CAREFUSION,86005,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+any_activity,93192|CBK|PERCUSSIONAIRE,93192,ventilators_cpap,CBK,PERCUSSIONAIRE,2020-09-14,False,True,,,False
+any_activity,86548|CBK|GETINGE,86548,ventilators_cpap,CBK,GETINGE,2020-09-17,False,True,,,False
+any_activity,86643|CBK|MEDTRONIC,86643,ventilators_cpap,CBK,MEDTRONIC,2020-10-16,True,True,2018-10-01,23.52,True
+any_activity,86646|MNT|RESPIRONICS,86646,ventilators_cpap,MNT,RESPIRONICS,2020-10-30,True,True,2018-10-01,23.98,True
+any_activity,86697|MNT|RESPIRONICS,86697,ventilators_cpap,MNT,RESPIRONICS,2020-11-02,True,True,2018-11-01,23.1,True
+any_activity,86756|CBK|HILL ROM MANUFACTURING,86756,ventilators_cpap,CBK,HILL ROM MANUFACTURING,2020-11-12,False,False,,,False
+any_activity,86758|FRN|BAXTER,86758,infusion_pumps,FRN,BAXTER,2020-11-23,True,True,2018-11-01,23.79,True
+any_activity,87314|MNT|RESPIRONICS,87314,ventilators_cpap,MNT,RESPIRONICS,2021-01-06,True,True,2019-01-01,23.2,True
+any_activity,86788|FRN|BAXTER,86788,infusion_pumps,FRN,BAXTER,2021-01-06,True,True,2019-01-01,23.2,True
+any_activity,87305|LZG|INSULET,87305,infusion_pumps,LZG,INSULET,2021-02-01,True,True,2019-02-01,23.13,True
+any_activity,88170|FRN|BIOMEDICAL EQUIPMENT SERVICE BMES,88170,infusion_pumps,FRN,BIOMEDICAL EQUIPMENT SERVICE BMES,2021-02-25,False,False,,,False
+any_activity,87470|FRN|TENACORE,87470,infusion_pumps,FRN,TENACORE,2021-02-25,False,False,,,False
+any_activity,87773|FRN|STEP HAR MEDICAL,87773,infusion_pumps,FRN,STEP HAR MEDICAL,2021-02-26,False,False,,,False
+any_activity,87387|FRN|CAREFUSION,87387,infusion_pumps,FRN,CAREFUSION,2021-03-03,True,True,2019-03-01,23.1,True
+any_activity,87568|FRN|BAXTER,87568,infusion_pumps,FRN,BAXTER,2021-03-19,True,True,2019-03-01,23.62,True
+any_activity,87483|FRN|PACIFIC MEDICAL GROUP,87483,infusion_pumps,FRN,PACIFIC MEDICAL GROUP,2021-03-24,False,False,,,False
+any_activity,87768|FRN|BIOMED,87768,infusion_pumps,FRN,BIOMED,2021-03-25,False,False,,,False
+any_activity,87657|FRN|INFUSION,87657,infusion_pumps,FRN,INFUSION,2021-03-26,False,True,,,False
+any_activity,87753|MNT|RESPIRONICS,87753,ventilators_cpap,MNT,RESPIRONICS,2021-04-06,True,True,2019-04-01,23.23,True
+any_activity,87753|MNS|RESPIRONICS,87753,ventilators_cpap,MNS,RESPIRONICS,2021-04-06,True,True,2019-04-01,23.23,True
+any_activity,87819|CBK|DRAEGER,87819,ventilators_cpap,CBK,DRAEGER,2021-04-16,True,True,2019-08-01,19.52,True
+any_activity,87838|CBK|VENTEC,87838,ventilators_cpap,CBK,VENTEC,2021-05-10,True,True,2019-07-01,21.32,True
+any_activity,88073|FRN|BAXTER,88073,infusion_pumps,FRN,BAXTER,2021-06-04,True,True,2019-06-01,23.16,True
+any_activity,88058|MNS|RESPIRONICS,88058,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,2019-06-01,23.49,True
+any_activity,88071|MNS|RESPIRONICS,88071,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,2019-06-01,23.49,True
+any_activity,88071|CBK|RESPIRONICS,88071,ventilators_cpap,CBK,RESPIRONICS,2021-06-14,True,True,2019-06-01,23.49,True
+any_activity,88058|BZD|RESPIRONICS,88058,ventilators_cpap,BZD,RESPIRONICS,2021-06-14,True,True,2019-09-01,20.47,True
+any_activity,88127|MNT|RESPIRONICS,88127,ventilators_cpap,MNT,RESPIRONICS,2021-06-18,True,True,2019-06-01,23.62,True
+any_activity,88246|FRN|BAXTER,88246,infusion_pumps,FRN,BAXTER,2021-07-07,True,True,2019-07-01,23.23,True
+any_activity,88411|CBK|NIHON KOHDEN ORANGEMED,88411,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2021-07-20,True,True,2020-12-01,6.6,True
+any_activity,88333|NOU|RESPIRONICS,88333,ventilators_cpap,NOU,RESPIRONICS,2021-07-26,False,True,,,False
+any_activity,88333|CBK|RESPIRONICS,88333,ventilators_cpap,CBK,RESPIRONICS,2021-07-26,True,True,2019-07-01,23.85,True
+any_activity,88362|LZG|ROCHE,88362,infusion_pumps,LZG,ROCHE,2021-07-28,True,True,2019-07-01,23.92,True
+any_activity,88635|CBK|DRAEGER,88635,ventilators_cpap,CBK,DRAEGER,2021-09-10,True,True,2020-07-01,13.34,True
+any_activity,89711|FRN|INFUTRONIX,89711,infusion_pumps,FRN,INFUTRONIX,2021-10-19,True,True,2020-07-01,14.62,True
+any_activity,88987|CBK|MEDTRONIC,88987,ventilators_cpap,CBK,MEDTRONIC,2021-11-04,True,True,2019-11-01,23.16,True
+any_activity,89366|CBK|VYAIRE,89366,ventilators_cpap,CBK,VYAIRE,2021-12-20,True,True,2019-12-01,23.66,True
+any_activity,89276|CBK|RESPIRONICS,89276,ventilators_cpap,CBK,RESPIRONICS,2021-12-22,True,True,2019-12-01,23.72,True
+any_activity,89017|FRN|BAXTER,89017,infusion_pumps,FRN,BAXTER,2021-12-29,True,True,2019-12-01,23.95,True
+any_activity,89490|MNT|RESPIRONICS,89490,ventilators_cpap,MNT,RESPIRONICS,2022-01-24,True,True,2020-01-01,23.79,True
+any_activity,89660|MEA|B BRAUN,89660,infusion_pumps,MEA,B BRAUN,2022-02-07,True,True,2020-02-01,23.29,True
+any_activity,89702|CBK|DRAEGER,89702,ventilators_cpap,CBK,DRAEGER,2022-02-14,True,True,2020-07-01,18.5,True
+any_activity,89767|MNT|RESPIRONICS,89767,ventilators_cpap,MNT,RESPIRONICS,2022-02-28,True,True,2020-02-01,23.98,True
+any_activity,89776|CBK|BREAS,89776,ventilators_cpap,CBK,BREAS,2022-03-21,False,True,2021-02-01,12.68,True
+any_activity,89820|CBK|MEDTRONIC,89820,ventilators_cpap,CBK,MEDTRONIC,2022-03-25,True,True,2020-03-01,23.79,True
+any_activity,90076|CBK|GE HEALTHCARE,90076,ventilators_cpap,CBK,GE HEALTHCARE,2022-04-18,False,True,,,False
+any_activity,89913|FRN|SMITHS,89913,infusion_pumps,FRN,SMITHS,2022-04-18,True,True,2020-04-01,23.59,True
+any_activity,92973|FRN|FRESENIUS,92973,infusion_pumps,FRN,FRESENIUS,2022-04-22,True,True,2020-04-01,23.72,True
+any_activity,90433|NOU|BREAS,90433,ventilators_cpap,NOU,BREAS,2022-06-02,True,True,2021-03-01,14.06,True
+any_activity,90576|CBK|HAMILTON,90576,ventilators_cpap,CBK,HAMILTON,2022-06-27,True,True,2020-10-01,19.84,True
+any_activity,90579|CBK|GETINGE,90579,ventilators_cpap,CBK,GETINGE,2022-07-20,True,True,,,False
+any_activity,90648|CBK|GETINGE,90648,ventilators_cpap,CBK,GETINGE,2022-07-21,True,True,,,False
+any_activity,90695|MNS|RESPIRONICS,90695,ventilators_cpap,MNS,RESPIRONICS,2022-08-26,True,True,2020-08-01,23.82,True
+any_activity,90705|BZD|RESPIRONICS,90705,ventilators_cpap,BZD,RESPIRONICS,2022-09-06,True,True,2020-09-01,23.2,True
+any_activity,93958|FRN|FRESENIUS,93958,infusion_pumps,FRN,FRESENIUS,2022-09-16,True,True,2020-09-01,23.52,True
+any_activity,90916|CBK|HAMILTON,90916,ventilators_cpap,CBK,HAMILTON,2022-09-22,True,True,2020-10-01,22.7,True
+any_activity,91052|FRN|SMITHS,91052,infusion_pumps,FRN,SMITHS,2022-10-10,True,True,2020-10-01,23.29,True
+any_activity,90987|LZG|INSULET,90987,infusion_pumps,LZG,INSULET,2022-10-17,True,True,2020-10-01,23.52,True
+any_activity,91273|FRN|BAYER,91273,infusion_pumps,FRN,BAYER,2022-11-30,False,True,,,False
+any_activity,91293|CBK|RESPIRONICS,91293,ventilators_cpap,CBK,RESPIRONICS,2022-12-07,True,True,2020-12-01,23.2,True
+any_activity,91538|CBK|DRAEGER,91538,ventilators_cpap,CBK,DRAEGER,2023-01-23,True,True,,,False
+any_activity,91582|FRN|CAREFUSION,91582,infusion_pumps,FRN,CAREFUSION,2023-01-24,True,True,2021-01-01,23.75,True
+any_activity,91506|CBK|BAXTER,91506,ventilators_cpap,CBK,BAXTER,2023-01-25,False,True,,,False
+any_activity,91837|BZD|RESPIRONICS,91837,ventilators_cpap,BZD,RESPIRONICS,2023-02-10,True,True,2021-02-01,23.39,True
+any_activity,91846|FRN|IRADIMED,91846,infusion_pumps,FRN,IRADIMED,2023-02-24,True,True,2022-06-01,7.85,True
+any_activity,91832|CBK|RESPIRONICS,91832,ventilators_cpap,CBK,RESPIRONICS,2023-03-01,True,True,2021-03-01,23.0,True
+any_activity,91783|FRN|FRESENIUS,91783,infusion_pumps,FRN,FRESENIUS,2023-03-10,True,True,2021-03-01,23.29,True
+any_activity,91925|CBK|HAMILTON,91925,ventilators_cpap,CBK,HAMILTON,2023-03-14,True,True,2021-11-01,15.41,True
+any_activity,91874|FRN|ICU MEDICAL,91874,infusion_pumps,FRN,ICU MEDICAL,2023-03-22,True,True,2021-03-01,23.69,True
+any_activity,93648|CBK|PERCUSSIONAIRE,93648,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-03-28,False,True,,,False
+any_activity,92049|BZD|DRAEGER,92049,ventilators_cpap,BZD,DRAEGER,2023-04-17,False,False,,,False
+any_activity,92279|FRN|AVANOS,92279,infusion_pumps,FRN,AVANOS,2023-04-24,True,True,,,False
+any_activity,92048|CBK|RESPIRONICS,92048,ventilators_cpap,CBK,RESPIRONICS,2023-05-01,True,True,2021-05-01,23.0,True
+any_activity,92243|CBK|VYAIRE,92243,ventilators_cpap,CBK,VYAIRE,2023-05-05,True,True,2021-05-01,23.13,True
+any_activity,93968|FRN|FRESENIUS,93968,infusion_pumps,FRN,FRESENIUS,2023-05-10,True,True,2021-05-01,23.29,True
+any_activity,92448|MNT|DRE MEDICAL GROUP,92448,ventilators_cpap,MNT,DRE MEDICAL GROUP,2023-05-15,False,False,,,False
+any_activity,92515|CBK|RESPIRONICS,92515,ventilators_cpap,CBK,RESPIRONICS,2023-05-25,True,True,2021-05-01,23.79,True
+any_activity,92443|CBK|DRAEGER,92443,ventilators_cpap,CBK,DRAEGER,2023-06-12,True,True,,,False
+any_activity,92482|CBK|HAMILTON,92482,ventilators_cpap,CBK,HAMILTON,2023-06-15,True,True,2021-11-01,18.46,True
+any_activity,92562|FRN|BAXTER,92562,infusion_pumps,FRN,BAXTER,2023-06-15,True,True,2021-06-01,23.49,True
+any_activity,99247|BZD|3B MEDICAL,99247,ventilators_cpap,BZD,3B MEDICAL,2023-06-15,False,True,,,False
+any_activity,92629|CBK|DRAEGER,92629,ventilators_cpap,CBK,DRAEGER,2023-07-12,True,True,,,False
+any_activity,92630|FRN|ICU MEDICAL,92630,infusion_pumps,FRN,ICU MEDICAL,2023-07-13,True,True,2021-07-01,23.39,True
+any_activity,92873|CBK|HAMILTON,92873,ventilators_cpap,CBK,HAMILTON,2023-07-26,True,True,2021-11-01,19.81,True
+any_activity,92956|FRN|SMITHS,92956,infusion_pumps,FRN,SMITHS,2023-08-16,True,True,2021-08-01,23.49,True
+any_activity,93015|MNT|RESPIRONICS,93015,ventilators_cpap,MNT,RESPIRONICS,2023-08-25,True,True,2021-08-01,23.79,True
+any_activity,93105|FRN|EITAN,93105,infusion_pumps,FRN,EITAN,2023-09-11,True,True,2021-09-01,23.36,True
+any_activity,93122|CBK|RESMED,93122,ventilators_cpap,CBK,RESMED,2023-09-13,True,True,2021-09-01,23.43,True
+any_activity,93106|FRN|CAREFUSION,93106,infusion_pumps,FRN,CAREFUSION,2023-09-15,True,True,2021-09-01,23.49,True
+any_activity,92978|FRN|B BRAUN,92978,infusion_pumps,FRN,B BRAUN,2023-09-21,True,True,2021-09-01,23.69,True
+any_activity,93331|NOU|BREAS,93331,ventilators_cpap,NOU,BREAS,2023-10-13,True,True,2022-05-01,16.43,True
+any_activity,93191|FRN|BAXTER,93191,infusion_pumps,FRN,BAXTER,2023-10-13,True,True,2021-10-01,23.39,True
+any_activity,93499|BZD|RESMED,93499,ventilators_cpap,BZD,RESMED,2023-11-20,True,True,2021-11-01,23.66,True
+any_activity,93609|CBK|RESPIRONICS,93609,ventilators_cpap,CBK,RESPIRONICS,2023-11-27,True,True,2021-11-01,23.89,True
+any_activity,93474|FRN|FRESENIUS,93474,infusion_pumps,FRN,FRESENIUS,2023-11-29,True,True,2021-11-01,23.95,True
+any_activity,93476|CBK|PERCUSSIONAIRE,93476,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-12-12,False,True,,,False
+any_activity,93771|FRN|SMITHS,93771,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+any_activity,93757|FRN|SMITHS,93757,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+any_activity,93754|FRN|SMITHS,93754,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+any_activity,93857|FRN|ZYNO MEDICAL,93857,infusion_pumps,FRN,ZYNO MEDICAL,2023-12-20,True,True,2021-12-01,23.62,True
+any_activity,93806|CBK|VENTEC,93806,ventilators_cpap,CBK,VENTEC,2024-01-09,True,True,2022-01-01,23.26,True
+any_activity,94124|FRN|INFUTRONIX,94124,infusion_pumps,FRN,INFUTRONIX,2024-02-21,True,True,2022-03-01,22.74,True
+any_activity,94225|MEA|SMITHS,94225,infusion_pumps,MEA,SMITHS,2024-02-27,True,True,2022-02-01,23.95,True
+any_activity,94225|FRN|SMITHS,94225,infusion_pumps,FRN,SMITHS,2024-02-27,True,True,2022-02-01,23.95,True
+any_activity,94169|BZD|SLEEPNET,94169,ventilators_cpap,BZD,SLEEPNET,2024-03-01,False,False,,,False
+any_activity,94228|FRN|FRESENIUS,94228,infusion_pumps,FRN,FRESENIUS,2024-03-07,True,True,2022-03-01,23.23,True
+any_activity,94263|CBK|RESPIRONICS,94263,ventilators_cpap,CBK,RESPIRONICS,2024-03-19,True,True,2022-03-01,23.62,True
+any_activity,94446|FRN|BAXTER,94446,infusion_pumps,FRN,BAXTER,2024-03-20,True,True,2022-03-01,23.66,True
+any_activity,94475|MNS|RESPIRONICS,94475,ventilators_cpap,MNS,RESPIRONICS,2024-03-26,True,True,2022-03-01,23.85,True
+any_activity,94475|MNT|RESPIRONICS,94475,ventilators_cpap,MNT,RESPIRONICS,2024-03-26,True,True,2022-03-01,23.85,True
+any_activity,94487|MNS|RESPIRONICS,94487,ventilators_cpap,MNS,RESPIRONICS,2024-04-01,True,True,2022-04-01,23.06,True
+any_activity,94451|FRN|BAXTER,94451,infusion_pumps,FRN,BAXTER,2024-04-09,True,True,2022-04-01,23.33,True
+any_activity,94491|FRN|OPTUMHEALTH CARE SOLUTIONS,94491,infusion_pumps,FRN,OPTUMHEALTH CARE SOLUTIONS,2024-04-18,False,False,,,False
+any_activity,94589|CBK|ZOLL MEDICAL,94589,ventilators_cpap,CBK,ZOLL MEDICAL,2024-04-30,True,True,2022-04-01,24.02,True
+any_activity,94690|FRN|ICU MEDICAL,94690,infusion_pumps,FRN,ICU MEDICAL,2024-05-07,True,True,2022-05-01,23.23,True
+any_activity,94671|CBK|HAMILTON,94671,ventilators_cpap,CBK,HAMILTON,2024-05-15,True,True,2022-07-01,21.49,True
+any_activity,94718|FRN|CAREFUSION,94718,infusion_pumps,FRN,CAREFUSION,2024-05-21,True,True,2022-05-01,23.69,True
+any_activity,94701|CBK|BAXTER,94701,ventilators_cpap,CBK,BAXTER,2024-05-29,False,True,,,False
+any_activity,94768|FRN|ZYNO MEDICAL,94768,infusion_pumps,FRN,ZYNO MEDICAL,2024-06-04,True,True,2022-06-01,23.16,True
+any_activity,94890|FRN|B BRAUN,94890,infusion_pumps,FRN,B BRAUN,2024-06-14,True,True,2022-06-01,23.49,True
+any_activity,94959|FRN|BAXTER,94959,infusion_pumps,FRN,BAXTER,2024-06-14,True,True,2022-06-01,23.49,True
+any_activity,94855|CBK|MEDTRONIC,94855,ventilators_cpap,CBK,MEDTRONIC,2024-06-24,True,True,2022-06-01,23.82,True
+any_activity,95483|MEA|SMITHS,95483,infusion_pumps,MEA,SMITHS,2024-06-26,True,True,2022-06-01,23.89,True
+any_activity,95078|CBK|RESPIRONICS,95078,ventilators_cpap,CBK,RESPIRONICS,2024-07-16,True,True,2022-07-01,23.52,True
+any_activity,95287|FRN|SMITHS,95287,infusion_pumps,FRN,SMITHS,2024-07-16,True,True,2022-07-01,23.52,True
+any_activity,95078|NOU|RESPIRONICS,95078,ventilators_cpap,NOU,RESPIRONICS,2024-07-16,True,True,2022-11-01,19.52,True
+any_activity,94988|FRN|BAXTER,94988,infusion_pumps,FRN,BAXTER,2024-07-17,True,True,2022-07-01,23.56,True
+any_activity,95042|NOU|BREAS,95042,ventilators_cpap,NOU,BREAS,2024-07-25,True,True,,,False
+any_activity,95093|FRN|B BRAUN,95093,infusion_pumps,FRN,B BRAUN,2024-08-07,True,True,2022-08-01,23.23,True
+any_activity,94937|FRN|CAREFUSION,94937,infusion_pumps,FRN,CAREFUSION,2024-08-15,True,True,2022-08-01,23.49,True
+any_activity,95240|FRN|FRESENIUS,95240,infusion_pumps,FRN,FRESENIUS,2024-08-30,True,True,2022-08-01,23.98,True
+any_activity,95398|CBK|BAXTER,95398,ventilators_cpap,CBK,BAXTER,2024-09-12,False,True,,,False
+any_activity,95382|FRN|ZYNO MEDICAL,95382,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-13,True,True,2022-10-01,22.44,True
+any_activity,95635|FRN|ZYNO MEDICAL,95635,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-30,True,True,2022-10-01,23.0,True
+any_activity,95505|FRN|BAXTER,95505,infusion_pumps,FRN,BAXTER,2024-10-02,True,True,2022-10-01,23.06,True
+any_activity,95486|CBK|RESPIRONICS,95486,ventilators_cpap,CBK,RESPIRONICS,2024-10-07,True,True,2022-10-01,23.23,True
+any_activity,95601|FRN|ZYNO MEDICAL,95601,infusion_pumps,FRN,ZYNO MEDICAL,2024-10-18,True,True,2022-10-01,23.59,True
+any_activity,95586|FRN|ICU MEDICAL,95586,infusion_pumps,FRN,ICU MEDICAL,2024-10-22,True,True,2022-10-01,23.72,True
+any_activity,95848|FRN|BAXTER,95848,infusion_pumps,FRN,BAXTER,2024-11-19,True,True,2022-11-01,23.66,True
+any_activity,95891|FRN|FRESENIUS,95891,infusion_pumps,FRN,FRESENIUS,2024-12-06,True,True,2022-12-01,23.2,True
+any_activity,95842|CBK|BAXTER,95842,ventilators_cpap,CBK,BAXTER,2024-12-20,False,True,,,False
+any_activity,95979|CBK|PERCUSSIONAIRE,95979,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-12-23,True,True,2024-01-01,10.74,True
+any_activity,96092|FRN|BELMONT,96092,infusion_pumps,FRN,BELMONT,2025-01-02,True,True,2023-01-01,23.06,True
+any_activity,96085|FRN|FRESENIUS,96085,infusion_pumps,FRN,FRESENIUS,2025-01-10,True,True,2023-01-01,23.33,True
+any_activity,96069|FRN|CAREFUSION,96069,infusion_pumps,FRN,CAREFUSION,2025-01-23,True,True,2023-01-01,23.75,True
+any_activity,96200|LZG|MEDTRONIC,96200,infusion_pumps,LZG,MEDTRONIC,2025-01-31,True,True,2023-01-01,24.02,True
+any_activity,96136|CBK|VENTEC,96136,ventilators_cpap,CBK,VENTEC,2025-02-03,True,True,2023-02-01,23.2,True
+any_activity,96289|FRN|BAXTER,96289,infusion_pumps,FRN,BAXTER,2025-02-05,True,True,2023-02-01,23.26,True
+any_activity,96388|FRN|BAXTER,96388,infusion_pumps,FRN,BAXTER,2025-03-03,True,True,2023-03-01,23.1,True
+any_activity,96611|CBK|BAXTER,96611,ventilators_cpap,CBK,BAXTER,2025-04-07,False,True,,,False
+any_activity,96624|MEA|SMITHS,96624,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+any_activity,96628|MEA|SMITHS,96628,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+any_activity,96620|MEA|SMITHS,96620,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+any_activity,96624|FRN|SMITHS,96624,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+any_activity,96620|FRN|SMITHS,96620,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+any_activity,96777|FRN|ICU MEDICAL,96777,infusion_pumps,FRN,ICU MEDICAL,2025-04-22,True,True,2023-04-01,23.75,True
+any_activity,96721|FRN|BAXTER,96721,infusion_pumps,FRN,BAXTER,2025-04-24,True,True,2023-04-01,23.82,True
+any_activity,96796|FRN|ZYNO MEDICAL,96796,infusion_pumps,FRN,ZYNO MEDICAL,2025-05-07,True,True,2023-05-01,23.23,True
+any_activity,96948|MNS|RESPIRONICS,96948,ventilators_cpap,MNS,RESPIRONICS,2025-05-09,True,True,2023-05-01,23.29,True
+any_activity,96948|MNT|RESPIRONICS,96948,ventilators_cpap,MNT,RESPIRONICS,2025-05-09,True,True,2023-05-01,23.29,True
+any_activity,96822|FRN|BAXTER,96822,infusion_pumps,FRN,BAXTER,2025-05-12,True,True,2023-05-01,23.39,True
+any_activity,96774|CBK|MEDTRONIC,96774,ventilators_cpap,CBK,MEDTRONIC,2025-05-21,True,True,2023-05-01,23.69,True
+any_activity,97032|CBK|MAQUET,97032,ventilators_cpap,CBK,MAQUET,2025-05-30,True,True,2023-05-01,23.98,True
+any_activity,97079|CBK|HAMILTON,97079,ventilators_cpap,CBK,HAMILTON,2025-06-03,True,True,2023-06-01,23.13,True
+any_activity,97165|FRN|FRESENIUS,97165,infusion_pumps,FRN,FRESENIUS,2025-06-24,True,True,2023-06-01,23.82,True
+any_activity,97191|BZD|RESPIRONICS,97191,ventilators_cpap,BZD,RESPIRONICS,2025-06-30,True,True,2023-06-01,24.02,True
+any_activity,97067|FRN|CAREFUSION,97067,infusion_pumps,FRN,CAREFUSION,2025-07-08,True,True,2023-07-01,23.26,True
+any_activity,97186|FRN|ICU MEDICAL,97186,infusion_pumps,FRN,ICU MEDICAL,2025-07-11,True,True,2023-07-01,23.36,True
+any_activity,97335|FRN|BAXTER,97335,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2023-07-01,23.46,True
+any_activity,97164|FRN|BAXTER,97164,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2023-07-01,23.46,True
+any_activity,97296|FRN|BAXTER,97296,infusion_pumps,FRN,BAXTER,2025-08-04,True,True,2023-08-01,23.13,True
+any_activity,97554|FRN|FRESENIUS,97554,infusion_pumps,FRN,FRESENIUS,2025-09-03,True,True,2023-09-01,23.13,True
+any_activity,97669|FRN|CAREFUSION,97669,infusion_pumps,FRN,CAREFUSION,2025-10-17,True,True,2023-10-01,23.56,True
+any_activity,97939|FRN|FRESENIUS,97939,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2023-11-01,23.13,True
+any_activity,97941|FRN|FRESENIUS,97941,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2023-11-01,23.13,True
+any_activity,97871|FRN|CAREFUSION,97871,infusion_pumps,FRN,CAREFUSION,2025-11-06,True,True,2023-11-01,23.23,True
+any_activity,98009|FRN|FRESENIUS,98009,infusion_pumps,FRN,FRESENIUS,2025-11-14,True,True,2023-11-01,23.49,True
+any_activity,98106|FRN|FRESENIUS,98106,infusion_pumps,FRN,FRESENIUS,2025-11-21,True,True,2023-11-01,23.72,True
+any_activity,98167|FRN|BAXTER,98167,infusion_pumps,FRN,BAXTER,2025-11-28,True,True,2023-11-01,23.95,True
+any_activity,98129|FRN|ICU MEDICAL,98129,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+any_activity,98128|FRN|ICU MEDICAL,98128,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+any_activity,98306|FRN|BAXTER,98306,infusion_pumps,FRN,BAXTER,2026-01-13,True,True,2024-01-01,23.43,True
+any_activity,98699|FRN|FRESENIUS,98699,infusion_pumps,FRN,FRESENIUS,2026-02-04,True,True,2024-02-01,23.2,True
+any_activity,98250|FRN|CAREFUSION,98250,infusion_pumps,FRN,CAREFUSION,2026-02-11,True,True,2024-02-01,23.43,True
+any_activity,98186|LZG|MEDTRONIC,98186,infusion_pumps,LZG,MEDTRONIC,2026-02-13,True,True,2024-02-01,23.49,True
+any_activity,98537|CBK|RESPIRONICS,98537,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-03-01,23.03,True
+any_activity,98540|CBK|RESPIRONICS,98540,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-03-01,23.03,True
+any_activity,98554|NOU|VENTEC,98554,ventilators_cpap,NOU,VENTEC,2026-03-25,True,True,,,False
+any_activity,98872|FRN|ICU MEDICAL,98872,infusion_pumps,FRN,ICU MEDICAL,2026-04-29,True,True,2024-04-01,23.95,True
+any_activity,98929|FRN|FRESENIUS,98929,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-05-01,23.16,True
+any_activity,98945|FRN|FRESENIUS,98945,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-05-01,23.16,True
+any_activity,98888|CBK|VENTEC,98888,ventilators_cpap,CBK,VENTEC,2026-05-08,True,True,2024-05-01,23.23,True
+any_activity,99058|FRN|ICU MEDICAL,99058,infusion_pumps,FRN,ICU MEDICAL,2026-05-12,True,True,2024-05-01,23.36,True
+any_activity,99034|LZG|INSULET,99034,infusion_pumps,LZG,INSULET,2026-05-20,True,True,2024-05-01,23.62,True
+any_activity,99192|FRN|ICU MEDICAL,99192,infusion_pumps,FRN,ICU MEDICAL,2026-06-10,True,True,2024-06-01,23.33,True
+any_activity,99304|CBK|RESMED,99304,ventilators_cpap,CBK,RESMED,2026-06-25,False,True,,,False
+any_activity,99439|CBK|MAQUET,99439,ventilators_cpap,CBK,MAQUET,2026-06-30,True,True,2024-06-01,23.98,True
+any_activity,99445|MNS|BMC MEDICAL,99445,ventilators_cpap,MNS,BMC MEDICAL,2026-07-15,False,False,,,False
+any_activity,99643|BZD|COOPERSURGICAL,99643,ventilators_cpap,BZD,COOPERSURGICAL,2026-08-11,False,True,,,False
+any_activity,99557|FRN|BAXTER,99557,infusion_pumps,FRN,BAXTER,2026-08-11,True,True,2024-08-01,23.33,True
+any_activity,99835|CBK|VENTEC,99835,ventilators_cpap,CBK,VENTEC,2026-09-17,True,True,2024-09-01,23.56,True
+baseline_2sd,76364|FRN|BAXTER,76364,infusion_pumps,FRN,BAXTER,2017-01-26,True,True,,,False
+baseline_2sd,76377|MNT|RESPIRONICS,76377,ventilators_cpap,MNT,RESPIRONICS,2017-02-01,True,True,2017-01-01,0.03,True
+baseline_2sd,76429|CBK|DEL MAR REYNOLDS MEDICAL,76429,ventilators_cpap,CBK,DEL MAR REYNOLDS MEDICAL,2017-02-08,False,False,,,False
+baseline_2sd,76891|CBK|NEWPORT,76891,ventilators_cpap,CBK,NEWPORT,2017-03-30,True,True,,,False
+baseline_2sd,77084|MNT|RESPIRONICS,77084,ventilators_cpap,MNT,RESPIRONICS,2017-04-24,True,True,2017-01-01,2.73,True
+baseline_2sd,77555|FRN|SMITHS,77555,infusion_pumps,FRN,SMITHS,2017-06-05,True,True,2017-02-01,3.19,True
+baseline_2sd,77279|FRN|CAREFUSION,77279,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,,,False
+baseline_2sd,77077|FRN|CAREFUSION,77077,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,,,False
+baseline_2sd,77624|FRN|ICU MEDICAL,77624,infusion_pumps,FRN,ICU MEDICAL,2017-06-15,True,True,2017-01-01,4.44,True
+baseline_2sd,79248|CBK|ZOLL MEDICAL,79248,ventilators_cpap,CBK,ZOLL MEDICAL,2017-06-30,True,True,,,False
+baseline_2sd,77987|FRN|CAREFUSION,77987,infusion_pumps,FRN,CAREFUSION,2017-08-09,True,True,,,False
+baseline_2sd,77761|FRN|SMITHS,77761,infusion_pumps,FRN,SMITHS,2017-08-22,True,True,2017-02-01,5.75,True
+baseline_2sd,78943|MEA|SMITHS,78943,infusion_pumps,MEA,SMITHS,2017-08-24,True,True,,,False
+baseline_2sd,78255|FRN|SMITHS,78255,infusion_pumps,FRN,SMITHS,2017-09-25,True,True,2017-02-01,6.87,True
+baseline_2sd,78302|FRN|WALKMED,78302,infusion_pumps,FRN,WALKMED,2017-09-27,True,True,,,False
+baseline_2sd,79177|FRN|BAXTER,79177,infusion_pumps,FRN,BAXTER,2017-10-06,True,True,2017-09-01,0.2,True
+baseline_2sd,78418|FRN|ICU MEDICAL,78418,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+baseline_2sd,78312|FRN|ICU MEDICAL,78312,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+baseline_2sd,78922|FRN|SMITHS,78922,infusion_pumps,FRN,SMITHS,2017-11-13,True,True,2017-02-01,8.48,True
+baseline_2sd,78588|FRN|CAREFUSION,78588,infusion_pumps,FRN,CAREFUSION,2017-11-17,True,True,,,False
+baseline_2sd,78588|MEA|CAREFUSION,78588,infusion_pumps,MEA,CAREFUSION,2017-11-17,True,True,,,False
+baseline_2sd,79371|CBK|MEDTRONIC,79371,ventilators_cpap,CBK,MEDTRONIC,2017-11-21,True,True,2017-03-01,7.72,True
+baseline_2sd,78673|FRN|SMITHS,78673,infusion_pumps,FRN,SMITHS,2017-11-22,True,True,2017-02-01,8.77,True
+baseline_2sd,81208|FRN|FRESENIUS,81208,infusion_pumps,FRN,FRESENIUS,2017-12-02,True,True,2017-01-01,10.02,True
+baseline_2sd,80173|CBK|DATEX,80173,ventilators_cpap,CBK,DATEX,2017-12-08,True,True,,,False
+baseline_2sd,80467|CBK|HAMILTON,80467,ventilators_cpap,CBK,HAMILTON,2018-03-09,True,True,2017-02-01,12.29,True
+baseline_2sd,78599|CBK|HAMILTON,78599,ventilators_cpap,CBK,HAMILTON,2018-03-12,True,True,2017-02-01,12.39,True
+baseline_2sd,79815|FRN|BAXTER,79815,infusion_pumps,FRN,BAXTER,2018-04-03,True,True,2017-09-01,6.08,True
+baseline_2sd,80490|FRN|SMITHS,80490,infusion_pumps,FRN,SMITHS,2018-04-13,True,True,2017-02-01,13.44,True
+baseline_2sd,82143|FRN|CAREFUSION,82143,infusion_pumps,FRN,CAREFUSION,2018-04-13,True,True,2018-02-01,1.45,True
+baseline_2sd,80027|CBK|DRAEGER,80027,ventilators_cpap,CBK,DRAEGER,2018-04-26,True,True,,,False
+baseline_2sd,80014|FRN|BAXTER,80014,infusion_pumps,FRN,BAXTER,2018-05-08,True,True,2017-09-01,7.23,True
+baseline_2sd,80296|NOU|HUMAN DESIGN MEDICAL,80296,ventilators_cpap,NOU,HUMAN DESIGN MEDICAL,2018-05-08,False,False,,,False
+baseline_2sd,89584|CBK|RESPIRONICS,89584,ventilators_cpap,CBK,RESPIRONICS,2018-06-12,True,True,,,False
+baseline_2sd,80545|BZD|COMPASS HEALTH BRANDS CORPORATE OFFICE,80545,ventilators_cpap,BZD,COMPASS HEALTH BRANDS CORPORATE OFFICE,2018-06-18,False,False,,,False
+baseline_2sd,80355|FRN|BAXTER,80355,infusion_pumps,FRN,BAXTER,2018-06-21,True,True,2017-09-01,8.67,True
+baseline_2sd,80458|CBK|DATEX,80458,ventilators_cpap,CBK,DATEX,2018-06-28,True,True,2018-01-01,4.86,True
+baseline_2sd,80462|CBK|SPACELABS HEALTHCARE,80462,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2018-07-11,True,True,2017-10-01,8.31,True
+baseline_2sd,83480|FRN|ICU MEDICAL,83480,infusion_pumps,FRN,ICU MEDICAL,2018-08-01,True,True,2017-01-01,17.97,True
+baseline_2sd,82078|LZG|MEDTRONIC,82078,infusion_pumps,LZG,MEDTRONIC,2018-08-07,True,True,,,False
+baseline_2sd,81167|CBK|MEDTRONIC,81167,ventilators_cpap,CBK,MEDTRONIC,2018-09-18,True,True,2017-03-01,17.61,True
+baseline_2sd,81341|CBK|GE HEALTHCARE,81341,ventilators_cpap,CBK,GE HEALTHCARE,2018-10-05,True,True,2018-07-01,2.17,True
+baseline_2sd,82003|LZG|INSULET,82003,infusion_pumps,LZG,INSULET,2018-12-18,True,True,2017-06-01,17.61,True
+baseline_2sd,82864|FRN|ZEVEX,82864,infusion_pumps,FRN,ZEVEX,2019-02-27,True,True,2018-02-01,11.96,True
+baseline_2sd,82328|CBK|HAMILTON,82328,ventilators_cpap,CBK,HAMILTON,2019-03-25,True,True,2018-01-01,13.73,True
+baseline_2sd,82997|FRN|INFUTRONIX,82997,infusion_pumps,FRN,INFUTRONIX,2019-05-28,True,True,2018-10-01,6.87,True
+baseline_2sd,83318|BZD|GALEMED,83318,ventilators_cpap,BZD,GALEMED,2019-05-30,False,True,,,False
+baseline_2sd,83119|BZD|TELEFLEX,83119,ventilators_cpap,BZD,TELEFLEX,2019-06-14,False,True,2018-04-01,13.47,True
+baseline_2sd,83138|FRN|FENWAL,83138,infusion_pumps,FRN,FENWAL,2019-06-24,False,False,,,False
+baseline_2sd,83433|LZG|MEDTRONIC,83433,infusion_pumps,LZG,MEDTRONIC,2019-06-27,True,True,2018-08-01,9.86,True
+baseline_2sd,83386|LZG|VALERITAS,83386,infusion_pumps,LZG,VALERITAS,2019-07-03,True,True,2018-01-01,17.02,True
+baseline_2sd,83425|CBK|GE HEALTHCARE,83425,ventilators_cpap,CBK,GE HEALTHCARE,2019-07-19,True,True,2018-07-01,11.6,True
+baseline_2sd,83549|FRN|ICU MEDICAL,83549,infusion_pumps,FRN,ICU MEDICAL,2019-07-29,True,True,2017-08-01,22.9,True
+baseline_2sd,83980|MNT|RESPIRONICS,83980,ventilators_cpap,MNT,RESPIRONICS,2019-09-11,True,True,2018-10-01,10.35,True
+baseline_2sd,84985|FRN|CME AMERICA,84985,infusion_pumps,FRN,CME AMERICA,2019-09-16,True,True,,,False
+baseline_2sd,84232|FRN|SMITHS,84232,infusion_pumps,FRN,SMITHS,2019-10-28,True,True,2017-11-01,22.9,True
+baseline_2sd,84406|CBK|RESPIRONICS,84406,ventilators_cpap,CBK,RESPIRONICS,2019-11-19,True,True,2019-08-01,2.63,True
+baseline_2sd,84337|CBK|VYAIRE,84337,ventilators_cpap,CBK,VYAIRE,2019-11-25,True,True,2019-06-01,4.86,True
+baseline_2sd,84551|MNT|RESMED,84551,ventilators_cpap,MNT,RESMED,2019-12-12,True,True,2018-12-01,11.37,True
+baseline_2sd,85033|FRN|CME AMERICA,85033,infusion_pumps,FRN,CME AMERICA,2020-01-07,True,True,,,False
+baseline_2sd,84828|NOU|BREAS,84828,ventilators_cpap,NOU,BREAS,2020-01-28,True,True,2018-10-01,14.92,True
+baseline_2sd,84579|FRN|CAREFUSION,84579,infusion_pumps,FRN,CAREFUSION,2020-02-04,True,True,2018-02-01,23.2,True
+baseline_2sd,84982|LZG|INSULET,84982,infusion_pumps,LZG,INSULET,2020-02-13,True,True,2018-10-01,15.44,True
+baseline_2sd,85479|FRN|CME AMERICA,85479,infusion_pumps,FRN,CME AMERICA,2020-02-27,True,True,,,False
+baseline_2sd,85113|MNT|RESPIRONICS,85113,ventilators_cpap,MNT,RESPIRONICS,2020-03-05,True,True,2018-10-01,16.13,True
+baseline_2sd,88701|FRN|SMITHS,88701,infusion_pumps,FRN,SMITHS,2020-03-24,True,True,2018-03-01,23.79,True
+baseline_2sd,85552|LZG|INSULET,85552,infusion_pumps,LZG,INSULET,2020-04-02,True,True,2018-10-01,17.05,True
+baseline_2sd,85912|FRN|SMITHS,85912,infusion_pumps,FRN,SMITHS,2020-06-26,True,True,2019-05-01,12.88,True
+baseline_2sd,86062|FRN|BAXTER,86062,infusion_pumps,FRN,BAXTER,2020-06-30,True,True,2020-03-01,2.99,True
+baseline_2sd,85954|FRN|CAREFUSION,85954,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2019-04-01,14.03,True
+baseline_2sd,85919|FRN|CAREFUSION,85919,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2019-04-01,14.03,True
+baseline_2sd,85691|FRN|CAREFUSION,85691,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2019-04-01,14.03,True
+baseline_2sd,85915|FRN|CAREFUSION,85915,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2019-04-01,14.03,True
+baseline_2sd,86107|CBK|GE HEALTHCARE,86107,ventilators_cpap,CBK,GE HEALTHCARE,2020-07-14,False,True,2018-07-01,23.46,True
+baseline_2sd,86047|FRN|CME AMERICA,86047,infusion_pumps,FRN,CME AMERICA,2020-07-30,True,True,2020-03-01,3.98,True
+baseline_2sd,85962|FRN|CAREFUSION,85962,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2019-04-01,15.18,True
+baseline_2sd,86005|FRN|CAREFUSION,86005,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2019-04-01,15.18,True
+baseline_2sd,85900|FRN|CAREFUSION,85900,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2019-04-01,15.18,True
+baseline_2sd,93192|CBK|PERCUSSIONAIRE,93192,ventilators_cpap,CBK,PERCUSSIONAIRE,2020-09-14,False,True,,,False
+baseline_2sd,86548|CBK|GETINGE,86548,ventilators_cpap,CBK,GETINGE,2020-09-17,False,True,,,False
+baseline_2sd,86643|CBK|MEDTRONIC,86643,ventilators_cpap,CBK,MEDTRONIC,2020-10-16,True,True,,,False
+baseline_2sd,86646|MNT|RESPIRONICS,86646,ventilators_cpap,MNT,RESPIRONICS,2020-10-30,True,True,2018-10-01,23.98,True
+baseline_2sd,86697|MNT|RESPIRONICS,86697,ventilators_cpap,MNT,RESPIRONICS,2020-11-02,True,True,2018-12-01,22.08,True
+baseline_2sd,86756|CBK|HILL ROM MANUFACTURING,86756,ventilators_cpap,CBK,HILL ROM MANUFACTURING,2020-11-12,False,False,,,False
+baseline_2sd,86758|FRN|BAXTER,86758,infusion_pumps,FRN,BAXTER,2020-11-23,True,True,2020-03-01,7.79,True
+baseline_2sd,86788|FRN|BAXTER,86788,infusion_pumps,FRN,BAXTER,2021-01-06,True,True,2020-03-01,9.23,True
+baseline_2sd,87314|MNT|RESPIRONICS,87314,ventilators_cpap,MNT,RESPIRONICS,2021-01-06,True,True,2019-01-01,23.2,True
+baseline_2sd,87305|LZG|INSULET,87305,infusion_pumps,LZG,INSULET,2021-02-01,True,True,2019-04-01,21.13,True
+baseline_2sd,88170|FRN|BIOMEDICAL EQUIPMENT SERVICE BMES,88170,infusion_pumps,FRN,BIOMEDICAL EQUIPMENT SERVICE BMES,2021-02-25,False,False,,,False
+baseline_2sd,87470|FRN|TENACORE,87470,infusion_pumps,FRN,TENACORE,2021-02-25,False,False,,,False
+baseline_2sd,87773|FRN|STEP HAR MEDICAL,87773,infusion_pumps,FRN,STEP HAR MEDICAL,2021-02-26,False,False,,,False
+baseline_2sd,87387|FRN|CAREFUSION,87387,infusion_pumps,FRN,CAREFUSION,2021-03-03,True,True,2019-04-01,22.11,True
+baseline_2sd,87568|FRN|BAXTER,87568,infusion_pumps,FRN,BAXTER,2021-03-19,True,True,2020-03-01,11.6,True
+baseline_2sd,87483|FRN|PACIFIC MEDICAL GROUP,87483,infusion_pumps,FRN,PACIFIC MEDICAL GROUP,2021-03-24,False,False,,,False
+baseline_2sd,87768|FRN|BIOMED,87768,infusion_pumps,FRN,BIOMED,2021-03-25,False,False,,,False
+baseline_2sd,87657|FRN|INFUSION,87657,infusion_pumps,FRN,INFUSION,2021-03-26,False,True,,,False
+baseline_2sd,87753|MNT|RESPIRONICS,87753,ventilators_cpap,MNT,RESPIRONICS,2021-04-06,True,True,2019-07-01,20.21,True
+baseline_2sd,87753|MNS|RESPIRONICS,87753,ventilators_cpap,MNS,RESPIRONICS,2021-04-06,True,True,2019-04-01,23.23,True
+baseline_2sd,87819|CBK|DRAEGER,87819,ventilators_cpap,CBK,DRAEGER,2021-04-16,True,True,2020-07-01,8.51,True
+baseline_2sd,87838|CBK|VENTEC,87838,ventilators_cpap,CBK,VENTEC,2021-05-10,True,True,2019-07-01,21.32,True
+baseline_2sd,88073|FRN|BAXTER,88073,infusion_pumps,FRN,BAXTER,2021-06-04,True,True,2020-03-01,14.13,True
+baseline_2sd,88071|CBK|RESPIRONICS,88071,ventilators_cpap,CBK,RESPIRONICS,2021-06-14,True,True,2019-08-01,21.45,True
+baseline_2sd,88058|MNS|RESPIRONICS,88058,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,2019-07-01,22.47,True
+baseline_2sd,88071|MNS|RESPIRONICS,88071,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,2019-07-01,22.47,True
+baseline_2sd,88058|BZD|RESPIRONICS,88058,ventilators_cpap,BZD,RESPIRONICS,2021-06-14,True,True,2020-08-01,9.43,True
+baseline_2sd,88127|MNT|RESPIRONICS,88127,ventilators_cpap,MNT,RESPIRONICS,2021-06-18,True,True,2019-07-01,22.6,True
+baseline_2sd,88246|FRN|BAXTER,88246,infusion_pumps,FRN,BAXTER,2021-07-07,True,True,2020-03-01,15.21,True
+baseline_2sd,88411|CBK|NIHON KOHDEN ORANGEMED,88411,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2021-07-20,True,True,2020-12-01,6.6,True
+baseline_2sd,88333|CBK|RESPIRONICS,88333,ventilators_cpap,CBK,RESPIRONICS,2021-07-26,True,True,2019-08-01,22.83,True
+baseline_2sd,88333|NOU|RESPIRONICS,88333,ventilators_cpap,NOU,RESPIRONICS,2021-07-26,False,True,,,False
+baseline_2sd,88362|LZG|ROCHE,88362,infusion_pumps,LZG,ROCHE,2021-07-28,True,True,2019-07-01,23.92,True
+baseline_2sd,88635|CBK|DRAEGER,88635,ventilators_cpap,CBK,DRAEGER,2021-09-10,True,True,2020-07-01,13.34,True
+baseline_2sd,89711|FRN|INFUTRONIX,89711,infusion_pumps,FRN,INFUTRONIX,2021-10-19,True,True,2020-07-01,14.62,True
+baseline_2sd,88987|CBK|MEDTRONIC,88987,ventilators_cpap,CBK,MEDTRONIC,2021-11-04,True,True,,,False
+baseline_2sd,89366|CBK|VYAIRE,89366,ventilators_cpap,CBK,VYAIRE,2021-12-20,True,True,2020-04-01,19.68,True
+baseline_2sd,89276|CBK|RESPIRONICS,89276,ventilators_cpap,CBK,RESPIRONICS,2021-12-22,True,True,,,False
+baseline_2sd,89017|FRN|BAXTER,89017,infusion_pumps,FRN,BAXTER,2021-12-29,True,True,2020-03-01,20.96,True
+baseline_2sd,89490|MNT|RESPIRONICS,89490,ventilators_cpap,MNT,RESPIRONICS,2022-01-24,True,True,2021-09-01,3.81,True
+baseline_2sd,89660|MEA|B BRAUN,89660,infusion_pumps,MEA,B BRAUN,2022-02-07,True,True,2020-07-01,18.27,True
+baseline_2sd,89702|CBK|DRAEGER,89702,ventilators_cpap,CBK,DRAEGER,2022-02-14,True,True,2020-07-01,18.5,True
+baseline_2sd,89767|MNT|RESPIRONICS,89767,ventilators_cpap,MNT,RESPIRONICS,2022-02-28,True,True,2021-09-01,4.96,True
+baseline_2sd,89776|CBK|BREAS,89776,ventilators_cpap,CBK,BREAS,2022-03-21,False,True,2021-02-01,12.68,True
+baseline_2sd,89820|CBK|MEDTRONIC,89820,ventilators_cpap,CBK,MEDTRONIC,2022-03-25,True,True,,,False
+baseline_2sd,89913|FRN|SMITHS,89913,infusion_pumps,FRN,SMITHS,2022-04-18,True,True,2020-04-01,23.59,True
+baseline_2sd,90076|CBK|GE HEALTHCARE,90076,ventilators_cpap,CBK,GE HEALTHCARE,2022-04-18,False,True,,,False
+baseline_2sd,92973|FRN|FRESENIUS,92973,infusion_pumps,FRN,FRESENIUS,2022-04-22,True,True,2020-09-01,18.69,True
+baseline_2sd,90433|NOU|BREAS,90433,ventilators_cpap,NOU,BREAS,2022-06-02,True,True,2021-03-01,14.06,True
+baseline_2sd,90576|CBK|HAMILTON,90576,ventilators_cpap,CBK,HAMILTON,2022-06-27,True,True,2020-10-01,19.84,True
+baseline_2sd,90579|CBK|GETINGE,90579,ventilators_cpap,CBK,GETINGE,2022-07-20,True,True,,,False
+baseline_2sd,90648|CBK|GETINGE,90648,ventilators_cpap,CBK,GETINGE,2022-07-21,True,True,,,False
+baseline_2sd,90695|MNS|RESPIRONICS,90695,ventilators_cpap,MNS,RESPIRONICS,2022-08-26,True,True,2021-07-01,12.85,True
+baseline_2sd,90705|BZD|RESPIRONICS,90705,ventilators_cpap,BZD,RESPIRONICS,2022-09-06,True,True,2021-03-01,17.22,True
+baseline_2sd,93958|FRN|FRESENIUS,93958,infusion_pumps,FRN,FRESENIUS,2022-09-16,True,True,2020-09-01,23.52,True
+baseline_2sd,90916|CBK|HAMILTON,90916,ventilators_cpap,CBK,HAMILTON,2022-09-22,True,True,2020-10-01,22.7,True
+baseline_2sd,91052|FRN|SMITHS,91052,infusion_pumps,FRN,SMITHS,2022-10-10,True,True,2021-05-01,16.33,True
+baseline_2sd,90987|LZG|INSULET,90987,infusion_pumps,LZG,INSULET,2022-10-17,True,True,2021-07-01,14.55,True
+baseline_2sd,91273|FRN|BAYER,91273,infusion_pumps,FRN,BAYER,2022-11-30,False,True,,,False
+baseline_2sd,91293|CBK|RESPIRONICS,91293,ventilators_cpap,CBK,RESPIRONICS,2022-12-07,True,True,2022-02-01,9.26,True
+baseline_2sd,91538|CBK|DRAEGER,91538,ventilators_cpap,CBK,DRAEGER,2023-01-23,True,True,,,False
+baseline_2sd,91582|FRN|CAREFUSION,91582,infusion_pumps,FRN,CAREFUSION,2023-01-24,True,True,2021-12-01,12.78,True
+baseline_2sd,91506|CBK|BAXTER,91506,ventilators_cpap,CBK,BAXTER,2023-01-25,False,True,,,False
+baseline_2sd,91837|BZD|RESPIRONICS,91837,ventilators_cpap,BZD,RESPIRONICS,2023-02-10,True,True,2021-03-01,22.37,True
+baseline_2sd,91846|FRN|IRADIMED,91846,infusion_pumps,FRN,IRADIMED,2023-02-24,True,True,2022-06-01,7.85,True
+baseline_2sd,91832|CBK|RESPIRONICS,91832,ventilators_cpap,CBK,RESPIRONICS,2023-03-01,True,True,2022-02-01,12.02,True
+baseline_2sd,91783|FRN|FRESENIUS,91783,infusion_pumps,FRN,FRESENIUS,2023-03-10,True,True,2021-11-01,15.28,True
+baseline_2sd,91925|CBK|HAMILTON,91925,ventilators_cpap,CBK,HAMILTON,2023-03-14,True,True,2022-07-01,7.43,True
+baseline_2sd,91874|FRN|ICU MEDICAL,91874,infusion_pumps,FRN,ICU MEDICAL,2023-03-22,True,True,2021-05-01,21.68,True
+baseline_2sd,93648|CBK|PERCUSSIONAIRE,93648,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-03-28,False,True,,,False
+baseline_2sd,92049|BZD|DRAEGER,92049,ventilators_cpap,BZD,DRAEGER,2023-04-17,False,False,,,False
+baseline_2sd,92279|FRN|AVANOS,92279,infusion_pumps,FRN,AVANOS,2023-04-24,True,True,,,False
+baseline_2sd,92048|CBK|RESPIRONICS,92048,ventilators_cpap,CBK,RESPIRONICS,2023-05-01,True,True,2022-02-01,14.03,True
+baseline_2sd,92243|CBK|VYAIRE,92243,ventilators_cpap,CBK,VYAIRE,2023-05-05,True,True,2021-11-01,17.12,True
+baseline_2sd,93968|FRN|FRESENIUS,93968,infusion_pumps,FRN,FRESENIUS,2023-05-10,True,True,2021-11-01,17.28,True
+baseline_2sd,92448|MNT|DRE MEDICAL GROUP,92448,ventilators_cpap,MNT,DRE MEDICAL GROUP,2023-05-15,False,False,,,False
+baseline_2sd,92515|CBK|RESPIRONICS,92515,ventilators_cpap,CBK,RESPIRONICS,2023-05-25,True,True,2022-02-01,14.82,True
+baseline_2sd,92443|CBK|DRAEGER,92443,ventilators_cpap,CBK,DRAEGER,2023-06-12,True,True,,,False
+baseline_2sd,92562|FRN|BAXTER,92562,infusion_pumps,FRN,BAXTER,2023-06-15,True,True,2022-03-01,14.49,True
+baseline_2sd,92482|CBK|HAMILTON,92482,ventilators_cpap,CBK,HAMILTON,2023-06-15,True,True,2022-07-01,10.48,True
+baseline_2sd,99247|BZD|3B MEDICAL,99247,ventilators_cpap,BZD,3B MEDICAL,2023-06-15,False,True,,,False
+baseline_2sd,92629|CBK|DRAEGER,92629,ventilators_cpap,CBK,DRAEGER,2023-07-12,True,True,,,False
+baseline_2sd,92630|FRN|ICU MEDICAL,92630,infusion_pumps,FRN,ICU MEDICAL,2023-07-13,True,True,2021-08-01,22.37,True
+baseline_2sd,92873|CBK|HAMILTON,92873,ventilators_cpap,CBK,HAMILTON,2023-07-26,True,True,2022-07-01,11.83,True
+baseline_2sd,92956|FRN|SMITHS,92956,infusion_pumps,FRN,SMITHS,2023-08-16,True,True,2021-11-01,20.5,True
+baseline_2sd,93015|MNT|RESPIRONICS,93015,ventilators_cpap,MNT,RESPIRONICS,2023-08-25,True,True,2021-09-01,22.8,True
+baseline_2sd,93105|FRN|EITAN,93105,infusion_pumps,FRN,EITAN,2023-09-11,True,True,,,False
+baseline_2sd,93122|CBK|RESMED,93122,ventilators_cpap,CBK,RESMED,2023-09-13,True,True,,,False
+baseline_2sd,93106|FRN|CAREFUSION,93106,infusion_pumps,FRN,CAREFUSION,2023-09-15,True,True,2021-12-01,20.47,True
+baseline_2sd,92978|FRN|B BRAUN,92978,infusion_pumps,FRN,B BRAUN,2023-09-21,True,True,2022-08-01,12.68,True
+baseline_2sd,93331|NOU|BREAS,93331,ventilators_cpap,NOU,BREAS,2023-10-13,True,True,2022-05-01,16.43,True
+baseline_2sd,93191|FRN|BAXTER,93191,infusion_pumps,FRN,BAXTER,2023-10-13,True,True,2022-03-01,18.43,True
+baseline_2sd,93499|BZD|RESMED,93499,ventilators_cpap,BZD,RESMED,2023-11-20,True,True,2023-01-01,9.63,True
+baseline_2sd,93609|CBK|RESPIRONICS,93609,ventilators_cpap,CBK,RESPIRONICS,2023-11-27,True,True,2022-02-01,20.93,True
+baseline_2sd,93474|FRN|FRESENIUS,93474,infusion_pumps,FRN,FRESENIUS,2023-11-29,True,True,2021-11-01,23.95,True
+baseline_2sd,93476|CBK|PERCUSSIONAIRE,93476,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-12-12,False,True,,,False
+baseline_2sd,93757|FRN|SMITHS,93757,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2022-01-01,22.57,True
+baseline_2sd,93754|FRN|SMITHS,93754,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2022-01-01,22.57,True
+baseline_2sd,93771|FRN|SMITHS,93771,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2022-01-01,22.57,True
+baseline_2sd,93857|FRN|ZYNO MEDICAL,93857,infusion_pumps,FRN,ZYNO MEDICAL,2023-12-20,True,True,2022-08-01,15.64,True
+baseline_2sd,93806|CBK|VENTEC,93806,ventilators_cpap,CBK,VENTEC,2024-01-09,True,True,2022-03-01,21.32,True
+baseline_2sd,94124|FRN|INFUTRONIX,94124,infusion_pumps,FRN,INFUTRONIX,2024-02-21,True,True,2022-09-01,16.72,True
+baseline_2sd,94225|FRN|SMITHS,94225,infusion_pumps,FRN,SMITHS,2024-02-27,True,True,2022-05-01,20.93,True
+baseline_2sd,94225|MEA|SMITHS,94225,infusion_pumps,MEA,SMITHS,2024-02-27,True,True,2022-05-01,20.93,True
+baseline_2sd,94169|BZD|SLEEPNET,94169,ventilators_cpap,BZD,SLEEPNET,2024-03-01,False,False,,,False
+baseline_2sd,94228|FRN|FRESENIUS,94228,infusion_pumps,FRN,FRESENIUS,2024-03-07,True,True,2022-06-01,20.24,True
+baseline_2sd,94263|CBK|RESPIRONICS,94263,ventilators_cpap,CBK,RESPIRONICS,2024-03-19,True,True,2022-03-01,23.62,True
+baseline_2sd,94446|FRN|BAXTER,94446,infusion_pumps,FRN,BAXTER,2024-03-20,True,True,2022-03-01,23.66,True
+baseline_2sd,94475|MNS|RESPIRONICS,94475,ventilators_cpap,MNS,RESPIRONICS,2024-03-26,True,True,2022-03-01,23.85,True
+baseline_2sd,94475|MNT|RESPIRONICS,94475,ventilators_cpap,MNT,RESPIRONICS,2024-03-26,True,True,2023-07-01,7.85,True
+baseline_2sd,94487|MNS|RESPIRONICS,94487,ventilators_cpap,MNS,RESPIRONICS,2024-04-01,True,True,2022-06-01,21.06,True
+baseline_2sd,94451|FRN|BAXTER,94451,infusion_pumps,FRN,BAXTER,2024-04-09,True,True,,,False
+baseline_2sd,94491|FRN|OPTUMHEALTH CARE SOLUTIONS,94491,infusion_pumps,FRN,OPTUMHEALTH CARE SOLUTIONS,2024-04-18,False,False,,,False
+baseline_2sd,94589|CBK|ZOLL MEDICAL,94589,ventilators_cpap,CBK,ZOLL MEDICAL,2024-04-30,True,True,2023-05-01,11.01,True
+baseline_2sd,94690|FRN|ICU MEDICAL,94690,infusion_pumps,FRN,ICU MEDICAL,2024-05-07,True,True,2022-10-01,18.2,True
+baseline_2sd,94671|CBK|HAMILTON,94671,ventilators_cpap,CBK,HAMILTON,2024-05-15,True,True,2022-07-01,21.49,True
+baseline_2sd,94718|FRN|CAREFUSION,94718,infusion_pumps,FRN,CAREFUSION,2024-05-21,True,True,,,False
+baseline_2sd,94701|CBK|BAXTER,94701,ventilators_cpap,CBK,BAXTER,2024-05-29,False,True,,,False
+baseline_2sd,94768|FRN|ZYNO MEDICAL,94768,infusion_pumps,FRN,ZYNO MEDICAL,2024-06-04,True,True,2022-08-01,21.13,True
+baseline_2sd,94959|FRN|BAXTER,94959,infusion_pumps,FRN,BAXTER,2024-06-14,True,True,,,False
+baseline_2sd,94890|FRN|B BRAUN,94890,infusion_pumps,FRN,B BRAUN,2024-06-14,True,True,2022-08-01,21.45,True
+baseline_2sd,94855|CBK|MEDTRONIC,94855,ventilators_cpap,CBK,MEDTRONIC,2024-06-24,True,True,2022-11-01,18.79,True
+baseline_2sd,95483|MEA|SMITHS,95483,infusion_pumps,MEA,SMITHS,2024-06-26,True,True,2022-08-01,21.85,True
+baseline_2sd,95078|CBK|RESPIRONICS,95078,ventilators_cpap,CBK,RESPIRONICS,2024-07-16,True,True,2022-09-01,21.52,True
+baseline_2sd,95078|NOU|RESPIRONICS,95078,ventilators_cpap,NOU,RESPIRONICS,2024-07-16,True,True,2022-11-01,19.52,True
+baseline_2sd,95287|FRN|SMITHS,95287,infusion_pumps,FRN,SMITHS,2024-07-16,True,True,2022-10-01,20.5,True
+baseline_2sd,94988|FRN|BAXTER,94988,infusion_pumps,FRN,BAXTER,2024-07-17,True,True,,,False
+baseline_2sd,95042|NOU|BREAS,95042,ventilators_cpap,NOU,BREAS,2024-07-25,True,True,,,False
+baseline_2sd,95093|FRN|B BRAUN,95093,infusion_pumps,FRN,B BRAUN,2024-08-07,True,True,2022-08-01,23.23,True
+baseline_2sd,94937|FRN|CAREFUSION,94937,infusion_pumps,FRN,CAREFUSION,2024-08-15,True,True,,,False
+baseline_2sd,95240|FRN|FRESENIUS,95240,infusion_pumps,FRN,FRESENIUS,2024-08-30,True,True,2023-06-01,14.03,True
+baseline_2sd,95398|CBK|BAXTER,95398,ventilators_cpap,CBK,BAXTER,2024-09-12,False,True,,,False
+baseline_2sd,95382|FRN|ZYNO MEDICAL,95382,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-13,True,True,2022-10-01,22.44,True
+baseline_2sd,95635|FRN|ZYNO MEDICAL,95635,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-30,True,True,2022-10-01,23.0,True
+baseline_2sd,95505|FRN|BAXTER,95505,infusion_pumps,FRN,BAXTER,2024-10-02,True,True,,,False
+baseline_2sd,95486|CBK|RESPIRONICS,95486,ventilators_cpap,CBK,RESPIRONICS,2024-10-07,True,True,2022-10-01,23.23,True
+baseline_2sd,95601|FRN|ZYNO MEDICAL,95601,infusion_pumps,FRN,ZYNO MEDICAL,2024-10-18,True,True,2022-10-01,23.59,True
+baseline_2sd,95586|FRN|ICU MEDICAL,95586,infusion_pumps,FRN,ICU MEDICAL,2024-10-22,True,True,2022-10-01,23.72,True
+baseline_2sd,95848|FRN|BAXTER,95848,infusion_pumps,FRN,BAXTER,2024-11-19,True,True,,,False
+baseline_2sd,95891|FRN|FRESENIUS,95891,infusion_pumps,FRN,FRESENIUS,2024-12-06,True,True,2023-06-01,17.25,True
+baseline_2sd,95842|CBK|BAXTER,95842,ventilators_cpap,CBK,BAXTER,2024-12-20,False,True,,,False
+baseline_2sd,95979|CBK|PERCUSSIONAIRE,95979,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-12-23,True,True,2024-01-01,10.74,True
+baseline_2sd,96092|FRN|BELMONT,96092,infusion_pumps,FRN,BELMONT,2025-01-02,True,True,2023-04-01,20.14,True
+baseline_2sd,96085|FRN|FRESENIUS,96085,infusion_pumps,FRN,FRESENIUS,2025-01-10,True,True,2023-06-01,18.4,True
+baseline_2sd,96069|FRN|CAREFUSION,96069,infusion_pumps,FRN,CAREFUSION,2025-01-23,True,True,,,False
+baseline_2sd,96200|LZG|MEDTRONIC,96200,infusion_pumps,LZG,MEDTRONIC,2025-01-31,True,True,2024-05-01,8.05,True
+baseline_2sd,96136|CBK|VENTEC,96136,ventilators_cpap,CBK,VENTEC,2025-02-03,True,True,2024-10-01,3.12,True
+baseline_2sd,96289|FRN|BAXTER,96289,infusion_pumps,FRN,BAXTER,2025-02-05,True,True,,,False
+baseline_2sd,96388|FRN|BAXTER,96388,infusion_pumps,FRN,BAXTER,2025-03-03,True,True,2025-02-01,0.1,True
+baseline_2sd,96611|CBK|BAXTER,96611,ventilators_cpap,CBK,BAXTER,2025-04-07,False,True,,,False
+baseline_2sd,96620|MEA|SMITHS,96620,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-06-01,21.36,True
+baseline_2sd,96624|FRN|SMITHS,96624,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2024-04-01,11.33,True
+baseline_2sd,96628|MEA|SMITHS,96628,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-06-01,21.36,True
+baseline_2sd,96620|FRN|SMITHS,96620,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2024-04-01,11.33,True
+baseline_2sd,96624|MEA|SMITHS,96624,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-06-01,21.36,True
+baseline_2sd,96777|FRN|ICU MEDICAL,96777,infusion_pumps,FRN,ICU MEDICAL,2025-04-22,True,True,2023-12-01,15.7,True
+baseline_2sd,96721|FRN|BAXTER,96721,infusion_pumps,FRN,BAXTER,2025-04-24,True,True,2025-02-01,1.81,True
+baseline_2sd,96796|FRN|ZYNO MEDICAL,96796,infusion_pumps,FRN,ZYNO MEDICAL,2025-05-07,True,True,2023-05-01,23.23,True
+baseline_2sd,96948|MNS|RESPIRONICS,96948,ventilators_cpap,MNS,RESPIRONICS,2025-05-09,True,True,2023-11-01,17.28,True
+baseline_2sd,96948|MNT|RESPIRONICS,96948,ventilators_cpap,MNT,RESPIRONICS,2025-05-09,True,True,2023-07-01,21.29,True
+baseline_2sd,96822|FRN|BAXTER,96822,infusion_pumps,FRN,BAXTER,2025-05-12,True,True,2025-02-01,2.4,True
+baseline_2sd,96774|CBK|MEDTRONIC,96774,ventilators_cpap,CBK,MEDTRONIC,2025-05-21,True,True,2023-06-01,22.7,True
+baseline_2sd,97032|CBK|MAQUET,97032,ventilators_cpap,CBK,MAQUET,2025-05-30,True,True,,,False
+baseline_2sd,97079|CBK|HAMILTON,97079,ventilators_cpap,CBK,HAMILTON,2025-06-03,True,True,2023-07-01,22.11,True
+baseline_2sd,97165|FRN|FRESENIUS,97165,infusion_pumps,FRN,FRESENIUS,2025-06-24,True,True,2023-06-01,23.82,True
+baseline_2sd,97191|BZD|RESPIRONICS,97191,ventilators_cpap,BZD,RESPIRONICS,2025-06-30,True,True,2023-12-01,17.97,True
+baseline_2sd,97067|FRN|CAREFUSION,97067,infusion_pumps,FRN,CAREFUSION,2025-07-08,True,True,,,False
+baseline_2sd,97186|FRN|ICU MEDICAL,97186,infusion_pumps,FRN,ICU MEDICAL,2025-07-11,True,True,2023-12-01,18.33,True
+baseline_2sd,97164|FRN|BAXTER,97164,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2025-02-01,4.47,True
+baseline_2sd,97335|FRN|BAXTER,97335,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2025-02-01,4.47,True
+baseline_2sd,97296|FRN|BAXTER,97296,infusion_pumps,FRN,BAXTER,2025-08-04,True,True,2025-02-01,5.16,True
+baseline_2sd,97554|FRN|FRESENIUS,97554,infusion_pumps,FRN,FRESENIUS,2025-09-03,True,True,2024-03-01,17.12,True
+baseline_2sd,97669|FRN|CAREFUSION,97669,infusion_pumps,FRN,CAREFUSION,2025-10-17,True,True,2025-07-01,2.56,True
+baseline_2sd,97941|FRN|FRESENIUS,97941,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2024-03-01,19.12,True
+baseline_2sd,97939|FRN|FRESENIUS,97939,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2024-03-01,19.12,True
+baseline_2sd,97871|FRN|CAREFUSION,97871,infusion_pumps,FRN,CAREFUSION,2025-11-06,True,True,2025-07-01,3.22,True
+baseline_2sd,98009|FRN|FRESENIUS,98009,infusion_pumps,FRN,FRESENIUS,2025-11-14,True,True,2024-03-01,19.48,True
+baseline_2sd,98106|FRN|FRESENIUS,98106,infusion_pumps,FRN,FRESENIUS,2025-11-21,True,True,2024-03-01,19.71,True
+baseline_2sd,98167|FRN|BAXTER,98167,infusion_pumps,FRN,BAXTER,2025-11-28,True,True,2025-02-01,8.97,True
+baseline_2sd,98129|FRN|ICU MEDICAL,98129,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+baseline_2sd,98128|FRN|ICU MEDICAL,98128,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+baseline_2sd,98306|FRN|BAXTER,98306,infusion_pumps,FRN,BAXTER,2026-01-13,True,True,2025-02-01,10.48,True
+baseline_2sd,98699|FRN|FRESENIUS,98699,infusion_pumps,FRN,FRESENIUS,2026-02-04,True,True,2024-03-01,22.18,True
+baseline_2sd,98250|FRN|CAREFUSION,98250,infusion_pumps,FRN,CAREFUSION,2026-02-11,True,True,2025-07-01,6.41,True
+baseline_2sd,98186|LZG|MEDTRONIC,98186,infusion_pumps,LZG,MEDTRONIC,2026-02-13,True,True,2024-05-01,20.47,True
+baseline_2sd,98540|CBK|RESPIRONICS,98540,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-10-01,16.0,True
+baseline_2sd,98537|CBK|RESPIRONICS,98537,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-10-01,16.0,True
+baseline_2sd,98554|NOU|VENTEC,98554,ventilators_cpap,NOU,VENTEC,2026-03-25,True,True,,,False
+baseline_2sd,98872|FRN|ICU MEDICAL,98872,infusion_pumps,FRN,ICU MEDICAL,2026-04-29,True,True,2024-10-01,17.91,True
+baseline_2sd,98945|FRN|FRESENIUS,98945,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-06-01,22.18,True
+baseline_2sd,98929|FRN|FRESENIUS,98929,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-06-01,22.18,True
+baseline_2sd,98888|CBK|VENTEC,98888,ventilators_cpap,CBK,VENTEC,2026-05-08,True,True,2024-10-01,18.2,True
+baseline_2sd,99058|FRN|ICU MEDICAL,99058,infusion_pumps,FRN,ICU MEDICAL,2026-05-12,True,True,2024-10-01,18.33,True
+baseline_2sd,99034|LZG|INSULET,99034,infusion_pumps,LZG,INSULET,2026-05-20,True,True,,,False
+baseline_2sd,99192|FRN|ICU MEDICAL,99192,infusion_pumps,FRN,ICU MEDICAL,2026-06-10,True,True,2024-10-01,19.29,True
+baseline_2sd,99304|CBK|RESMED,99304,ventilators_cpap,CBK,RESMED,2026-06-25,False,True,,,False
+baseline_2sd,99439|CBK|MAQUET,99439,ventilators_cpap,CBK,MAQUET,2026-06-30,True,True,,,False
+baseline_2sd,99445|MNS|BMC MEDICAL,99445,ventilators_cpap,MNS,BMC MEDICAL,2026-07-15,False,False,,,False
+baseline_2sd,99643|BZD|COOPERSURGICAL,99643,ventilators_cpap,BZD,COOPERSURGICAL,2026-08-11,False,True,,,False
+baseline_2sd,99557|FRN|BAXTER,99557,infusion_pumps,FRN,BAXTER,2026-08-11,True,True,2025-02-01,17.38,True
+baseline_2sd,99835|CBK|VENTEC,99835,ventilators_cpap,CBK,VENTEC,2026-09-17,True,True,2024-10-01,22.54,True
+prr_fdr,76364|FRN|BAXTER,76364,infusion_pumps,FRN,BAXTER,2017-01-26,True,True,,,False
+prr_fdr,76377|MNT|RESPIRONICS,76377,ventilators_cpap,MNT,RESPIRONICS,2017-02-01,True,True,2017-01-01,0.03,True
+prr_fdr,76429|CBK|DEL MAR REYNOLDS MEDICAL,76429,ventilators_cpap,CBK,DEL MAR REYNOLDS MEDICAL,2017-02-08,False,False,,,False
+prr_fdr,76891|CBK|NEWPORT,76891,ventilators_cpap,CBK,NEWPORT,2017-03-30,True,True,2017-01-01,1.91,True
+prr_fdr,77084|MNT|RESPIRONICS,77084,ventilators_cpap,MNT,RESPIRONICS,2017-04-24,True,True,2017-01-01,2.73,True
+prr_fdr,77555|FRN|SMITHS,77555,infusion_pumps,FRN,SMITHS,2017-06-05,True,True,2017-01-01,4.11,True
+prr_fdr,77077|FRN|CAREFUSION,77077,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,2017-01-01,4.34,True
+prr_fdr,77279|FRN|CAREFUSION,77279,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,2017-01-01,4.34,True
+prr_fdr,77624|FRN|ICU MEDICAL,77624,infusion_pumps,FRN,ICU MEDICAL,2017-06-15,True,True,2017-01-01,4.44,True
+prr_fdr,79248|CBK|ZOLL MEDICAL,79248,ventilators_cpap,CBK,ZOLL MEDICAL,2017-06-30,True,True,,,False
+prr_fdr,77987|FRN|CAREFUSION,77987,infusion_pumps,FRN,CAREFUSION,2017-08-09,True,True,2017-01-01,6.24,True
+prr_fdr,77761|FRN|SMITHS,77761,infusion_pumps,FRN,SMITHS,2017-08-22,True,True,2017-01-01,6.67,True
+prr_fdr,78943|MEA|SMITHS,78943,infusion_pumps,MEA,SMITHS,2017-08-24,True,True,,,False
+prr_fdr,78255|FRN|SMITHS,78255,infusion_pumps,FRN,SMITHS,2017-09-25,True,True,2017-01-01,7.79,True
+prr_fdr,78302|FRN|WALKMED,78302,infusion_pumps,FRN,WALKMED,2017-09-27,True,True,2017-04-01,4.93,True
+prr_fdr,79177|FRN|BAXTER,79177,infusion_pumps,FRN,BAXTER,2017-10-06,True,True,2017-01-01,8.15,True
+prr_fdr,78418|FRN|ICU MEDICAL,78418,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+prr_fdr,78312|FRN|ICU MEDICAL,78312,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+prr_fdr,78922|FRN|SMITHS,78922,infusion_pumps,FRN,SMITHS,2017-11-13,True,True,2017-01-01,9.4,True
+prr_fdr,78588|MEA|CAREFUSION,78588,infusion_pumps,MEA,CAREFUSION,2017-11-17,True,True,,,False
+prr_fdr,78588|FRN|CAREFUSION,78588,infusion_pumps,FRN,CAREFUSION,2017-11-17,True,True,2017-01-01,9.53,True
+prr_fdr,79371|CBK|MEDTRONIC,79371,ventilators_cpap,CBK,MEDTRONIC,2017-11-21,True,True,2017-01-01,9.66,True
+prr_fdr,78673|FRN|SMITHS,78673,infusion_pumps,FRN,SMITHS,2017-11-22,True,True,2017-01-01,9.69,True
+prr_fdr,81208|FRN|FRESENIUS,81208,infusion_pumps,FRN,FRESENIUS,2017-12-02,True,True,2017-01-01,10.02,True
+prr_fdr,80173|CBK|DATEX,80173,ventilators_cpap,CBK,DATEX,2017-12-08,True,True,2017-02-01,9.3,True
+prr_fdr,80467|CBK|HAMILTON,80467,ventilators_cpap,CBK,HAMILTON,2018-03-09,True,True,,,False
+prr_fdr,78599|CBK|HAMILTON,78599,ventilators_cpap,CBK,HAMILTON,2018-03-12,True,True,,,False
+prr_fdr,79815|FRN|BAXTER,79815,infusion_pumps,FRN,BAXTER,2018-04-03,True,True,2017-01-01,14.03,True
+prr_fdr,80490|FRN|SMITHS,80490,infusion_pumps,FRN,SMITHS,2018-04-13,True,True,2017-01-01,14.36,True
+prr_fdr,82143|FRN|CAREFUSION,82143,infusion_pumps,FRN,CAREFUSION,2018-04-13,True,True,2017-01-01,14.36,True
+prr_fdr,80027|CBK|DRAEGER,80027,ventilators_cpap,CBK,DRAEGER,2018-04-26,True,True,2017-01-01,14.78,True
+prr_fdr,80014|FRN|BAXTER,80014,infusion_pumps,FRN,BAXTER,2018-05-08,True,True,2017-01-01,15.18,True
+prr_fdr,80296|NOU|HUMAN DESIGN MEDICAL,80296,ventilators_cpap,NOU,HUMAN DESIGN MEDICAL,2018-05-08,False,False,,,False
+prr_fdr,89584|CBK|RESPIRONICS,89584,ventilators_cpap,CBK,RESPIRONICS,2018-06-12,True,True,2017-01-01,16.33,True
+prr_fdr,80545|BZD|COMPASS HEALTH BRANDS CORPORATE OFFICE,80545,ventilators_cpap,BZD,COMPASS HEALTH BRANDS CORPORATE OFFICE,2018-06-18,False,False,,,False
+prr_fdr,80355|FRN|BAXTER,80355,infusion_pumps,FRN,BAXTER,2018-06-21,True,True,2017-01-01,16.62,True
+prr_fdr,80458|CBK|DATEX,80458,ventilators_cpap,CBK,DATEX,2018-06-28,True,True,2017-02-01,15.93,True
+prr_fdr,80462|CBK|SPACELABS HEALTHCARE,80462,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2018-07-11,True,True,2017-10-01,8.31,True
+prr_fdr,83480|FRN|ICU MEDICAL,83480,infusion_pumps,FRN,ICU MEDICAL,2018-08-01,True,True,2017-01-01,17.97,True
+prr_fdr,82078|LZG|MEDTRONIC,82078,infusion_pumps,LZG,MEDTRONIC,2018-08-07,True,True,2017-01-01,18.17,True
+prr_fdr,81167|CBK|MEDTRONIC,81167,ventilators_cpap,CBK,MEDTRONIC,2018-09-18,True,True,2017-01-01,19.55,True
+prr_fdr,81341|CBK|GE HEALTHCARE,81341,ventilators_cpap,CBK,GE HEALTHCARE,2018-10-05,True,True,2018-07-01,2.17,True
+prr_fdr,82003|LZG|INSULET,82003,infusion_pumps,LZG,INSULET,2018-12-18,True,True,2017-02-01,21.62,True
+prr_fdr,82864|FRN|ZEVEX,82864,infusion_pumps,FRN,ZEVEX,2019-02-27,True,True,2018-06-01,7.95,True
+prr_fdr,82328|CBK|HAMILTON,82328,ventilators_cpap,CBK,HAMILTON,2019-03-25,True,True,,,False
+prr_fdr,82997|FRN|INFUTRONIX,82997,infusion_pumps,FRN,INFUTRONIX,2019-05-28,True,True,2018-02-01,14.92,True
+prr_fdr,83318|BZD|GALEMED,83318,ventilators_cpap,BZD,GALEMED,2019-05-30,False,True,,,False
+prr_fdr,83119|BZD|TELEFLEX,83119,ventilators_cpap,BZD,TELEFLEX,2019-06-14,False,True,2018-04-01,13.47,True
+prr_fdr,83138|FRN|FENWAL,83138,infusion_pumps,FRN,FENWAL,2019-06-24,False,False,,,False
+prr_fdr,83433|LZG|MEDTRONIC,83433,infusion_pumps,LZG,MEDTRONIC,2019-06-27,True,True,2017-06-01,23.89,True
+prr_fdr,83386|LZG|VALERITAS,83386,infusion_pumps,LZG,VALERITAS,2019-07-03,True,True,2018-10-01,8.05,True
+prr_fdr,83425|CBK|GE HEALTHCARE,83425,ventilators_cpap,CBK,GE HEALTHCARE,2019-07-19,True,True,2018-07-01,11.6,True
+prr_fdr,83549|FRN|ICU MEDICAL,83549,infusion_pumps,FRN,ICU MEDICAL,2019-07-29,True,True,2017-07-01,23.92,True
+prr_fdr,83980|MNT|RESPIRONICS,83980,ventilators_cpap,MNT,RESPIRONICS,2019-09-11,True,True,2019-06-01,2.4,True
+prr_fdr,84985|FRN|CME AMERICA,84985,infusion_pumps,FRN,CME AMERICA,2019-09-16,True,True,,,False
+prr_fdr,84232|FRN|SMITHS,84232,infusion_pumps,FRN,SMITHS,2019-10-28,True,True,2017-10-01,23.89,True
+prr_fdr,84406|CBK|RESPIRONICS,84406,ventilators_cpap,CBK,RESPIRONICS,2019-11-19,True,True,2017-12-01,22.6,True
+prr_fdr,84337|CBK|VYAIRE,84337,ventilators_cpap,CBK,VYAIRE,2019-11-25,True,True,2017-11-01,23.82,True
+prr_fdr,84551|MNT|RESMED,84551,ventilators_cpap,MNT,RESMED,2019-12-12,True,True,2019-01-01,10.35,True
+prr_fdr,85033|FRN|CME AMERICA,85033,infusion_pumps,FRN,CME AMERICA,2020-01-07,True,True,,,False
+prr_fdr,84828|NOU|BREAS,84828,ventilators_cpap,NOU,BREAS,2020-01-28,True,True,,,False
+prr_fdr,84579|FRN|CAREFUSION,84579,infusion_pumps,FRN,CAREFUSION,2020-02-04,True,True,2018-02-01,23.2,True
+prr_fdr,84982|LZG|INSULET,84982,infusion_pumps,LZG,INSULET,2020-02-13,True,True,2018-02-01,23.49,True
+prr_fdr,85479|FRN|CME AMERICA,85479,infusion_pumps,FRN,CME AMERICA,2020-02-27,True,True,,,False
+prr_fdr,85113|MNT|RESPIRONICS,85113,ventilators_cpap,MNT,RESPIRONICS,2020-03-05,True,True,2019-06-01,8.18,True
+prr_fdr,88701|FRN|SMITHS,88701,infusion_pumps,FRN,SMITHS,2020-03-24,True,True,2018-03-01,23.79,True
+prr_fdr,85552|LZG|INSULET,85552,infusion_pumps,LZG,INSULET,2020-04-02,True,True,2018-04-01,23.1,True
+prr_fdr,85912|FRN|SMITHS,85912,infusion_pumps,FRN,SMITHS,2020-06-26,True,True,2018-06-01,23.89,True
+prr_fdr,86062|FRN|BAXTER,86062,infusion_pumps,FRN,BAXTER,2020-06-30,True,True,2018-06-01,24.02,True
+prr_fdr,85919|FRN|CAREFUSION,85919,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_fdr,85691|FRN|CAREFUSION,85691,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_fdr,85915|FRN|CAREFUSION,85915,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_fdr,85954|FRN|CAREFUSION,85954,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_fdr,86107|CBK|GE HEALTHCARE,86107,ventilators_cpap,CBK,GE HEALTHCARE,2020-07-14,False,True,2018-07-01,23.46,True
+prr_fdr,86047|FRN|CME AMERICA,86047,infusion_pumps,FRN,CME AMERICA,2020-07-30,True,True,2020-03-01,3.98,True
+prr_fdr,85962|FRN|CAREFUSION,85962,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+prr_fdr,85900|FRN|CAREFUSION,85900,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+prr_fdr,86005|FRN|CAREFUSION,86005,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+prr_fdr,93192|CBK|PERCUSSIONAIRE,93192,ventilators_cpap,CBK,PERCUSSIONAIRE,2020-09-14,False,True,,,False
+prr_fdr,86548|CBK|GETINGE,86548,ventilators_cpap,CBK,GETINGE,2020-09-17,False,True,,,False
+prr_fdr,86643|CBK|MEDTRONIC,86643,ventilators_cpap,CBK,MEDTRONIC,2020-10-16,True,True,2018-10-01,23.52,True
+prr_fdr,86646|MNT|RESPIRONICS,86646,ventilators_cpap,MNT,RESPIRONICS,2020-10-30,True,True,2019-06-01,16.03,True
+prr_fdr,86697|MNT|RESPIRONICS,86697,ventilators_cpap,MNT,RESPIRONICS,2020-11-02,True,True,2019-06-01,16.13,True
+prr_fdr,86756|CBK|HILL ROM MANUFACTURING,86756,ventilators_cpap,CBK,HILL ROM MANUFACTURING,2020-11-12,False,False,,,False
+prr_fdr,86758|FRN|BAXTER,86758,infusion_pumps,FRN,BAXTER,2020-11-23,True,True,2018-11-01,23.79,True
+prr_fdr,86788|FRN|BAXTER,86788,infusion_pumps,FRN,BAXTER,2021-01-06,True,True,2019-01-01,23.2,True
+prr_fdr,87314|MNT|RESPIRONICS,87314,ventilators_cpap,MNT,RESPIRONICS,2021-01-06,True,True,2019-06-01,18.27,True
+prr_fdr,87305|LZG|INSULET,87305,infusion_pumps,LZG,INSULET,2021-02-01,True,True,2019-02-01,23.13,True
+prr_fdr,87470|FRN|TENACORE,87470,infusion_pumps,FRN,TENACORE,2021-02-25,False,False,,,False
+prr_fdr,88170|FRN|BIOMEDICAL EQUIPMENT SERVICE BMES,88170,infusion_pumps,FRN,BIOMEDICAL EQUIPMENT SERVICE BMES,2021-02-25,False,False,,,False
+prr_fdr,87773|FRN|STEP HAR MEDICAL,87773,infusion_pumps,FRN,STEP HAR MEDICAL,2021-02-26,False,False,,,False
+prr_fdr,87387|FRN|CAREFUSION,87387,infusion_pumps,FRN,CAREFUSION,2021-03-03,True,True,2019-03-01,23.1,True
+prr_fdr,87568|FRN|BAXTER,87568,infusion_pumps,FRN,BAXTER,2021-03-19,True,True,2019-03-01,23.62,True
+prr_fdr,87483|FRN|PACIFIC MEDICAL GROUP,87483,infusion_pumps,FRN,PACIFIC MEDICAL GROUP,2021-03-24,False,False,,,False
+prr_fdr,87768|FRN|BIOMED,87768,infusion_pumps,FRN,BIOMED,2021-03-25,False,False,,,False
+prr_fdr,87657|FRN|INFUSION,87657,infusion_pumps,FRN,INFUSION,2021-03-26,False,True,,,False
+prr_fdr,87753|MNT|RESPIRONICS,87753,ventilators_cpap,MNT,RESPIRONICS,2021-04-06,True,True,2019-06-01,21.22,True
+prr_fdr,87753|MNS|RESPIRONICS,87753,ventilators_cpap,MNS,RESPIRONICS,2021-04-06,True,True,,,False
+prr_fdr,87819|CBK|DRAEGER,87819,ventilators_cpap,CBK,DRAEGER,2021-04-16,True,True,,,False
+prr_fdr,87838|CBK|VENTEC,87838,ventilators_cpap,CBK,VENTEC,2021-05-10,True,True,2019-06-01,22.34,True
+prr_fdr,88073|FRN|BAXTER,88073,infusion_pumps,FRN,BAXTER,2021-06-04,True,True,2019-06-01,23.16,True
+prr_fdr,88071|CBK|RESPIRONICS,88071,ventilators_cpap,CBK,RESPIRONICS,2021-06-14,True,True,2019-06-01,23.49,True
+prr_fdr,88071|MNS|RESPIRONICS,88071,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,,,False
+prr_fdr,88058|MNS|RESPIRONICS,88058,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,,,False
+prr_fdr,88058|BZD|RESPIRONICS,88058,ventilators_cpap,BZD,RESPIRONICS,2021-06-14,True,True,2020-04-01,13.47,True
+prr_fdr,88127|MNT|RESPIRONICS,88127,ventilators_cpap,MNT,RESPIRONICS,2021-06-18,True,True,2019-06-01,23.62,True
+prr_fdr,88246|FRN|BAXTER,88246,infusion_pumps,FRN,BAXTER,2021-07-07,True,True,2019-07-01,23.23,True
+prr_fdr,88411|CBK|NIHON KOHDEN ORANGEMED,88411,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2021-07-20,True,True,2020-12-01,6.6,True
+prr_fdr,88333|NOU|RESPIRONICS,88333,ventilators_cpap,NOU,RESPIRONICS,2021-07-26,False,True,,,False
+prr_fdr,88333|CBK|RESPIRONICS,88333,ventilators_cpap,CBK,RESPIRONICS,2021-07-26,True,True,2019-07-01,23.85,True
+prr_fdr,88362|LZG|ROCHE,88362,infusion_pumps,LZG,ROCHE,2021-07-28,True,True,2019-07-01,23.92,True
+prr_fdr,88635|CBK|DRAEGER,88635,ventilators_cpap,CBK,DRAEGER,2021-09-10,True,True,,,False
+prr_fdr,89711|FRN|INFUTRONIX,89711,infusion_pumps,FRN,INFUTRONIX,2021-10-19,True,True,2020-09-01,12.62,True
+prr_fdr,88987|CBK|MEDTRONIC,88987,ventilators_cpap,CBK,MEDTRONIC,2021-11-04,True,True,2020-02-01,20.17,True
+prr_fdr,89366|CBK|VYAIRE,89366,ventilators_cpap,CBK,VYAIRE,2021-12-20,True,True,2019-12-01,23.66,True
+prr_fdr,89276|CBK|RESPIRONICS,89276,ventilators_cpap,CBK,RESPIRONICS,2021-12-22,True,True,2019-12-01,23.72,True
+prr_fdr,89017|FRN|BAXTER,89017,infusion_pumps,FRN,BAXTER,2021-12-29,True,True,2019-12-01,23.95,True
+prr_fdr,89490|MNT|RESPIRONICS,89490,ventilators_cpap,MNT,RESPIRONICS,2022-01-24,True,True,2021-06-01,6.83,True
+prr_fdr,89660|MEA|B BRAUN,89660,infusion_pumps,MEA,B BRAUN,2022-02-07,True,True,2020-07-01,18.27,True
+prr_fdr,89702|CBK|DRAEGER,89702,ventilators_cpap,CBK,DRAEGER,2022-02-14,True,True,,,False
+prr_fdr,89767|MNT|RESPIRONICS,89767,ventilators_cpap,MNT,RESPIRONICS,2022-02-28,True,True,2021-06-01,7.98,True
+prr_fdr,89776|CBK|BREAS,89776,ventilators_cpap,CBK,BREAS,2022-03-21,False,True,,,False
+prr_fdr,89820|CBK|MEDTRONIC,89820,ventilators_cpap,CBK,MEDTRONIC,2022-03-25,True,True,2020-03-01,23.79,True
+prr_fdr,90076|CBK|GE HEALTHCARE,90076,ventilators_cpap,CBK,GE HEALTHCARE,2022-04-18,False,True,,,False
+prr_fdr,89913|FRN|SMITHS,89913,infusion_pumps,FRN,SMITHS,2022-04-18,True,True,2020-04-01,23.59,True
+prr_fdr,92973|FRN|FRESENIUS,92973,infusion_pumps,FRN,FRESENIUS,2022-04-22,True,True,2020-04-01,23.72,True
+prr_fdr,90433|NOU|BREAS,90433,ventilators_cpap,NOU,BREAS,2022-06-02,True,True,2022-05-01,0.07,True
+prr_fdr,90576|CBK|HAMILTON,90576,ventilators_cpap,CBK,HAMILTON,2022-06-27,True,True,2020-10-01,19.84,True
+prr_fdr,90579|CBK|GETINGE,90579,ventilators_cpap,CBK,GETINGE,2022-07-20,True,True,,,False
+prr_fdr,90648|CBK|GETINGE,90648,ventilators_cpap,CBK,GETINGE,2022-07-21,True,True,,,False
+prr_fdr,90695|MNS|RESPIRONICS,90695,ventilators_cpap,MNS,RESPIRONICS,2022-08-26,True,True,,,False
+prr_fdr,90705|BZD|RESPIRONICS,90705,ventilators_cpap,BZD,RESPIRONICS,2022-09-06,True,True,2021-03-01,17.22,True
+prr_fdr,93958|FRN|FRESENIUS,93958,infusion_pumps,FRN,FRESENIUS,2022-09-16,True,True,2020-09-01,23.52,True
+prr_fdr,90916|CBK|HAMILTON,90916,ventilators_cpap,CBK,HAMILTON,2022-09-22,True,True,2020-10-01,22.7,True
+prr_fdr,91052|FRN|SMITHS,91052,infusion_pumps,FRN,SMITHS,2022-10-10,True,True,2020-10-01,23.29,True
+prr_fdr,90987|LZG|INSULET,90987,infusion_pumps,LZG,INSULET,2022-10-17,True,True,2020-10-01,23.52,True
+prr_fdr,91273|FRN|BAYER,91273,infusion_pumps,FRN,BAYER,2022-11-30,False,True,,,False
+prr_fdr,91293|CBK|RESPIRONICS,91293,ventilators_cpap,CBK,RESPIRONICS,2022-12-07,True,True,2020-12-01,23.2,True
+prr_fdr,91538|CBK|DRAEGER,91538,ventilators_cpap,CBK,DRAEGER,2023-01-23,True,True,,,False
+prr_fdr,91582|FRN|CAREFUSION,91582,infusion_pumps,FRN,CAREFUSION,2023-01-24,True,True,2021-01-01,23.75,True
+prr_fdr,91506|CBK|BAXTER,91506,ventilators_cpap,CBK,BAXTER,2023-01-25,False,True,,,False
+prr_fdr,91837|BZD|RESPIRONICS,91837,ventilators_cpap,BZD,RESPIRONICS,2023-02-10,True,True,2021-03-01,22.37,True
+prr_fdr,91846|FRN|IRADIMED,91846,infusion_pumps,FRN,IRADIMED,2023-02-24,True,True,,,False
+prr_fdr,91832|CBK|RESPIRONICS,91832,ventilators_cpap,CBK,RESPIRONICS,2023-03-01,True,True,2021-03-01,23.0,True
+prr_fdr,91783|FRN|FRESENIUS,91783,infusion_pumps,FRN,FRESENIUS,2023-03-10,True,True,2022-10-01,4.27,True
+prr_fdr,91925|CBK|HAMILTON,91925,ventilators_cpap,CBK,HAMILTON,2023-03-14,True,True,2022-07-01,7.43,True
+prr_fdr,91874|FRN|ICU MEDICAL,91874,infusion_pumps,FRN,ICU MEDICAL,2023-03-22,True,True,2021-03-01,23.69,True
+prr_fdr,93648|CBK|PERCUSSIONAIRE,93648,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-03-28,False,True,,,False
+prr_fdr,92049|BZD|DRAEGER,92049,ventilators_cpap,BZD,DRAEGER,2023-04-17,False,False,,,False
+prr_fdr,92279|FRN|AVANOS,92279,infusion_pumps,FRN,AVANOS,2023-04-24,True,True,,,False
+prr_fdr,92048|CBK|RESPIRONICS,92048,ventilators_cpap,CBK,RESPIRONICS,2023-05-01,True,True,2021-05-01,23.0,True
+prr_fdr,92243|CBK|VYAIRE,92243,ventilators_cpap,CBK,VYAIRE,2023-05-05,True,True,2021-11-01,17.12,True
+prr_fdr,93968|FRN|FRESENIUS,93968,infusion_pumps,FRN,FRESENIUS,2023-05-10,True,True,2022-10-01,6.28,True
+prr_fdr,92448|MNT|DRE MEDICAL GROUP,92448,ventilators_cpap,MNT,DRE MEDICAL GROUP,2023-05-15,False,False,,,False
+prr_fdr,92515|CBK|RESPIRONICS,92515,ventilators_cpap,CBK,RESPIRONICS,2023-05-25,True,True,2021-05-01,23.79,True
+prr_fdr,92443|CBK|DRAEGER,92443,ventilators_cpap,CBK,DRAEGER,2023-06-12,True,True,,,False
+prr_fdr,92482|CBK|HAMILTON,92482,ventilators_cpap,CBK,HAMILTON,2023-06-15,True,True,2022-07-01,10.48,True
+prr_fdr,92562|FRN|BAXTER,92562,infusion_pumps,FRN,BAXTER,2023-06-15,True,True,2021-06-01,23.49,True
+prr_fdr,99247|BZD|3B MEDICAL,99247,ventilators_cpap,BZD,3B MEDICAL,2023-06-15,False,True,,,False
+prr_fdr,92629|CBK|DRAEGER,92629,ventilators_cpap,CBK,DRAEGER,2023-07-12,True,True,,,False
+prr_fdr,92630|FRN|ICU MEDICAL,92630,infusion_pumps,FRN,ICU MEDICAL,2023-07-13,True,True,2021-07-01,23.39,True
+prr_fdr,92873|CBK|HAMILTON,92873,ventilators_cpap,CBK,HAMILTON,2023-07-26,True,True,2022-07-01,11.83,True
+prr_fdr,92956|FRN|SMITHS,92956,infusion_pumps,FRN,SMITHS,2023-08-16,True,True,2021-08-01,23.49,True
+prr_fdr,93015|MNT|RESPIRONICS,93015,ventilators_cpap,MNT,RESPIRONICS,2023-08-25,True,True,2021-08-01,23.79,True
+prr_fdr,93105|FRN|EITAN,93105,infusion_pumps,FRN,EITAN,2023-09-11,True,True,2022-02-01,18.4,True
+prr_fdr,93122|CBK|RESMED,93122,ventilators_cpap,CBK,RESMED,2023-09-13,True,True,2021-09-01,23.43,True
+prr_fdr,93106|FRN|CAREFUSION,93106,infusion_pumps,FRN,CAREFUSION,2023-09-15,True,True,2021-09-01,23.49,True
+prr_fdr,92978|FRN|B BRAUN,92978,infusion_pumps,FRN,B BRAUN,2023-09-21,True,True,2021-09-01,23.69,True
+prr_fdr,93191|FRN|BAXTER,93191,infusion_pumps,FRN,BAXTER,2023-10-13,True,True,2021-10-01,23.39,True
+prr_fdr,93331|NOU|BREAS,93331,ventilators_cpap,NOU,BREAS,2023-10-13,True,True,2022-05-01,16.43,True
+prr_fdr,93499|BZD|RESMED,93499,ventilators_cpap,BZD,RESMED,2023-11-20,True,True,2023-02-01,8.71,True
+prr_fdr,93609|CBK|RESPIRONICS,93609,ventilators_cpap,CBK,RESPIRONICS,2023-11-27,True,True,2021-11-01,23.89,True
+prr_fdr,93474|FRN|FRESENIUS,93474,infusion_pumps,FRN,FRESENIUS,2023-11-29,True,True,2022-10-01,12.94,True
+prr_fdr,93476|CBK|PERCUSSIONAIRE,93476,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-12-12,False,True,,,False
+prr_fdr,93757|FRN|SMITHS,93757,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+prr_fdr,93771|FRN|SMITHS,93771,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+prr_fdr,93754|FRN|SMITHS,93754,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+prr_fdr,93857|FRN|ZYNO MEDICAL,93857,infusion_pumps,FRN,ZYNO MEDICAL,2023-12-20,True,True,2023-04-01,7.69,True
+prr_fdr,93806|CBK|VENTEC,93806,ventilators_cpap,CBK,VENTEC,2024-01-09,True,True,2022-01-01,23.26,True
+prr_fdr,94124|FRN|INFUTRONIX,94124,infusion_pumps,FRN,INFUTRONIX,2024-02-21,True,True,2022-09-01,16.72,True
+prr_fdr,94225|FRN|SMITHS,94225,infusion_pumps,FRN,SMITHS,2024-02-27,True,True,2022-02-01,23.95,True
+prr_fdr,94225|MEA|SMITHS,94225,infusion_pumps,MEA,SMITHS,2024-02-27,True,True,2022-02-01,23.95,True
+prr_fdr,94169|BZD|SLEEPNET,94169,ventilators_cpap,BZD,SLEEPNET,2024-03-01,False,False,,,False
+prr_fdr,94228|FRN|FRESENIUS,94228,infusion_pumps,FRN,FRESENIUS,2024-03-07,True,True,2022-10-01,16.2,True
+prr_fdr,94263|CBK|RESPIRONICS,94263,ventilators_cpap,CBK,RESPIRONICS,2024-03-19,True,True,2022-03-01,23.62,True
+prr_fdr,94446|FRN|BAXTER,94446,infusion_pumps,FRN,BAXTER,2024-03-20,True,True,2022-03-01,23.66,True
+prr_fdr,94475|MNT|RESPIRONICS,94475,ventilators_cpap,MNT,RESPIRONICS,2024-03-26,True,True,2022-03-01,23.85,True
+prr_fdr,94475|MNS|RESPIRONICS,94475,ventilators_cpap,MNS,RESPIRONICS,2024-03-26,True,True,,,False
+prr_fdr,94487|MNS|RESPIRONICS,94487,ventilators_cpap,MNS,RESPIRONICS,2024-04-01,True,True,,,False
+prr_fdr,94451|FRN|BAXTER,94451,infusion_pumps,FRN,BAXTER,2024-04-09,True,True,2022-04-01,23.33,True
+prr_fdr,94491|FRN|OPTUMHEALTH CARE SOLUTIONS,94491,infusion_pumps,FRN,OPTUMHEALTH CARE SOLUTIONS,2024-04-18,False,False,,,False
+prr_fdr,94589|CBK|ZOLL MEDICAL,94589,ventilators_cpap,CBK,ZOLL MEDICAL,2024-04-30,True,True,2022-04-01,24.02,True
+prr_fdr,94690|FRN|ICU MEDICAL,94690,infusion_pumps,FRN,ICU MEDICAL,2024-05-07,True,True,2022-05-01,23.23,True
+prr_fdr,94671|CBK|HAMILTON,94671,ventilators_cpap,CBK,HAMILTON,2024-05-15,True,True,2022-07-01,21.49,True
+prr_fdr,94718|FRN|CAREFUSION,94718,infusion_pumps,FRN,CAREFUSION,2024-05-21,True,True,2022-05-01,23.69,True
+prr_fdr,94701|CBK|BAXTER,94701,ventilators_cpap,CBK,BAXTER,2024-05-29,False,True,,,False
+prr_fdr,94768|FRN|ZYNO MEDICAL,94768,infusion_pumps,FRN,ZYNO MEDICAL,2024-06-04,True,True,2023-04-01,13.17,True
+prr_fdr,94959|FRN|BAXTER,94959,infusion_pumps,FRN,BAXTER,2024-06-14,True,True,2022-06-01,23.49,True
+prr_fdr,94890|FRN|B BRAUN,94890,infusion_pumps,FRN,B BRAUN,2024-06-14,True,True,2022-06-01,23.49,True
+prr_fdr,94855|CBK|MEDTRONIC,94855,ventilators_cpap,CBK,MEDTRONIC,2024-06-24,True,True,2022-12-01,17.77,True
+prr_fdr,95483|MEA|SMITHS,95483,infusion_pumps,MEA,SMITHS,2024-06-26,True,True,2022-06-01,23.89,True
+prr_fdr,95287|FRN|SMITHS,95287,infusion_pumps,FRN,SMITHS,2024-07-16,True,True,2022-07-01,23.52,True
+prr_fdr,95078|NOU|RESPIRONICS,95078,ventilators_cpap,NOU,RESPIRONICS,2024-07-16,True,True,2023-04-01,14.55,True
+prr_fdr,95078|CBK|RESPIRONICS,95078,ventilators_cpap,CBK,RESPIRONICS,2024-07-16,True,True,2022-07-01,23.52,True
+prr_fdr,94988|FRN|BAXTER,94988,infusion_pumps,FRN,BAXTER,2024-07-17,True,True,2022-07-01,23.56,True
+prr_fdr,95042|NOU|BREAS,95042,ventilators_cpap,NOU,BREAS,2024-07-25,True,True,2022-07-01,23.82,True
+prr_fdr,95093|FRN|B BRAUN,95093,infusion_pumps,FRN,B BRAUN,2024-08-07,True,True,2022-08-01,23.23,True
+prr_fdr,94937|FRN|CAREFUSION,94937,infusion_pumps,FRN,CAREFUSION,2024-08-15,True,True,2022-08-01,23.49,True
+prr_fdr,95240|FRN|FRESENIUS,95240,infusion_pumps,FRN,FRESENIUS,2024-08-30,True,True,2022-10-01,21.98,True
+prr_fdr,95398|CBK|BAXTER,95398,ventilators_cpap,CBK,BAXTER,2024-09-12,False,True,,,False
+prr_fdr,95382|FRN|ZYNO MEDICAL,95382,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-13,True,True,2023-04-01,16.49,True
+prr_fdr,95635|FRN|ZYNO MEDICAL,95635,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-30,True,True,2023-04-01,17.05,True
+prr_fdr,95505|FRN|BAXTER,95505,infusion_pumps,FRN,BAXTER,2024-10-02,True,True,2022-10-01,23.06,True
+prr_fdr,95486|CBK|RESPIRONICS,95486,ventilators_cpap,CBK,RESPIRONICS,2024-10-07,True,True,2022-10-01,23.23,True
+prr_fdr,95601|FRN|ZYNO MEDICAL,95601,infusion_pumps,FRN,ZYNO MEDICAL,2024-10-18,True,True,2023-04-01,17.64,True
+prr_fdr,95586|FRN|ICU MEDICAL,95586,infusion_pumps,FRN,ICU MEDICAL,2024-10-22,True,True,2022-10-01,23.72,True
+prr_fdr,95848|FRN|BAXTER,95848,infusion_pumps,FRN,BAXTER,2024-11-19,True,True,2022-11-01,23.66,True
+prr_fdr,95891|FRN|FRESENIUS,95891,infusion_pumps,FRN,FRESENIUS,2024-12-06,True,True,2022-12-01,23.2,True
+prr_fdr,95842|CBK|BAXTER,95842,ventilators_cpap,CBK,BAXTER,2024-12-20,False,True,,,False
+prr_fdr,95979|CBK|PERCUSSIONAIRE,95979,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-12-23,True,True,2024-01-01,10.74,True
+prr_fdr,96092|FRN|BELMONT,96092,infusion_pumps,FRN,BELMONT,2025-01-02,True,True,2023-01-01,23.06,True
+prr_fdr,96085|FRN|FRESENIUS,96085,infusion_pumps,FRN,FRESENIUS,2025-01-10,True,True,2023-07-01,17.38,True
+prr_fdr,96069|FRN|CAREFUSION,96069,infusion_pumps,FRN,CAREFUSION,2025-01-23,True,True,2023-01-01,23.75,True
+prr_fdr,96200|LZG|MEDTRONIC,96200,infusion_pumps,LZG,MEDTRONIC,2025-01-31,True,True,2023-01-01,24.02,True
+prr_fdr,96136|CBK|VENTEC,96136,ventilators_cpap,CBK,VENTEC,2025-02-03,True,True,2023-04-01,21.19,True
+prr_fdr,96289|FRN|BAXTER,96289,infusion_pumps,FRN,BAXTER,2025-02-05,True,True,2023-02-01,23.26,True
+prr_fdr,96388|FRN|BAXTER,96388,infusion_pumps,FRN,BAXTER,2025-03-03,True,True,2023-03-01,23.1,True
+prr_fdr,96611|CBK|BAXTER,96611,ventilators_cpap,CBK,BAXTER,2025-04-07,False,True,,,False
+prr_fdr,96628|MEA|SMITHS,96628,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_fdr,96624|FRN|SMITHS,96624,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_fdr,96620|MEA|SMITHS,96620,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_fdr,96620|FRN|SMITHS,96620,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_fdr,96624|MEA|SMITHS,96624,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_fdr,96777|FRN|ICU MEDICAL,96777,infusion_pumps,FRN,ICU MEDICAL,2025-04-22,True,True,2023-04-01,23.75,True
+prr_fdr,96721|FRN|BAXTER,96721,infusion_pumps,FRN,BAXTER,2025-04-24,True,True,2023-04-01,23.82,True
+prr_fdr,96796|FRN|ZYNO MEDICAL,96796,infusion_pumps,FRN,ZYNO MEDICAL,2025-05-07,True,True,2023-05-01,23.23,True
+prr_fdr,96948|MNT|RESPIRONICS,96948,ventilators_cpap,MNT,RESPIRONICS,2025-05-09,True,True,2024-10-01,6.24,True
+prr_fdr,96948|MNS|RESPIRONICS,96948,ventilators_cpap,MNS,RESPIRONICS,2025-05-09,True,True,,,False
+prr_fdr,96822|FRN|BAXTER,96822,infusion_pumps,FRN,BAXTER,2025-05-12,True,True,2023-05-01,23.39,True
+prr_fdr,96774|CBK|MEDTRONIC,96774,ventilators_cpap,CBK,MEDTRONIC,2025-05-21,True,True,2023-05-01,23.69,True
+prr_fdr,97032|CBK|MAQUET,97032,ventilators_cpap,CBK,MAQUET,2025-05-30,True,True,2023-08-01,20.96,True
+prr_fdr,97079|CBK|HAMILTON,97079,ventilators_cpap,CBK,HAMILTON,2025-06-03,True,True,2023-06-01,23.13,True
+prr_fdr,97165|FRN|FRESENIUS,97165,infusion_pumps,FRN,FRESENIUS,2025-06-24,True,True,2023-07-01,22.8,True
+prr_fdr,97191|BZD|RESPIRONICS,97191,ventilators_cpap,BZD,RESPIRONICS,2025-06-30,True,True,2023-11-01,18.99,True
+prr_fdr,97067|FRN|CAREFUSION,97067,infusion_pumps,FRN,CAREFUSION,2025-07-08,True,True,2023-07-01,23.26,True
+prr_fdr,97186|FRN|ICU MEDICAL,97186,infusion_pumps,FRN,ICU MEDICAL,2025-07-11,True,True,2023-10-01,20.34,True
+prr_fdr,97164|FRN|BAXTER,97164,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2023-07-01,23.46,True
+prr_fdr,97335|FRN|BAXTER,97335,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2023-07-01,23.46,True
+prr_fdr,97296|FRN|BAXTER,97296,infusion_pumps,FRN,BAXTER,2025-08-04,True,True,2023-08-01,23.13,True
+prr_fdr,97554|FRN|FRESENIUS,97554,infusion_pumps,FRN,FRESENIUS,2025-09-03,True,True,2023-09-01,23.13,True
+prr_fdr,97669|FRN|CAREFUSION,97669,infusion_pumps,FRN,CAREFUSION,2025-10-17,True,True,2023-10-01,23.56,True
+prr_fdr,97939|FRN|FRESENIUS,97939,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2023-11-01,23.13,True
+prr_fdr,97941|FRN|FRESENIUS,97941,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2023-11-01,23.13,True
+prr_fdr,97871|FRN|CAREFUSION,97871,infusion_pumps,FRN,CAREFUSION,2025-11-06,True,True,2023-11-01,23.23,True
+prr_fdr,98009|FRN|FRESENIUS,98009,infusion_pumps,FRN,FRESENIUS,2025-11-14,True,True,2023-11-01,23.49,True
+prr_fdr,98106|FRN|FRESENIUS,98106,infusion_pumps,FRN,FRESENIUS,2025-11-21,True,True,2023-11-01,23.72,True
+prr_fdr,98167|FRN|BAXTER,98167,infusion_pumps,FRN,BAXTER,2025-11-28,True,True,2023-11-01,23.95,True
+prr_fdr,98129|FRN|ICU MEDICAL,98129,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+prr_fdr,98128|FRN|ICU MEDICAL,98128,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+prr_fdr,98306|FRN|BAXTER,98306,infusion_pumps,FRN,BAXTER,2026-01-13,True,True,2024-01-01,23.43,True
+prr_fdr,98699|FRN|FRESENIUS,98699,infusion_pumps,FRN,FRESENIUS,2026-02-04,True,True,2024-02-01,23.2,True
+prr_fdr,98250|FRN|CAREFUSION,98250,infusion_pumps,FRN,CAREFUSION,2026-02-11,True,True,2024-02-01,23.43,True
+prr_fdr,98186|LZG|MEDTRONIC,98186,infusion_pumps,LZG,MEDTRONIC,2026-02-13,True,True,2024-02-01,23.49,True
+prr_fdr,98540|CBK|RESPIRONICS,98540,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-03-01,23.03,True
+prr_fdr,98537|CBK|RESPIRONICS,98537,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-03-01,23.03,True
+prr_fdr,98554|NOU|VENTEC,98554,ventilators_cpap,NOU,VENTEC,2026-03-25,True,True,,,False
+prr_fdr,98872|FRN|ICU MEDICAL,98872,infusion_pumps,FRN,ICU MEDICAL,2026-04-29,True,True,2024-04-01,23.95,True
+prr_fdr,98929|FRN|FRESENIUS,98929,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-09-01,19.15,True
+prr_fdr,98945|FRN|FRESENIUS,98945,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-09-01,19.15,True
+prr_fdr,98888|CBK|VENTEC,98888,ventilators_cpap,CBK,VENTEC,2026-05-08,True,True,2024-05-01,23.23,True
+prr_fdr,99058|FRN|ICU MEDICAL,99058,infusion_pumps,FRN,ICU MEDICAL,2026-05-12,True,True,2024-09-01,19.35,True
+prr_fdr,99034|LZG|INSULET,99034,infusion_pumps,LZG,INSULET,2026-05-20,True,True,2024-05-01,23.62,True
+prr_fdr,99192|FRN|ICU MEDICAL,99192,infusion_pumps,FRN,ICU MEDICAL,2026-06-10,True,True,2024-09-01,20.3,True
+prr_fdr,99304|CBK|RESMED,99304,ventilators_cpap,CBK,RESMED,2026-06-25,False,True,,,False
+prr_fdr,99439|CBK|MAQUET,99439,ventilators_cpap,CBK,MAQUET,2026-06-30,True,True,2024-07-01,22.97,True
+prr_fdr,99445|MNS|BMC MEDICAL,99445,ventilators_cpap,MNS,BMC MEDICAL,2026-07-15,False,False,,,False
+prr_fdr,99557|FRN|BAXTER,99557,infusion_pumps,FRN,BAXTER,2026-08-11,True,True,2024-08-01,23.33,True
+prr_fdr,99643|BZD|COOPERSURGICAL,99643,ventilators_cpap,BZD,COOPERSURGICAL,2026-08-11,False,True,,,False
+prr_fdr,99835|CBK|VENTEC,99835,ventilators_cpap,CBK,VENTEC,2026-09-17,True,True,2024-09-01,23.56,True
+prr_sensitive,76364|FRN|BAXTER,76364,infusion_pumps,FRN,BAXTER,2017-01-26,True,True,,,False
+prr_sensitive,76377|MNT|RESPIRONICS,76377,ventilators_cpap,MNT,RESPIRONICS,2017-02-01,True,True,2017-01-01,0.03,True
+prr_sensitive,76429|CBK|DEL MAR REYNOLDS MEDICAL,76429,ventilators_cpap,CBK,DEL MAR REYNOLDS MEDICAL,2017-02-08,False,False,,,False
+prr_sensitive,76891|CBK|NEWPORT,76891,ventilators_cpap,CBK,NEWPORT,2017-03-30,True,True,2017-01-01,1.91,True
+prr_sensitive,77084|MNT|RESPIRONICS,77084,ventilators_cpap,MNT,RESPIRONICS,2017-04-24,True,True,2017-01-01,2.73,True
+prr_sensitive,77555|FRN|SMITHS,77555,infusion_pumps,FRN,SMITHS,2017-06-05,True,True,2017-01-01,4.11,True
+prr_sensitive,77279|FRN|CAREFUSION,77279,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,2017-01-01,4.34,True
+prr_sensitive,77077|FRN|CAREFUSION,77077,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,2017-01-01,4.34,True
+prr_sensitive,77624|FRN|ICU MEDICAL,77624,infusion_pumps,FRN,ICU MEDICAL,2017-06-15,True,True,2017-01-01,4.44,True
+prr_sensitive,79248|CBK|ZOLL MEDICAL,79248,ventilators_cpap,CBK,ZOLL MEDICAL,2017-06-30,True,True,2017-02-01,4.01,True
+prr_sensitive,77987|FRN|CAREFUSION,77987,infusion_pumps,FRN,CAREFUSION,2017-08-09,True,True,2017-01-01,6.24,True
+prr_sensitive,77761|FRN|SMITHS,77761,infusion_pumps,FRN,SMITHS,2017-08-22,True,True,2017-01-01,6.67,True
+prr_sensitive,78943|MEA|SMITHS,78943,infusion_pumps,MEA,SMITHS,2017-08-24,True,True,,,False
+prr_sensitive,78255|FRN|SMITHS,78255,infusion_pumps,FRN,SMITHS,2017-09-25,True,True,2017-01-01,7.79,True
+prr_sensitive,78302|FRN|WALKMED,78302,infusion_pumps,FRN,WALKMED,2017-09-27,True,True,2017-04-01,4.93,True
+prr_sensitive,79177|FRN|BAXTER,79177,infusion_pumps,FRN,BAXTER,2017-10-06,True,True,2017-01-01,8.15,True
+prr_sensitive,78312|FRN|ICU MEDICAL,78312,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+prr_sensitive,78418|FRN|ICU MEDICAL,78418,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+prr_sensitive,78922|FRN|SMITHS,78922,infusion_pumps,FRN,SMITHS,2017-11-13,True,True,2017-01-01,9.4,True
+prr_sensitive,78588|MEA|CAREFUSION,78588,infusion_pumps,MEA,CAREFUSION,2017-11-17,True,True,,,False
+prr_sensitive,78588|FRN|CAREFUSION,78588,infusion_pumps,FRN,CAREFUSION,2017-11-17,True,True,2017-01-01,9.53,True
+prr_sensitive,79371|CBK|MEDTRONIC,79371,ventilators_cpap,CBK,MEDTRONIC,2017-11-21,True,True,2017-01-01,9.66,True
+prr_sensitive,78673|FRN|SMITHS,78673,infusion_pumps,FRN,SMITHS,2017-11-22,True,True,2017-01-01,9.69,True
+prr_sensitive,81208|FRN|FRESENIUS,81208,infusion_pumps,FRN,FRESENIUS,2017-12-02,True,True,2017-01-01,10.02,True
+prr_sensitive,80173|CBK|DATEX,80173,ventilators_cpap,CBK,DATEX,2017-12-08,True,True,2017-01-01,10.22,True
+prr_sensitive,80467|CBK|HAMILTON,80467,ventilators_cpap,CBK,HAMILTON,2018-03-09,True,True,,,False
+prr_sensitive,78599|CBK|HAMILTON,78599,ventilators_cpap,CBK,HAMILTON,2018-03-12,True,True,,,False
+prr_sensitive,79815|FRN|BAXTER,79815,infusion_pumps,FRN,BAXTER,2018-04-03,True,True,2017-01-01,14.03,True
+prr_sensitive,80490|FRN|SMITHS,80490,infusion_pumps,FRN,SMITHS,2018-04-13,True,True,2017-01-01,14.36,True
+prr_sensitive,82143|FRN|CAREFUSION,82143,infusion_pumps,FRN,CAREFUSION,2018-04-13,True,True,2017-01-01,14.36,True
+prr_sensitive,80027|CBK|DRAEGER,80027,ventilators_cpap,CBK,DRAEGER,2018-04-26,True,True,2017-01-01,14.78,True
+prr_sensitive,80296|NOU|HUMAN DESIGN MEDICAL,80296,ventilators_cpap,NOU,HUMAN DESIGN MEDICAL,2018-05-08,False,False,,,False
+prr_sensitive,80014|FRN|BAXTER,80014,infusion_pumps,FRN,BAXTER,2018-05-08,True,True,2017-01-01,15.18,True
+prr_sensitive,89584|CBK|RESPIRONICS,89584,ventilators_cpap,CBK,RESPIRONICS,2018-06-12,True,True,2017-01-01,16.33,True
+prr_sensitive,80545|BZD|COMPASS HEALTH BRANDS CORPORATE OFFICE,80545,ventilators_cpap,BZD,COMPASS HEALTH BRANDS CORPORATE OFFICE,2018-06-18,False,False,,,False
+prr_sensitive,80355|FRN|BAXTER,80355,infusion_pumps,FRN,BAXTER,2018-06-21,True,True,2017-01-01,16.62,True
+prr_sensitive,80458|CBK|DATEX,80458,ventilators_cpap,CBK,DATEX,2018-06-28,True,True,2017-01-01,16.85,True
+prr_sensitive,80462|CBK|SPACELABS HEALTHCARE,80462,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2018-07-11,True,True,2017-10-01,8.31,True
+prr_sensitive,83480|FRN|ICU MEDICAL,83480,infusion_pumps,FRN,ICU MEDICAL,2018-08-01,True,True,2017-01-01,17.97,True
+prr_sensitive,82078|LZG|MEDTRONIC,82078,infusion_pumps,LZG,MEDTRONIC,2018-08-07,True,True,2017-01-01,18.17,True
+prr_sensitive,81167|CBK|MEDTRONIC,81167,ventilators_cpap,CBK,MEDTRONIC,2018-09-18,True,True,2017-01-01,19.55,True
+prr_sensitive,81341|CBK|GE HEALTHCARE,81341,ventilators_cpap,CBK,GE HEALTHCARE,2018-10-05,True,True,2018-07-01,2.17,True
+prr_sensitive,82003|LZG|INSULET,82003,infusion_pumps,LZG,INSULET,2018-12-18,True,True,2017-01-01,22.54,True
+prr_sensitive,82864|FRN|ZEVEX,82864,infusion_pumps,FRN,ZEVEX,2019-02-27,True,True,2018-06-01,7.95,True
+prr_sensitive,82328|CBK|HAMILTON,82328,ventilators_cpap,CBK,HAMILTON,2019-03-25,True,True,,,False
+prr_sensitive,82997|FRN|INFUTRONIX,82997,infusion_pumps,FRN,INFUTRONIX,2019-05-28,True,True,2018-02-01,14.92,True
+prr_sensitive,83318|BZD|GALEMED,83318,ventilators_cpap,BZD,GALEMED,2019-05-30,False,True,,,False
+prr_sensitive,83119|BZD|TELEFLEX,83119,ventilators_cpap,BZD,TELEFLEX,2019-06-14,False,True,2018-04-01,13.47,True
+prr_sensitive,83138|FRN|FENWAL,83138,infusion_pumps,FRN,FENWAL,2019-06-24,False,False,,,False
+prr_sensitive,83433|LZG|MEDTRONIC,83433,infusion_pumps,LZG,MEDTRONIC,2019-06-27,True,True,2017-06-01,23.89,True
+prr_sensitive,83386|LZG|VALERITAS,83386,infusion_pumps,LZG,VALERITAS,2019-07-03,True,True,2018-10-01,8.05,True
+prr_sensitive,83425|CBK|GE HEALTHCARE,83425,ventilators_cpap,CBK,GE HEALTHCARE,2019-07-19,True,True,2018-07-01,11.6,True
+prr_sensitive,83549|FRN|ICU MEDICAL,83549,infusion_pumps,FRN,ICU MEDICAL,2019-07-29,True,True,2017-07-01,23.92,True
+prr_sensitive,83980|MNT|RESPIRONICS,83980,ventilators_cpap,MNT,RESPIRONICS,2019-09-11,True,True,2019-06-01,2.4,True
+prr_sensitive,84985|FRN|CME AMERICA,84985,infusion_pumps,FRN,CME AMERICA,2019-09-16,True,True,,,False
+prr_sensitive,84232|FRN|SMITHS,84232,infusion_pumps,FRN,SMITHS,2019-10-28,True,True,2017-10-01,23.89,True
+prr_sensitive,84406|CBK|RESPIRONICS,84406,ventilators_cpap,CBK,RESPIRONICS,2019-11-19,True,True,2017-11-01,23.62,True
+prr_sensitive,84337|CBK|VYAIRE,84337,ventilators_cpap,CBK,VYAIRE,2019-11-25,True,True,2017-11-01,23.82,True
+prr_sensitive,84551|MNT|RESMED,84551,ventilators_cpap,MNT,RESMED,2019-12-12,True,True,2019-01-01,10.35,True
+prr_sensitive,85033|FRN|CME AMERICA,85033,infusion_pumps,FRN,CME AMERICA,2020-01-07,True,True,,,False
+prr_sensitive,84828|NOU|BREAS,84828,ventilators_cpap,NOU,BREAS,2020-01-28,True,True,,,False
+prr_sensitive,84579|FRN|CAREFUSION,84579,infusion_pumps,FRN,CAREFUSION,2020-02-04,True,True,2018-02-01,23.2,True
+prr_sensitive,84982|LZG|INSULET,84982,infusion_pumps,LZG,INSULET,2020-02-13,True,True,2018-02-01,23.49,True
+prr_sensitive,85479|FRN|CME AMERICA,85479,infusion_pumps,FRN,CME AMERICA,2020-02-27,True,True,,,False
+prr_sensitive,85113|MNT|RESPIRONICS,85113,ventilators_cpap,MNT,RESPIRONICS,2020-03-05,True,True,2019-06-01,8.18,True
+prr_sensitive,88701|FRN|SMITHS,88701,infusion_pumps,FRN,SMITHS,2020-03-24,True,True,2018-03-01,23.79,True
+prr_sensitive,85552|LZG|INSULET,85552,infusion_pumps,LZG,INSULET,2020-04-02,True,True,2018-04-01,23.1,True
+prr_sensitive,85912|FRN|SMITHS,85912,infusion_pumps,FRN,SMITHS,2020-06-26,True,True,2018-06-01,23.89,True
+prr_sensitive,85919|FRN|CAREFUSION,85919,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_sensitive,85915|FRN|CAREFUSION,85915,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_sensitive,85954|FRN|CAREFUSION,85954,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_sensitive,86062|FRN|BAXTER,86062,infusion_pumps,FRN,BAXTER,2020-06-30,True,True,2018-06-01,24.02,True
+prr_sensitive,85691|FRN|CAREFUSION,85691,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_sensitive,86107|CBK|GE HEALTHCARE,86107,ventilators_cpap,CBK,GE HEALTHCARE,2020-07-14,False,True,2018-07-01,23.46,True
+prr_sensitive,86047|FRN|CME AMERICA,86047,infusion_pumps,FRN,CME AMERICA,2020-07-30,True,True,2020-03-01,3.98,True
+prr_sensitive,85962|FRN|CAREFUSION,85962,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+prr_sensitive,86005|FRN|CAREFUSION,86005,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+prr_sensitive,85900|FRN|CAREFUSION,85900,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+prr_sensitive,93192|CBK|PERCUSSIONAIRE,93192,ventilators_cpap,CBK,PERCUSSIONAIRE,2020-09-14,False,True,,,False
+prr_sensitive,86548|CBK|GETINGE,86548,ventilators_cpap,CBK,GETINGE,2020-09-17,False,True,,,False
+prr_sensitive,86643|CBK|MEDTRONIC,86643,ventilators_cpap,CBK,MEDTRONIC,2020-10-16,True,True,2018-10-01,23.52,True
+prr_sensitive,86646|MNT|RESPIRONICS,86646,ventilators_cpap,MNT,RESPIRONICS,2020-10-30,True,True,2019-06-01,16.03,True
+prr_sensitive,86697|MNT|RESPIRONICS,86697,ventilators_cpap,MNT,RESPIRONICS,2020-11-02,True,True,2019-06-01,16.13,True
+prr_sensitive,86756|CBK|HILL ROM MANUFACTURING,86756,ventilators_cpap,CBK,HILL ROM MANUFACTURING,2020-11-12,False,False,,,False
+prr_sensitive,86758|FRN|BAXTER,86758,infusion_pumps,FRN,BAXTER,2020-11-23,True,True,2018-11-01,23.79,True
+prr_sensitive,86788|FRN|BAXTER,86788,infusion_pumps,FRN,BAXTER,2021-01-06,True,True,2019-01-01,23.2,True
+prr_sensitive,87314|MNT|RESPIRONICS,87314,ventilators_cpap,MNT,RESPIRONICS,2021-01-06,True,True,2019-06-01,18.27,True
+prr_sensitive,87305|LZG|INSULET,87305,infusion_pumps,LZG,INSULET,2021-02-01,True,True,2019-02-01,23.13,True
+prr_sensitive,88170|FRN|BIOMEDICAL EQUIPMENT SERVICE BMES,88170,infusion_pumps,FRN,BIOMEDICAL EQUIPMENT SERVICE BMES,2021-02-25,False,False,,,False
+prr_sensitive,87470|FRN|TENACORE,87470,infusion_pumps,FRN,TENACORE,2021-02-25,False,False,,,False
+prr_sensitive,87773|FRN|STEP HAR MEDICAL,87773,infusion_pumps,FRN,STEP HAR MEDICAL,2021-02-26,False,False,,,False
+prr_sensitive,87387|FRN|CAREFUSION,87387,infusion_pumps,FRN,CAREFUSION,2021-03-03,True,True,2019-03-01,23.1,True
+prr_sensitive,87568|FRN|BAXTER,87568,infusion_pumps,FRN,BAXTER,2021-03-19,True,True,2019-03-01,23.62,True
+prr_sensitive,87483|FRN|PACIFIC MEDICAL GROUP,87483,infusion_pumps,FRN,PACIFIC MEDICAL GROUP,2021-03-24,False,False,,,False
+prr_sensitive,87768|FRN|BIOMED,87768,infusion_pumps,FRN,BIOMED,2021-03-25,False,False,,,False
+prr_sensitive,87657|FRN|INFUSION,87657,infusion_pumps,FRN,INFUSION,2021-03-26,False,True,,,False
+prr_sensitive,87753|MNT|RESPIRONICS,87753,ventilators_cpap,MNT,RESPIRONICS,2021-04-06,True,True,2019-06-01,21.22,True
+prr_sensitive,87753|MNS|RESPIRONICS,87753,ventilators_cpap,MNS,RESPIRONICS,2021-04-06,True,True,,,False
+prr_sensitive,87819|CBK|DRAEGER,87819,ventilators_cpap,CBK,DRAEGER,2021-04-16,True,True,,,False
+prr_sensitive,87838|CBK|VENTEC,87838,ventilators_cpap,CBK,VENTEC,2021-05-10,True,True,2019-06-01,22.34,True
+prr_sensitive,88073|FRN|BAXTER,88073,infusion_pumps,FRN,BAXTER,2021-06-04,True,True,2019-06-01,23.16,True
+prr_sensitive,88058|MNS|RESPIRONICS,88058,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,,,False
+prr_sensitive,88071|MNS|RESPIRONICS,88071,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,,,False
+prr_sensitive,88071|CBK|RESPIRONICS,88071,ventilators_cpap,CBK,RESPIRONICS,2021-06-14,True,True,2019-06-01,23.49,True
+prr_sensitive,88058|BZD|RESPIRONICS,88058,ventilators_cpap,BZD,RESPIRONICS,2021-06-14,True,True,2020-04-01,13.47,True
+prr_sensitive,88127|MNT|RESPIRONICS,88127,ventilators_cpap,MNT,RESPIRONICS,2021-06-18,True,True,2019-06-01,23.62,True
+prr_sensitive,88246|FRN|BAXTER,88246,infusion_pumps,FRN,BAXTER,2021-07-07,True,True,2019-07-01,23.23,True
+prr_sensitive,88411|CBK|NIHON KOHDEN ORANGEMED,88411,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2021-07-20,True,True,2020-12-01,6.6,True
+prr_sensitive,88333|CBK|RESPIRONICS,88333,ventilators_cpap,CBK,RESPIRONICS,2021-07-26,True,True,2019-07-01,23.85,True
+prr_sensitive,88333|NOU|RESPIRONICS,88333,ventilators_cpap,NOU,RESPIRONICS,2021-07-26,False,True,,,False
+prr_sensitive,88362|LZG|ROCHE,88362,infusion_pumps,LZG,ROCHE,2021-07-28,True,True,2019-07-01,23.92,True
+prr_sensitive,88635|CBK|DRAEGER,88635,ventilators_cpap,CBK,DRAEGER,2021-09-10,True,True,,,False
+prr_sensitive,89711|FRN|INFUTRONIX,89711,infusion_pumps,FRN,INFUTRONIX,2021-10-19,True,True,2020-09-01,12.62,True
+prr_sensitive,88987|CBK|MEDTRONIC,88987,ventilators_cpap,CBK,MEDTRONIC,2021-11-04,True,True,2020-02-01,20.17,True
+prr_sensitive,89366|CBK|VYAIRE,89366,ventilators_cpap,CBK,VYAIRE,2021-12-20,True,True,2019-12-01,23.66,True
+prr_sensitive,89276|CBK|RESPIRONICS,89276,ventilators_cpap,CBK,RESPIRONICS,2021-12-22,True,True,2019-12-01,23.72,True
+prr_sensitive,89017|FRN|BAXTER,89017,infusion_pumps,FRN,BAXTER,2021-12-29,True,True,2019-12-01,23.95,True
+prr_sensitive,89490|MNT|RESPIRONICS,89490,ventilators_cpap,MNT,RESPIRONICS,2022-01-24,True,True,2021-06-01,6.83,True
+prr_sensitive,89660|MEA|B BRAUN,89660,infusion_pumps,MEA,B BRAUN,2022-02-07,True,True,2020-07-01,18.27,True
+prr_sensitive,89702|CBK|DRAEGER,89702,ventilators_cpap,CBK,DRAEGER,2022-02-14,True,True,,,False
+prr_sensitive,89767|MNT|RESPIRONICS,89767,ventilators_cpap,MNT,RESPIRONICS,2022-02-28,True,True,2021-06-01,7.98,True
+prr_sensitive,89776|CBK|BREAS,89776,ventilators_cpap,CBK,BREAS,2022-03-21,False,True,,,False
+prr_sensitive,89820|CBK|MEDTRONIC,89820,ventilators_cpap,CBK,MEDTRONIC,2022-03-25,True,True,2020-03-01,23.79,True
+prr_sensitive,90076|CBK|GE HEALTHCARE,90076,ventilators_cpap,CBK,GE HEALTHCARE,2022-04-18,False,True,,,False
+prr_sensitive,89913|FRN|SMITHS,89913,infusion_pumps,FRN,SMITHS,2022-04-18,True,True,2020-04-01,23.59,True
+prr_sensitive,92973|FRN|FRESENIUS,92973,infusion_pumps,FRN,FRESENIUS,2022-04-22,True,True,2020-04-01,23.72,True
+prr_sensitive,90433|NOU|BREAS,90433,ventilators_cpap,NOU,BREAS,2022-06-02,True,True,2022-05-01,0.07,True
+prr_sensitive,90576|CBK|HAMILTON,90576,ventilators_cpap,CBK,HAMILTON,2022-06-27,True,True,2020-10-01,19.84,True
+prr_sensitive,90579|CBK|GETINGE,90579,ventilators_cpap,CBK,GETINGE,2022-07-20,True,True,,,False
+prr_sensitive,90648|CBK|GETINGE,90648,ventilators_cpap,CBK,GETINGE,2022-07-21,True,True,,,False
+prr_sensitive,90695|MNS|RESPIRONICS,90695,ventilators_cpap,MNS,RESPIRONICS,2022-08-26,True,True,,,False
+prr_sensitive,90705|BZD|RESPIRONICS,90705,ventilators_cpap,BZD,RESPIRONICS,2022-09-06,True,True,2021-03-01,17.22,True
+prr_sensitive,93958|FRN|FRESENIUS,93958,infusion_pumps,FRN,FRESENIUS,2022-09-16,True,True,2020-09-01,23.52,True
+prr_sensitive,90916|CBK|HAMILTON,90916,ventilators_cpap,CBK,HAMILTON,2022-09-22,True,True,2020-10-01,22.7,True
+prr_sensitive,91052|FRN|SMITHS,91052,infusion_pumps,FRN,SMITHS,2022-10-10,True,True,2020-10-01,23.29,True
+prr_sensitive,90987|LZG|INSULET,90987,infusion_pumps,LZG,INSULET,2022-10-17,True,True,2020-10-01,23.52,True
+prr_sensitive,91273|FRN|BAYER,91273,infusion_pumps,FRN,BAYER,2022-11-30,False,True,,,False
+prr_sensitive,91293|CBK|RESPIRONICS,91293,ventilators_cpap,CBK,RESPIRONICS,2022-12-07,True,True,2020-12-01,23.2,True
+prr_sensitive,91538|CBK|DRAEGER,91538,ventilators_cpap,CBK,DRAEGER,2023-01-23,True,True,,,False
+prr_sensitive,91582|FRN|CAREFUSION,91582,infusion_pumps,FRN,CAREFUSION,2023-01-24,True,True,2021-01-01,23.75,True
+prr_sensitive,91506|CBK|BAXTER,91506,ventilators_cpap,CBK,BAXTER,2023-01-25,False,True,,,False
+prr_sensitive,91837|BZD|RESPIRONICS,91837,ventilators_cpap,BZD,RESPIRONICS,2023-02-10,True,True,2021-03-01,22.37,True
+prr_sensitive,91846|FRN|IRADIMED,91846,infusion_pumps,FRN,IRADIMED,2023-02-24,True,True,,,False
+prr_sensitive,91832|CBK|RESPIRONICS,91832,ventilators_cpap,CBK,RESPIRONICS,2023-03-01,True,True,2021-03-01,23.0,True
+prr_sensitive,91783|FRN|FRESENIUS,91783,infusion_pumps,FRN,FRESENIUS,2023-03-10,True,True,2022-10-01,4.27,True
+prr_sensitive,91925|CBK|HAMILTON,91925,ventilators_cpap,CBK,HAMILTON,2023-03-14,True,True,2022-01-01,13.37,True
+prr_sensitive,91874|FRN|ICU MEDICAL,91874,infusion_pumps,FRN,ICU MEDICAL,2023-03-22,True,True,2021-03-01,23.69,True
+prr_sensitive,93648|CBK|PERCUSSIONAIRE,93648,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-03-28,False,True,,,False
+prr_sensitive,92049|BZD|DRAEGER,92049,ventilators_cpap,BZD,DRAEGER,2023-04-17,False,False,,,False
+prr_sensitive,92279|FRN|AVANOS,92279,infusion_pumps,FRN,AVANOS,2023-04-24,True,True,,,False
+prr_sensitive,92048|CBK|RESPIRONICS,92048,ventilators_cpap,CBK,RESPIRONICS,2023-05-01,True,True,2021-05-01,23.0,True
+prr_sensitive,92243|CBK|VYAIRE,92243,ventilators_cpap,CBK,VYAIRE,2023-05-05,True,True,2021-10-01,18.1,True
+prr_sensitive,93968|FRN|FRESENIUS,93968,infusion_pumps,FRN,FRESENIUS,2023-05-10,True,True,2022-10-01,6.28,True
+prr_sensitive,92448|MNT|DRE MEDICAL GROUP,92448,ventilators_cpap,MNT,DRE MEDICAL GROUP,2023-05-15,False,False,,,False
+prr_sensitive,92515|CBK|RESPIRONICS,92515,ventilators_cpap,CBK,RESPIRONICS,2023-05-25,True,True,2021-05-01,23.79,True
+prr_sensitive,92443|CBK|DRAEGER,92443,ventilators_cpap,CBK,DRAEGER,2023-06-12,True,True,,,False
+prr_sensitive,99247|BZD|3B MEDICAL,99247,ventilators_cpap,BZD,3B MEDICAL,2023-06-15,False,True,,,False
+prr_sensitive,92562|FRN|BAXTER,92562,infusion_pumps,FRN,BAXTER,2023-06-15,True,True,2021-06-01,23.49,True
+prr_sensitive,92482|CBK|HAMILTON,92482,ventilators_cpap,CBK,HAMILTON,2023-06-15,True,True,2022-01-01,16.43,True
+prr_sensitive,92629|CBK|DRAEGER,92629,ventilators_cpap,CBK,DRAEGER,2023-07-12,True,True,,,False
+prr_sensitive,92630|FRN|ICU MEDICAL,92630,infusion_pumps,FRN,ICU MEDICAL,2023-07-13,True,True,2021-07-01,23.39,True
+prr_sensitive,92873|CBK|HAMILTON,92873,ventilators_cpap,CBK,HAMILTON,2023-07-26,True,True,2022-01-01,17.77,True
+prr_sensitive,92956|FRN|SMITHS,92956,infusion_pumps,FRN,SMITHS,2023-08-16,True,True,2021-08-01,23.49,True
+prr_sensitive,93015|MNT|RESPIRONICS,93015,ventilators_cpap,MNT,RESPIRONICS,2023-08-25,True,True,2021-08-01,23.79,True
+prr_sensitive,93105|FRN|EITAN,93105,infusion_pumps,FRN,EITAN,2023-09-11,True,True,2021-12-01,20.34,True
+prr_sensitive,93122|CBK|RESMED,93122,ventilators_cpap,CBK,RESMED,2023-09-13,True,True,2021-09-01,23.43,True
+prr_sensitive,93106|FRN|CAREFUSION,93106,infusion_pumps,FRN,CAREFUSION,2023-09-15,True,True,2021-09-01,23.49,True
+prr_sensitive,92978|FRN|B BRAUN,92978,infusion_pumps,FRN,B BRAUN,2023-09-21,True,True,2021-09-01,23.69,True
+prr_sensitive,93331|NOU|BREAS,93331,ventilators_cpap,NOU,BREAS,2023-10-13,True,True,2022-05-01,16.43,True
+prr_sensitive,93191|FRN|BAXTER,93191,infusion_pumps,FRN,BAXTER,2023-10-13,True,True,2021-10-01,23.39,True
+prr_sensitive,93499|BZD|RESMED,93499,ventilators_cpap,BZD,RESMED,2023-11-20,True,True,2021-12-01,22.64,True
+prr_sensitive,93609|CBK|RESPIRONICS,93609,ventilators_cpap,CBK,RESPIRONICS,2023-11-27,True,True,2021-11-01,23.89,True
+prr_sensitive,93474|FRN|FRESENIUS,93474,infusion_pumps,FRN,FRESENIUS,2023-11-29,True,True,2022-10-01,12.94,True
+prr_sensitive,93476|CBK|PERCUSSIONAIRE,93476,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-12-12,False,True,,,False
+prr_sensitive,93757|FRN|SMITHS,93757,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+prr_sensitive,93771|FRN|SMITHS,93771,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+prr_sensitive,93754|FRN|SMITHS,93754,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+prr_sensitive,93857|FRN|ZYNO MEDICAL,93857,infusion_pumps,FRN,ZYNO MEDICAL,2023-12-20,True,True,2023-04-01,7.69,True
+prr_sensitive,93806|CBK|VENTEC,93806,ventilators_cpap,CBK,VENTEC,2024-01-09,True,True,2022-01-01,23.26,True
+prr_sensitive,94124|FRN|INFUTRONIX,94124,infusion_pumps,FRN,INFUTRONIX,2024-02-21,True,True,2022-03-01,22.74,True
+prr_sensitive,94225|MEA|SMITHS,94225,infusion_pumps,MEA,SMITHS,2024-02-27,True,True,2022-02-01,23.95,True
+prr_sensitive,94225|FRN|SMITHS,94225,infusion_pumps,FRN,SMITHS,2024-02-27,True,True,2022-02-01,23.95,True
+prr_sensitive,94169|BZD|SLEEPNET,94169,ventilators_cpap,BZD,SLEEPNET,2024-03-01,False,False,,,False
+prr_sensitive,94228|FRN|FRESENIUS,94228,infusion_pumps,FRN,FRESENIUS,2024-03-07,True,True,2022-10-01,16.2,True
+prr_sensitive,94263|CBK|RESPIRONICS,94263,ventilators_cpap,CBK,RESPIRONICS,2024-03-19,True,True,2022-03-01,23.62,True
+prr_sensitive,94446|FRN|BAXTER,94446,infusion_pumps,FRN,BAXTER,2024-03-20,True,True,2022-03-01,23.66,True
+prr_sensitive,94475|MNT|RESPIRONICS,94475,ventilators_cpap,MNT,RESPIRONICS,2024-03-26,True,True,2022-03-01,23.85,True
+prr_sensitive,94475|MNS|RESPIRONICS,94475,ventilators_cpap,MNS,RESPIRONICS,2024-03-26,True,True,,,False
+prr_sensitive,94487|MNS|RESPIRONICS,94487,ventilators_cpap,MNS,RESPIRONICS,2024-04-01,True,True,,,False
+prr_sensitive,94451|FRN|BAXTER,94451,infusion_pumps,FRN,BAXTER,2024-04-09,True,True,2022-04-01,23.33,True
+prr_sensitive,94491|FRN|OPTUMHEALTH CARE SOLUTIONS,94491,infusion_pumps,FRN,OPTUMHEALTH CARE SOLUTIONS,2024-04-18,False,False,,,False
+prr_sensitive,94589|CBK|ZOLL MEDICAL,94589,ventilators_cpap,CBK,ZOLL MEDICAL,2024-04-30,True,True,2022-04-01,24.02,True
+prr_sensitive,94690|FRN|ICU MEDICAL,94690,infusion_pumps,FRN,ICU MEDICAL,2024-05-07,True,True,2022-05-01,23.23,True
+prr_sensitive,94671|CBK|HAMILTON,94671,ventilators_cpap,CBK,HAMILTON,2024-05-15,True,True,2022-07-01,21.49,True
+prr_sensitive,94718|FRN|CAREFUSION,94718,infusion_pumps,FRN,CAREFUSION,2024-05-21,True,True,2022-05-01,23.69,True
+prr_sensitive,94701|CBK|BAXTER,94701,ventilators_cpap,CBK,BAXTER,2024-05-29,False,True,,,False
+prr_sensitive,94768|FRN|ZYNO MEDICAL,94768,infusion_pumps,FRN,ZYNO MEDICAL,2024-06-04,True,True,2023-04-01,13.17,True
+prr_sensitive,94890|FRN|B BRAUN,94890,infusion_pumps,FRN,B BRAUN,2024-06-14,True,True,2022-06-01,23.49,True
+prr_sensitive,94959|FRN|BAXTER,94959,infusion_pumps,FRN,BAXTER,2024-06-14,True,True,2022-06-01,23.49,True
+prr_sensitive,94855|CBK|MEDTRONIC,94855,ventilators_cpap,CBK,MEDTRONIC,2024-06-24,True,True,2022-06-01,23.82,True
+prr_sensitive,95483|MEA|SMITHS,95483,infusion_pumps,MEA,SMITHS,2024-06-26,True,True,2022-06-01,23.89,True
+prr_sensitive,95078|CBK|RESPIRONICS,95078,ventilators_cpap,CBK,RESPIRONICS,2024-07-16,True,True,2022-07-01,23.52,True
+prr_sensitive,95078|NOU|RESPIRONICS,95078,ventilators_cpap,NOU,RESPIRONICS,2024-07-16,True,True,2023-04-01,14.55,True
+prr_sensitive,95287|FRN|SMITHS,95287,infusion_pumps,FRN,SMITHS,2024-07-16,True,True,2022-07-01,23.52,True
+prr_sensitive,94988|FRN|BAXTER,94988,infusion_pumps,FRN,BAXTER,2024-07-17,True,True,2022-07-01,23.56,True
+prr_sensitive,95042|NOU|BREAS,95042,ventilators_cpap,NOU,BREAS,2024-07-25,True,True,2022-07-01,23.82,True
+prr_sensitive,95093|FRN|B BRAUN,95093,infusion_pumps,FRN,B BRAUN,2024-08-07,True,True,2022-08-01,23.23,True
+prr_sensitive,94937|FRN|CAREFUSION,94937,infusion_pumps,FRN,CAREFUSION,2024-08-15,True,True,2022-08-01,23.49,True
+prr_sensitive,95240|FRN|FRESENIUS,95240,infusion_pumps,FRN,FRESENIUS,2024-08-30,True,True,2022-10-01,21.98,True
+prr_sensitive,95398|CBK|BAXTER,95398,ventilators_cpap,CBK,BAXTER,2024-09-12,False,True,,,False
+prr_sensitive,95382|FRN|ZYNO MEDICAL,95382,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-13,True,True,2023-04-01,16.49,True
+prr_sensitive,95635|FRN|ZYNO MEDICAL,95635,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-30,True,True,2023-04-01,17.05,True
+prr_sensitive,95505|FRN|BAXTER,95505,infusion_pumps,FRN,BAXTER,2024-10-02,True,True,2022-10-01,23.06,True
+prr_sensitive,95486|CBK|RESPIRONICS,95486,ventilators_cpap,CBK,RESPIRONICS,2024-10-07,True,True,2022-10-01,23.23,True
+prr_sensitive,95601|FRN|ZYNO MEDICAL,95601,infusion_pumps,FRN,ZYNO MEDICAL,2024-10-18,True,True,2023-04-01,17.64,True
+prr_sensitive,95586|FRN|ICU MEDICAL,95586,infusion_pumps,FRN,ICU MEDICAL,2024-10-22,True,True,2022-10-01,23.72,True
+prr_sensitive,95848|FRN|BAXTER,95848,infusion_pumps,FRN,BAXTER,2024-11-19,True,True,2022-11-01,23.66,True
+prr_sensitive,95891|FRN|FRESENIUS,95891,infusion_pumps,FRN,FRESENIUS,2024-12-06,True,True,2022-12-01,23.2,True
+prr_sensitive,95842|CBK|BAXTER,95842,ventilators_cpap,CBK,BAXTER,2024-12-20,False,True,,,False
+prr_sensitive,95979|CBK|PERCUSSIONAIRE,95979,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-12-23,True,True,2024-01-01,10.74,True
+prr_sensitive,96092|FRN|BELMONT,96092,infusion_pumps,FRN,BELMONT,2025-01-02,True,True,2023-01-01,23.06,True
+prr_sensitive,96085|FRN|FRESENIUS,96085,infusion_pumps,FRN,FRESENIUS,2025-01-10,True,True,2023-07-01,17.38,True
+prr_sensitive,96069|FRN|CAREFUSION,96069,infusion_pumps,FRN,CAREFUSION,2025-01-23,True,True,2023-01-01,23.75,True
+prr_sensitive,96200|LZG|MEDTRONIC,96200,infusion_pumps,LZG,MEDTRONIC,2025-01-31,True,True,2023-01-01,24.02,True
+prr_sensitive,96136|CBK|VENTEC,96136,ventilators_cpap,CBK,VENTEC,2025-02-03,True,True,2023-03-01,22.18,True
+prr_sensitive,96289|FRN|BAXTER,96289,infusion_pumps,FRN,BAXTER,2025-02-05,True,True,2023-02-01,23.26,True
+prr_sensitive,96388|FRN|BAXTER,96388,infusion_pumps,FRN,BAXTER,2025-03-03,True,True,2023-03-01,23.1,True
+prr_sensitive,96611|CBK|BAXTER,96611,ventilators_cpap,CBK,BAXTER,2025-04-07,False,True,,,False
+prr_sensitive,96624|FRN|SMITHS,96624,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_sensitive,96620|FRN|SMITHS,96620,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_sensitive,96628|MEA|SMITHS,96628,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_sensitive,96620|MEA|SMITHS,96620,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_sensitive,96624|MEA|SMITHS,96624,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_sensitive,96777|FRN|ICU MEDICAL,96777,infusion_pumps,FRN,ICU MEDICAL,2025-04-22,True,True,2023-04-01,23.75,True
+prr_sensitive,96721|FRN|BAXTER,96721,infusion_pumps,FRN,BAXTER,2025-04-24,True,True,2023-04-01,23.82,True
+prr_sensitive,96796|FRN|ZYNO MEDICAL,96796,infusion_pumps,FRN,ZYNO MEDICAL,2025-05-07,True,True,2023-05-01,23.23,True
+prr_sensitive,96948|MNS|RESPIRONICS,96948,ventilators_cpap,MNS,RESPIRONICS,2025-05-09,True,True,,,False
+prr_sensitive,96948|MNT|RESPIRONICS,96948,ventilators_cpap,MNT,RESPIRONICS,2025-05-09,True,True,2024-10-01,6.24,True
+prr_sensitive,96822|FRN|BAXTER,96822,infusion_pumps,FRN,BAXTER,2025-05-12,True,True,2023-05-01,23.39,True
+prr_sensitive,96774|CBK|MEDTRONIC,96774,ventilators_cpap,CBK,MEDTRONIC,2025-05-21,True,True,2023-05-01,23.69,True
+prr_sensitive,97032|CBK|MAQUET,97032,ventilators_cpap,CBK,MAQUET,2025-05-30,True,True,2023-06-01,23.0,True
+prr_sensitive,97079|CBK|HAMILTON,97079,ventilators_cpap,CBK,HAMILTON,2025-06-03,True,True,2023-06-01,23.13,True
+prr_sensitive,97165|FRN|FRESENIUS,97165,infusion_pumps,FRN,FRESENIUS,2025-06-24,True,True,2023-07-01,22.8,True
+prr_sensitive,97191|BZD|RESPIRONICS,97191,ventilators_cpap,BZD,RESPIRONICS,2025-06-30,True,True,2023-11-01,18.99,True
+prr_sensitive,97067|FRN|CAREFUSION,97067,infusion_pumps,FRN,CAREFUSION,2025-07-08,True,True,2023-07-01,23.26,True
+prr_sensitive,97186|FRN|ICU MEDICAL,97186,infusion_pumps,FRN,ICU MEDICAL,2025-07-11,True,True,2023-09-01,21.36,True
+prr_sensitive,97335|FRN|BAXTER,97335,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2023-07-01,23.46,True
+prr_sensitive,97164|FRN|BAXTER,97164,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2023-07-01,23.46,True
+prr_sensitive,97296|FRN|BAXTER,97296,infusion_pumps,FRN,BAXTER,2025-08-04,True,True,2023-08-01,23.13,True
+prr_sensitive,97554|FRN|FRESENIUS,97554,infusion_pumps,FRN,FRESENIUS,2025-09-03,True,True,2023-09-01,23.13,True
+prr_sensitive,97669|FRN|CAREFUSION,97669,infusion_pumps,FRN,CAREFUSION,2025-10-17,True,True,2023-10-01,23.56,True
+prr_sensitive,97941|FRN|FRESENIUS,97941,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2023-11-01,23.13,True
+prr_sensitive,97939|FRN|FRESENIUS,97939,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2023-11-01,23.13,True
+prr_sensitive,97871|FRN|CAREFUSION,97871,infusion_pumps,FRN,CAREFUSION,2025-11-06,True,True,2023-11-01,23.23,True
+prr_sensitive,98009|FRN|FRESENIUS,98009,infusion_pumps,FRN,FRESENIUS,2025-11-14,True,True,2023-11-01,23.49,True
+prr_sensitive,98106|FRN|FRESENIUS,98106,infusion_pumps,FRN,FRESENIUS,2025-11-21,True,True,2023-11-01,23.72,True
+prr_sensitive,98167|FRN|BAXTER,98167,infusion_pumps,FRN,BAXTER,2025-11-28,True,True,2023-11-01,23.95,True
+prr_sensitive,98129|FRN|ICU MEDICAL,98129,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+prr_sensitive,98128|FRN|ICU MEDICAL,98128,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+prr_sensitive,98306|FRN|BAXTER,98306,infusion_pumps,FRN,BAXTER,2026-01-13,True,True,2024-01-01,23.43,True
+prr_sensitive,98699|FRN|FRESENIUS,98699,infusion_pumps,FRN,FRESENIUS,2026-02-04,True,True,2024-02-01,23.2,True
+prr_sensitive,98250|FRN|CAREFUSION,98250,infusion_pumps,FRN,CAREFUSION,2026-02-11,True,True,2024-02-01,23.43,True
+prr_sensitive,98186|LZG|MEDTRONIC,98186,infusion_pumps,LZG,MEDTRONIC,2026-02-13,True,True,2024-02-01,23.49,True
+prr_sensitive,98537|CBK|RESPIRONICS,98537,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-03-01,23.03,True
+prr_sensitive,98540|CBK|RESPIRONICS,98540,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-03-01,23.03,True
+prr_sensitive,98554|NOU|VENTEC,98554,ventilators_cpap,NOU,VENTEC,2026-03-25,True,True,,,False
+prr_sensitive,98872|FRN|ICU MEDICAL,98872,infusion_pumps,FRN,ICU MEDICAL,2026-04-29,True,True,2024-04-01,23.95,True
+prr_sensitive,98929|FRN|FRESENIUS,98929,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-09-01,19.15,True
+prr_sensitive,98945|FRN|FRESENIUS,98945,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-09-01,19.15,True
+prr_sensitive,98888|CBK|VENTEC,98888,ventilators_cpap,CBK,VENTEC,2026-05-08,True,True,2024-05-01,23.23,True
+prr_sensitive,99058|FRN|ICU MEDICAL,99058,infusion_pumps,FRN,ICU MEDICAL,2026-05-12,True,True,2024-07-01,21.36,True
+prr_sensitive,99034|LZG|INSULET,99034,infusion_pumps,LZG,INSULET,2026-05-20,True,True,2024-05-01,23.62,True
+prr_sensitive,99192|FRN|ICU MEDICAL,99192,infusion_pumps,FRN,ICU MEDICAL,2026-06-10,True,True,2024-07-01,22.31,True
+prr_sensitive,99304|CBK|RESMED,99304,ventilators_cpap,CBK,RESMED,2026-06-25,False,True,,,False
+prr_sensitive,99439|CBK|MAQUET,99439,ventilators_cpap,CBK,MAQUET,2026-06-30,True,True,2024-06-01,23.98,True
+prr_sensitive,99445|MNS|BMC MEDICAL,99445,ventilators_cpap,MNS,BMC MEDICAL,2026-07-15,False,False,,,False
+prr_sensitive,99557|FRN|BAXTER,99557,infusion_pumps,FRN,BAXTER,2026-08-11,True,True,2024-08-01,23.33,True
+prr_sensitive,99643|BZD|COOPERSURGICAL,99643,ventilators_cpap,BZD,COOPERSURGICAL,2026-08-11,False,True,,,False
+prr_sensitive,99835|CBK|VENTEC,99835,ventilators_cpap,CBK,VENTEC,2026-09-17,True,True,2024-09-01,23.56,True
+prr_strict,76364|FRN|BAXTER,76364,infusion_pumps,FRN,BAXTER,2017-01-26,True,True,,,False
+prr_strict,76377|MNT|RESPIRONICS,76377,ventilators_cpap,MNT,RESPIRONICS,2017-02-01,True,True,,,False
+prr_strict,76429|CBK|DEL MAR REYNOLDS MEDICAL,76429,ventilators_cpap,CBK,DEL MAR REYNOLDS MEDICAL,2017-02-08,False,False,,,False
+prr_strict,76891|CBK|NEWPORT,76891,ventilators_cpap,CBK,NEWPORT,2017-03-30,True,True,2017-01-01,1.91,True
+prr_strict,77084|MNT|RESPIRONICS,77084,ventilators_cpap,MNT,RESPIRONICS,2017-04-24,True,True,,,False
+prr_strict,77555|FRN|SMITHS,77555,infusion_pumps,FRN,SMITHS,2017-06-05,True,True,2017-01-01,4.11,True
+prr_strict,77279|FRN|CAREFUSION,77279,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,2017-01-01,4.34,True
+prr_strict,77077|FRN|CAREFUSION,77077,infusion_pumps,FRN,CAREFUSION,2017-06-12,True,True,2017-01-01,4.34,True
+prr_strict,77624|FRN|ICU MEDICAL,77624,infusion_pumps,FRN,ICU MEDICAL,2017-06-15,True,True,2017-01-01,4.44,True
+prr_strict,79248|CBK|ZOLL MEDICAL,79248,ventilators_cpap,CBK,ZOLL MEDICAL,2017-06-30,True,True,2017-03-01,2.99,True
+prr_strict,77987|FRN|CAREFUSION,77987,infusion_pumps,FRN,CAREFUSION,2017-08-09,True,True,2017-01-01,6.24,True
+prr_strict,77761|FRN|SMITHS,77761,infusion_pumps,FRN,SMITHS,2017-08-22,True,True,2017-01-01,6.67,True
+prr_strict,78943|MEA|SMITHS,78943,infusion_pumps,MEA,SMITHS,2017-08-24,True,True,,,False
+prr_strict,78255|FRN|SMITHS,78255,infusion_pumps,FRN,SMITHS,2017-09-25,True,True,2017-01-01,7.79,True
+prr_strict,78302|FRN|WALKMED,78302,infusion_pumps,FRN,WALKMED,2017-09-27,True,True,,,False
+prr_strict,79177|FRN|BAXTER,79177,infusion_pumps,FRN,BAXTER,2017-10-06,True,True,2017-01-01,8.15,True
+prr_strict,78418|FRN|ICU MEDICAL,78418,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+prr_strict,78312|FRN|ICU MEDICAL,78312,infusion_pumps,FRN,ICU MEDICAL,2017-10-30,True,True,2017-01-01,8.94,True
+prr_strict,78922|FRN|SMITHS,78922,infusion_pumps,FRN,SMITHS,2017-11-13,True,True,2017-01-01,9.4,True
+prr_strict,78588|MEA|CAREFUSION,78588,infusion_pumps,MEA,CAREFUSION,2017-11-17,True,True,,,False
+prr_strict,78588|FRN|CAREFUSION,78588,infusion_pumps,FRN,CAREFUSION,2017-11-17,True,True,2017-01-01,9.53,True
+prr_strict,79371|CBK|MEDTRONIC,79371,ventilators_cpap,CBK,MEDTRONIC,2017-11-21,True,True,2017-02-01,8.74,True
+prr_strict,78673|FRN|SMITHS,78673,infusion_pumps,FRN,SMITHS,2017-11-22,True,True,2017-01-01,9.69,True
+prr_strict,81208|FRN|FRESENIUS,81208,infusion_pumps,FRN,FRESENIUS,2017-12-02,True,True,2017-01-01,10.02,True
+prr_strict,80173|CBK|DATEX,80173,ventilators_cpap,CBK,DATEX,2017-12-08,True,True,2017-05-01,6.28,True
+prr_strict,80467|CBK|HAMILTON,80467,ventilators_cpap,CBK,HAMILTON,2018-03-09,True,True,,,False
+prr_strict,78599|CBK|HAMILTON,78599,ventilators_cpap,CBK,HAMILTON,2018-03-12,True,True,,,False
+prr_strict,79815|FRN|BAXTER,79815,infusion_pumps,FRN,BAXTER,2018-04-03,True,True,2017-01-01,14.03,True
+prr_strict,80490|FRN|SMITHS,80490,infusion_pumps,FRN,SMITHS,2018-04-13,True,True,2017-01-01,14.36,True
+prr_strict,82143|FRN|CAREFUSION,82143,infusion_pumps,FRN,CAREFUSION,2018-04-13,True,True,2017-01-01,14.36,True
+prr_strict,80027|CBK|DRAEGER,80027,ventilators_cpap,CBK,DRAEGER,2018-04-26,True,True,2017-01-01,14.78,True
+prr_strict,80014|FRN|BAXTER,80014,infusion_pumps,FRN,BAXTER,2018-05-08,True,True,2017-01-01,15.18,True
+prr_strict,80296|NOU|HUMAN DESIGN MEDICAL,80296,ventilators_cpap,NOU,HUMAN DESIGN MEDICAL,2018-05-08,False,False,,,False
+prr_strict,89584|CBK|RESPIRONICS,89584,ventilators_cpap,CBK,RESPIRONICS,2018-06-12,True,True,2017-01-01,16.33,True
+prr_strict,80545|BZD|COMPASS HEALTH BRANDS CORPORATE OFFICE,80545,ventilators_cpap,BZD,COMPASS HEALTH BRANDS CORPORATE OFFICE,2018-06-18,False,False,,,False
+prr_strict,80355|FRN|BAXTER,80355,infusion_pumps,FRN,BAXTER,2018-06-21,True,True,2017-01-01,16.62,True
+prr_strict,80458|CBK|DATEX,80458,ventilators_cpap,CBK,DATEX,2018-06-28,True,True,2017-05-01,12.91,True
+prr_strict,80462|CBK|SPACELABS HEALTHCARE,80462,ventilators_cpap,CBK,SPACELABS HEALTHCARE,2018-07-11,True,True,2017-10-01,8.31,True
+prr_strict,83480|FRN|ICU MEDICAL,83480,infusion_pumps,FRN,ICU MEDICAL,2018-08-01,True,True,2017-01-01,17.97,True
+prr_strict,82078|LZG|MEDTRONIC,82078,infusion_pumps,LZG,MEDTRONIC,2018-08-07,True,True,2017-01-01,18.17,True
+prr_strict,81167|CBK|MEDTRONIC,81167,ventilators_cpap,CBK,MEDTRONIC,2018-09-18,True,True,2017-02-01,18.63,True
+prr_strict,81341|CBK|GE HEALTHCARE,81341,ventilators_cpap,CBK,GE HEALTHCARE,2018-10-05,True,True,2018-07-01,2.17,True
+prr_strict,82003|LZG|INSULET,82003,infusion_pumps,LZG,INSULET,2018-12-18,True,True,2017-01-01,22.54,True
+prr_strict,82864|FRN|ZEVEX,82864,infusion_pumps,FRN,ZEVEX,2019-02-27,True,True,,,False
+prr_strict,82328|CBK|HAMILTON,82328,ventilators_cpap,CBK,HAMILTON,2019-03-25,True,True,,,False
+prr_strict,82997|FRN|INFUTRONIX,82997,infusion_pumps,FRN,INFUTRONIX,2019-05-28,True,True,2018-02-01,14.92,True
+prr_strict,83318|BZD|GALEMED,83318,ventilators_cpap,BZD,GALEMED,2019-05-30,False,True,,,False
+prr_strict,83119|BZD|TELEFLEX,83119,ventilators_cpap,BZD,TELEFLEX,2019-06-14,False,True,2018-04-01,13.47,True
+prr_strict,83138|FRN|FENWAL,83138,infusion_pumps,FRN,FENWAL,2019-06-24,False,False,,,False
+prr_strict,83433|LZG|MEDTRONIC,83433,infusion_pumps,LZG,MEDTRONIC,2019-06-27,True,True,2017-06-01,23.89,True
+prr_strict,83386|LZG|VALERITAS,83386,infusion_pumps,LZG,VALERITAS,2019-07-03,True,True,2018-10-01,8.05,True
+prr_strict,83425|CBK|GE HEALTHCARE,83425,ventilators_cpap,CBK,GE HEALTHCARE,2019-07-19,True,True,2018-07-01,11.6,True
+prr_strict,83549|FRN|ICU MEDICAL,83549,infusion_pumps,FRN,ICU MEDICAL,2019-07-29,True,True,2017-07-01,23.92,True
+prr_strict,83980|MNT|RESPIRONICS,83980,ventilators_cpap,MNT,RESPIRONICS,2019-09-11,True,True,,,False
+prr_strict,84985|FRN|CME AMERICA,84985,infusion_pumps,FRN,CME AMERICA,2019-09-16,True,True,,,False
+prr_strict,84232|FRN|SMITHS,84232,infusion_pumps,FRN,SMITHS,2019-10-28,True,True,2017-10-01,23.89,True
+prr_strict,84406|CBK|RESPIRONICS,84406,ventilators_cpap,CBK,RESPIRONICS,2019-11-19,True,True,2017-12-01,22.6,True
+prr_strict,84337|CBK|VYAIRE,84337,ventilators_cpap,CBK,VYAIRE,2019-11-25,True,True,2017-11-01,23.82,True
+prr_strict,84551|MNT|RESMED,84551,ventilators_cpap,MNT,RESMED,2019-12-12,True,True,2019-01-01,10.35,True
+prr_strict,85033|FRN|CME AMERICA,85033,infusion_pumps,FRN,CME AMERICA,2020-01-07,True,True,,,False
+prr_strict,84828|NOU|BREAS,84828,ventilators_cpap,NOU,BREAS,2020-01-28,True,True,,,False
+prr_strict,84579|FRN|CAREFUSION,84579,infusion_pumps,FRN,CAREFUSION,2020-02-04,True,True,2018-02-01,23.2,True
+prr_strict,84982|LZG|INSULET,84982,infusion_pumps,LZG,INSULET,2020-02-13,True,True,2018-02-01,23.49,True
+prr_strict,85479|FRN|CME AMERICA,85479,infusion_pumps,FRN,CME AMERICA,2020-02-27,True,True,,,False
+prr_strict,85113|MNT|RESPIRONICS,85113,ventilators_cpap,MNT,RESPIRONICS,2020-03-05,True,True,,,False
+prr_strict,88701|FRN|SMITHS,88701,infusion_pumps,FRN,SMITHS,2020-03-24,True,True,2018-03-01,23.79,True
+prr_strict,85552|LZG|INSULET,85552,infusion_pumps,LZG,INSULET,2020-04-02,True,True,2018-04-01,23.1,True
+prr_strict,85912|FRN|SMITHS,85912,infusion_pumps,FRN,SMITHS,2020-06-26,True,True,2018-06-01,23.89,True
+prr_strict,85915|FRN|CAREFUSION,85915,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_strict,85919|FRN|CAREFUSION,85919,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_strict,85954|FRN|CAREFUSION,85954,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_strict,86062|FRN|BAXTER,86062,infusion_pumps,FRN,BAXTER,2020-06-30,True,True,2018-06-01,24.02,True
+prr_strict,85691|FRN|CAREFUSION,85691,infusion_pumps,FRN,CAREFUSION,2020-06-30,True,True,2018-06-01,24.02,True
+prr_strict,86107|CBK|GE HEALTHCARE,86107,ventilators_cpap,CBK,GE HEALTHCARE,2020-07-14,False,True,2018-07-01,23.46,True
+prr_strict,86047|FRN|CME AMERICA,86047,infusion_pumps,FRN,CME AMERICA,2020-07-30,True,True,2020-03-01,3.98,True
+prr_strict,85962|FRN|CAREFUSION,85962,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+prr_strict,85900|FRN|CAREFUSION,85900,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+prr_strict,86005|FRN|CAREFUSION,86005,infusion_pumps,FRN,CAREFUSION,2020-08-04,True,True,2018-08-01,23.13,True
+prr_strict,93192|CBK|PERCUSSIONAIRE,93192,ventilators_cpap,CBK,PERCUSSIONAIRE,2020-09-14,False,True,,,False
+prr_strict,86548|CBK|GETINGE,86548,ventilators_cpap,CBK,GETINGE,2020-09-17,False,True,,,False
+prr_strict,86643|CBK|MEDTRONIC,86643,ventilators_cpap,CBK,MEDTRONIC,2020-10-16,True,True,2018-10-01,23.52,True
+prr_strict,86646|MNT|RESPIRONICS,86646,ventilators_cpap,MNT,RESPIRONICS,2020-10-30,True,True,,,False
+prr_strict,86697|MNT|RESPIRONICS,86697,ventilators_cpap,MNT,RESPIRONICS,2020-11-02,True,True,,,False
+prr_strict,86756|CBK|HILL ROM MANUFACTURING,86756,ventilators_cpap,CBK,HILL ROM MANUFACTURING,2020-11-12,False,False,,,False
+prr_strict,86758|FRN|BAXTER,86758,infusion_pumps,FRN,BAXTER,2020-11-23,True,True,2018-11-01,23.79,True
+prr_strict,87314|MNT|RESPIRONICS,87314,ventilators_cpap,MNT,RESPIRONICS,2021-01-06,True,True,,,False
+prr_strict,86788|FRN|BAXTER,86788,infusion_pumps,FRN,BAXTER,2021-01-06,True,True,2019-01-01,23.2,True
+prr_strict,87305|LZG|INSULET,87305,infusion_pumps,LZG,INSULET,2021-02-01,True,True,2019-02-01,23.13,True
+prr_strict,88170|FRN|BIOMEDICAL EQUIPMENT SERVICE BMES,88170,infusion_pumps,FRN,BIOMEDICAL EQUIPMENT SERVICE BMES,2021-02-25,False,False,,,False
+prr_strict,87470|FRN|TENACORE,87470,infusion_pumps,FRN,TENACORE,2021-02-25,False,False,,,False
+prr_strict,87773|FRN|STEP HAR MEDICAL,87773,infusion_pumps,FRN,STEP HAR MEDICAL,2021-02-26,False,False,,,False
+prr_strict,87387|FRN|CAREFUSION,87387,infusion_pumps,FRN,CAREFUSION,2021-03-03,True,True,2019-03-01,23.1,True
+prr_strict,87568|FRN|BAXTER,87568,infusion_pumps,FRN,BAXTER,2021-03-19,True,True,2019-03-01,23.62,True
+prr_strict,87483|FRN|PACIFIC MEDICAL GROUP,87483,infusion_pumps,FRN,PACIFIC MEDICAL GROUP,2021-03-24,False,False,,,False
+prr_strict,87768|FRN|BIOMED,87768,infusion_pumps,FRN,BIOMED,2021-03-25,False,False,,,False
+prr_strict,87657|FRN|INFUSION,87657,infusion_pumps,FRN,INFUSION,2021-03-26,False,True,,,False
+prr_strict,87753|MNT|RESPIRONICS,87753,ventilators_cpap,MNT,RESPIRONICS,2021-04-06,True,True,,,False
+prr_strict,87753|MNS|RESPIRONICS,87753,ventilators_cpap,MNS,RESPIRONICS,2021-04-06,True,True,,,False
+prr_strict,87819|CBK|DRAEGER,87819,ventilators_cpap,CBK,DRAEGER,2021-04-16,True,True,,,False
+prr_strict,87838|CBK|VENTEC,87838,ventilators_cpap,CBK,VENTEC,2021-05-10,True,True,2019-06-01,22.34,True
+prr_strict,88073|FRN|BAXTER,88073,infusion_pumps,FRN,BAXTER,2021-06-04,True,True,2019-06-01,23.16,True
+prr_strict,88058|BZD|RESPIRONICS,88058,ventilators_cpap,BZD,RESPIRONICS,2021-06-14,True,True,2021-05-01,0.46,True
+prr_strict,88058|MNS|RESPIRONICS,88058,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,,,False
+prr_strict,88071|MNS|RESPIRONICS,88071,ventilators_cpap,MNS,RESPIRONICS,2021-06-14,True,True,,,False
+prr_strict,88071|CBK|RESPIRONICS,88071,ventilators_cpap,CBK,RESPIRONICS,2021-06-14,True,True,2019-06-01,23.49,True
+prr_strict,88127|MNT|RESPIRONICS,88127,ventilators_cpap,MNT,RESPIRONICS,2021-06-18,True,True,,,False
+prr_strict,88246|FRN|BAXTER,88246,infusion_pumps,FRN,BAXTER,2021-07-07,True,True,2019-11-01,19.22,True
+prr_strict,88411|CBK|NIHON KOHDEN ORANGEMED,88411,ventilators_cpap,CBK,NIHON KOHDEN ORANGEMED,2021-07-20,True,True,2020-12-01,6.6,True
+prr_strict,88333|NOU|RESPIRONICS,88333,ventilators_cpap,NOU,RESPIRONICS,2021-07-26,False,True,,,False
+prr_strict,88333|CBK|RESPIRONICS,88333,ventilators_cpap,CBK,RESPIRONICS,2021-07-26,True,True,2019-07-01,23.85,True
+prr_strict,88362|LZG|ROCHE,88362,infusion_pumps,LZG,ROCHE,2021-07-28,True,True,2019-07-01,23.92,True
+prr_strict,88635|CBK|DRAEGER,88635,ventilators_cpap,CBK,DRAEGER,2021-09-10,True,True,,,False
+prr_strict,89711|FRN|INFUTRONIX,89711,infusion_pumps,FRN,INFUTRONIX,2021-10-19,True,True,2021-08-01,1.61,True
+prr_strict,88987|CBK|MEDTRONIC,88987,ventilators_cpap,CBK,MEDTRONIC,2021-11-04,True,True,2020-02-01,20.17,True
+prr_strict,89366|CBK|VYAIRE,89366,ventilators_cpap,CBK,VYAIRE,2021-12-20,True,True,2019-12-01,23.66,True
+prr_strict,89276|CBK|RESPIRONICS,89276,ventilators_cpap,CBK,RESPIRONICS,2021-12-22,True,True,2019-12-01,23.72,True
+prr_strict,89017|FRN|BAXTER,89017,infusion_pumps,FRN,BAXTER,2021-12-29,True,True,2019-12-01,23.95,True
+prr_strict,89490|MNT|RESPIRONICS,89490,ventilators_cpap,MNT,RESPIRONICS,2022-01-24,True,True,,,False
+prr_strict,89660|MEA|B BRAUN,89660,infusion_pumps,MEA,B BRAUN,2022-02-07,True,True,2020-08-01,17.25,True
+prr_strict,89702|CBK|DRAEGER,89702,ventilators_cpap,CBK,DRAEGER,2022-02-14,True,True,,,False
+prr_strict,89767|MNT|RESPIRONICS,89767,ventilators_cpap,MNT,RESPIRONICS,2022-02-28,True,True,,,False
+prr_strict,89776|CBK|BREAS,89776,ventilators_cpap,CBK,BREAS,2022-03-21,False,True,,,False
+prr_strict,89820|CBK|MEDTRONIC,89820,ventilators_cpap,CBK,MEDTRONIC,2022-03-25,True,True,2020-03-01,23.79,True
+prr_strict,90076|CBK|GE HEALTHCARE,90076,ventilators_cpap,CBK,GE HEALTHCARE,2022-04-18,False,True,,,False
+prr_strict,89913|FRN|SMITHS,89913,infusion_pumps,FRN,SMITHS,2022-04-18,True,True,2020-04-01,23.59,True
+prr_strict,92973|FRN|FRESENIUS,92973,infusion_pumps,FRN,FRESENIUS,2022-04-22,True,True,2020-04-01,23.72,True
+prr_strict,90433|NOU|BREAS,90433,ventilators_cpap,NOU,BREAS,2022-06-02,True,True,2022-05-01,0.07,True
+prr_strict,90576|CBK|HAMILTON,90576,ventilators_cpap,CBK,HAMILTON,2022-06-27,True,True,2020-10-01,19.84,True
+prr_strict,90579|CBK|GETINGE,90579,ventilators_cpap,CBK,GETINGE,2022-07-20,True,True,,,False
+prr_strict,90648|CBK|GETINGE,90648,ventilators_cpap,CBK,GETINGE,2022-07-21,True,True,,,False
+prr_strict,90695|MNS|RESPIRONICS,90695,ventilators_cpap,MNS,RESPIRONICS,2022-08-26,True,True,,,False
+prr_strict,90705|BZD|RESPIRONICS,90705,ventilators_cpap,BZD,RESPIRONICS,2022-09-06,True,True,2021-05-01,15.21,True
+prr_strict,93958|FRN|FRESENIUS,93958,infusion_pumps,FRN,FRESENIUS,2022-09-16,True,True,2020-09-01,23.52,True
+prr_strict,90916|CBK|HAMILTON,90916,ventilators_cpap,CBK,HAMILTON,2022-09-22,True,True,2020-10-01,22.7,True
+prr_strict,91052|FRN|SMITHS,91052,infusion_pumps,FRN,SMITHS,2022-10-10,True,True,2020-10-01,23.29,True
+prr_strict,90987|LZG|INSULET,90987,infusion_pumps,LZG,INSULET,2022-10-17,True,True,2020-10-01,23.52,True
+prr_strict,91273|FRN|BAYER,91273,infusion_pumps,FRN,BAYER,2022-11-30,False,True,,,False
+prr_strict,91293|CBK|RESPIRONICS,91293,ventilators_cpap,CBK,RESPIRONICS,2022-12-07,True,True,2020-12-01,23.2,True
+prr_strict,91538|CBK|DRAEGER,91538,ventilators_cpap,CBK,DRAEGER,2023-01-23,True,True,,,False
+prr_strict,91582|FRN|CAREFUSION,91582,infusion_pumps,FRN,CAREFUSION,2023-01-24,True,True,2021-01-01,23.75,True
+prr_strict,91506|CBK|BAXTER,91506,ventilators_cpap,CBK,BAXTER,2023-01-25,False,True,,,False
+prr_strict,91837|BZD|RESPIRONICS,91837,ventilators_cpap,BZD,RESPIRONICS,2023-02-10,True,True,2021-05-01,20.37,True
+prr_strict,91846|FRN|IRADIMED,91846,infusion_pumps,FRN,IRADIMED,2023-02-24,True,True,,,False
+prr_strict,91832|CBK|RESPIRONICS,91832,ventilators_cpap,CBK,RESPIRONICS,2023-03-01,True,True,2021-03-01,23.0,True
+prr_strict,91783|FRN|FRESENIUS,91783,infusion_pumps,FRN,FRESENIUS,2023-03-10,True,True,2022-10-01,4.27,True
+prr_strict,91925|CBK|HAMILTON,91925,ventilators_cpap,CBK,HAMILTON,2023-03-14,True,True,2022-01-01,13.37,True
+prr_strict,91874|FRN|ICU MEDICAL,91874,infusion_pumps,FRN,ICU MEDICAL,2023-03-22,True,True,2021-03-01,23.69,True
+prr_strict,93648|CBK|PERCUSSIONAIRE,93648,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-03-28,False,True,,,False
+prr_strict,92049|BZD|DRAEGER,92049,ventilators_cpap,BZD,DRAEGER,2023-04-17,False,False,,,False
+prr_strict,92279|FRN|AVANOS,92279,infusion_pumps,FRN,AVANOS,2023-04-24,True,True,,,False
+prr_strict,92048|CBK|RESPIRONICS,92048,ventilators_cpap,CBK,RESPIRONICS,2023-05-01,True,True,2021-05-01,23.0,True
+prr_strict,92243|CBK|VYAIRE,92243,ventilators_cpap,CBK,VYAIRE,2023-05-05,True,True,2021-11-01,17.12,True
+prr_strict,93968|FRN|FRESENIUS,93968,infusion_pumps,FRN,FRESENIUS,2023-05-10,True,True,2022-10-01,6.28,True
+prr_strict,92448|MNT|DRE MEDICAL GROUP,92448,ventilators_cpap,MNT,DRE MEDICAL GROUP,2023-05-15,False,False,,,False
+prr_strict,92515|CBK|RESPIRONICS,92515,ventilators_cpap,CBK,RESPIRONICS,2023-05-25,True,True,2021-05-01,23.79,True
+prr_strict,92443|CBK|DRAEGER,92443,ventilators_cpap,CBK,DRAEGER,2023-06-12,True,True,,,False
+prr_strict,99247|BZD|3B MEDICAL,99247,ventilators_cpap,BZD,3B MEDICAL,2023-06-15,False,True,,,False
+prr_strict,92482|CBK|HAMILTON,92482,ventilators_cpap,CBK,HAMILTON,2023-06-15,True,True,2022-01-01,16.43,True
+prr_strict,92562|FRN|BAXTER,92562,infusion_pumps,FRN,BAXTER,2023-06-15,True,True,2021-06-01,23.49,True
+prr_strict,92629|CBK|DRAEGER,92629,ventilators_cpap,CBK,DRAEGER,2023-07-12,True,True,,,False
+prr_strict,92630|FRN|ICU MEDICAL,92630,infusion_pumps,FRN,ICU MEDICAL,2023-07-13,True,True,2021-07-01,23.39,True
+prr_strict,92873|CBK|HAMILTON,92873,ventilators_cpap,CBK,HAMILTON,2023-07-26,True,True,2022-01-01,17.77,True
+prr_strict,92956|FRN|SMITHS,92956,infusion_pumps,FRN,SMITHS,2023-08-16,True,True,2021-08-01,23.49,True
+prr_strict,93015|MNT|RESPIRONICS,93015,ventilators_cpap,MNT,RESPIRONICS,2023-08-25,True,True,,,False
+prr_strict,93105|FRN|EITAN,93105,infusion_pumps,FRN,EITAN,2023-09-11,True,True,2022-02-01,18.4,True
+prr_strict,93122|CBK|RESMED,93122,ventilators_cpap,CBK,RESMED,2023-09-13,True,True,2021-11-01,21.42,True
+prr_strict,93106|FRN|CAREFUSION,93106,infusion_pumps,FRN,CAREFUSION,2023-09-15,True,True,2021-09-01,23.49,True
+prr_strict,92978|FRN|B BRAUN,92978,infusion_pumps,FRN,B BRAUN,2023-09-21,True,True,2021-09-01,23.69,True
+prr_strict,93191|FRN|BAXTER,93191,infusion_pumps,FRN,BAXTER,2023-10-13,True,True,2021-10-01,23.39,True
+prr_strict,93331|NOU|BREAS,93331,ventilators_cpap,NOU,BREAS,2023-10-13,True,True,2022-05-01,16.43,True
+prr_strict,93499|BZD|RESMED,93499,ventilators_cpap,BZD,RESMED,2023-11-20,True,True,2021-12-01,22.64,True
+prr_strict,93609|CBK|RESPIRONICS,93609,ventilators_cpap,CBK,RESPIRONICS,2023-11-27,True,True,2021-11-01,23.89,True
+prr_strict,93474|FRN|FRESENIUS,93474,infusion_pumps,FRN,FRESENIUS,2023-11-29,True,True,2022-10-01,12.94,True
+prr_strict,93476|CBK|PERCUSSIONAIRE,93476,ventilators_cpap,CBK,PERCUSSIONAIRE,2023-12-12,False,True,,,False
+prr_strict,93754|FRN|SMITHS,93754,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+prr_strict,93757|FRN|SMITHS,93757,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+prr_strict,93771|FRN|SMITHS,93771,infusion_pumps,FRN,SMITHS,2023-12-19,True,True,2021-12-01,23.59,True
+prr_strict,93857|FRN|ZYNO MEDICAL,93857,infusion_pumps,FRN,ZYNO MEDICAL,2023-12-20,True,True,2023-04-01,7.69,True
+prr_strict,93806|CBK|VENTEC,93806,ventilators_cpap,CBK,VENTEC,2024-01-09,True,True,2022-01-01,23.26,True
+prr_strict,94124|FRN|INFUTRONIX,94124,infusion_pumps,FRN,INFUTRONIX,2024-02-21,True,True,2022-09-01,16.72,True
+prr_strict,94225|FRN|SMITHS,94225,infusion_pumps,FRN,SMITHS,2024-02-27,True,True,2022-02-01,23.95,True
+prr_strict,94225|MEA|SMITHS,94225,infusion_pumps,MEA,SMITHS,2024-02-27,True,True,2022-02-01,23.95,True
+prr_strict,94169|BZD|SLEEPNET,94169,ventilators_cpap,BZD,SLEEPNET,2024-03-01,False,False,,,False
+prr_strict,94228|FRN|FRESENIUS,94228,infusion_pumps,FRN,FRESENIUS,2024-03-07,True,True,2022-10-01,16.2,True
+prr_strict,94263|CBK|RESPIRONICS,94263,ventilators_cpap,CBK,RESPIRONICS,2024-03-19,True,True,2022-03-01,23.62,True
+prr_strict,94446|FRN|BAXTER,94446,infusion_pumps,FRN,BAXTER,2024-03-20,True,True,2022-03-01,23.66,True
+prr_strict,94475|MNT|RESPIRONICS,94475,ventilators_cpap,MNT,RESPIRONICS,2024-03-26,True,True,,,False
+prr_strict,94475|MNS|RESPIRONICS,94475,ventilators_cpap,MNS,RESPIRONICS,2024-03-26,True,True,,,False
+prr_strict,94487|MNS|RESPIRONICS,94487,ventilators_cpap,MNS,RESPIRONICS,2024-04-01,True,True,,,False
+prr_strict,94451|FRN|BAXTER,94451,infusion_pumps,FRN,BAXTER,2024-04-09,True,True,2022-04-01,23.33,True
+prr_strict,94491|FRN|OPTUMHEALTH CARE SOLUTIONS,94491,infusion_pumps,FRN,OPTUMHEALTH CARE SOLUTIONS,2024-04-18,False,False,,,False
+prr_strict,94589|CBK|ZOLL MEDICAL,94589,ventilators_cpap,CBK,ZOLL MEDICAL,2024-04-30,True,True,2022-04-01,24.02,True
+prr_strict,94690|FRN|ICU MEDICAL,94690,infusion_pumps,FRN,ICU MEDICAL,2024-05-07,True,True,2022-05-01,23.23,True
+prr_strict,94671|CBK|HAMILTON,94671,ventilators_cpap,CBK,HAMILTON,2024-05-15,True,True,2022-07-01,21.49,True
+prr_strict,94718|FRN|CAREFUSION,94718,infusion_pumps,FRN,CAREFUSION,2024-05-21,True,True,2022-05-01,23.69,True
+prr_strict,94701|CBK|BAXTER,94701,ventilators_cpap,CBK,BAXTER,2024-05-29,False,True,,,False
+prr_strict,94768|FRN|ZYNO MEDICAL,94768,infusion_pumps,FRN,ZYNO MEDICAL,2024-06-04,True,True,2023-04-01,13.17,True
+prr_strict,94959|FRN|BAXTER,94959,infusion_pumps,FRN,BAXTER,2024-06-14,True,True,2022-06-01,23.49,True
+prr_strict,94890|FRN|B BRAUN,94890,infusion_pumps,FRN,B BRAUN,2024-06-14,True,True,2022-06-01,23.49,True
+prr_strict,94855|CBK|MEDTRONIC,94855,ventilators_cpap,CBK,MEDTRONIC,2024-06-24,True,True,2022-12-01,17.77,True
+prr_strict,95483|MEA|SMITHS,95483,infusion_pumps,MEA,SMITHS,2024-06-26,True,True,2022-06-01,23.89,True
+prr_strict,95078|CBK|RESPIRONICS,95078,ventilators_cpap,CBK,RESPIRONICS,2024-07-16,True,True,2022-07-01,23.52,True
+prr_strict,95078|NOU|RESPIRONICS,95078,ventilators_cpap,NOU,RESPIRONICS,2024-07-16,True,True,2023-04-01,14.55,True
+prr_strict,95287|FRN|SMITHS,95287,infusion_pumps,FRN,SMITHS,2024-07-16,True,True,2022-07-01,23.52,True
+prr_strict,94988|FRN|BAXTER,94988,infusion_pumps,FRN,BAXTER,2024-07-17,True,True,2022-07-01,23.56,True
+prr_strict,95042|NOU|BREAS,95042,ventilators_cpap,NOU,BREAS,2024-07-25,True,True,2022-07-01,23.82,True
+prr_strict,95093|FRN|B BRAUN,95093,infusion_pumps,FRN,B BRAUN,2024-08-07,True,True,2022-08-01,23.23,True
+prr_strict,94937|FRN|CAREFUSION,94937,infusion_pumps,FRN,CAREFUSION,2024-08-15,True,True,2022-08-01,23.49,True
+prr_strict,95240|FRN|FRESENIUS,95240,infusion_pumps,FRN,FRESENIUS,2024-08-30,True,True,2022-10-01,21.98,True
+prr_strict,95398|CBK|BAXTER,95398,ventilators_cpap,CBK,BAXTER,2024-09-12,False,True,,,False
+prr_strict,95382|FRN|ZYNO MEDICAL,95382,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-13,True,True,2023-04-01,16.49,True
+prr_strict,95635|FRN|ZYNO MEDICAL,95635,infusion_pumps,FRN,ZYNO MEDICAL,2024-09-30,True,True,2023-04-01,17.05,True
+prr_strict,95505|FRN|BAXTER,95505,infusion_pumps,FRN,BAXTER,2024-10-02,True,True,2022-10-01,23.06,True
+prr_strict,95486|CBK|RESPIRONICS,95486,ventilators_cpap,CBK,RESPIRONICS,2024-10-07,True,True,2022-10-01,23.23,True
+prr_strict,95601|FRN|ZYNO MEDICAL,95601,infusion_pumps,FRN,ZYNO MEDICAL,2024-10-18,True,True,2023-04-01,17.64,True
+prr_strict,95586|FRN|ICU MEDICAL,95586,infusion_pumps,FRN,ICU MEDICAL,2024-10-22,True,True,2022-10-01,23.72,True
+prr_strict,95848|FRN|BAXTER,95848,infusion_pumps,FRN,BAXTER,2024-11-19,True,True,2022-11-01,23.66,True
+prr_strict,95891|FRN|FRESENIUS,95891,infusion_pumps,FRN,FRESENIUS,2024-12-06,True,True,2022-12-01,23.2,True
+prr_strict,95842|CBK|BAXTER,95842,ventilators_cpap,CBK,BAXTER,2024-12-20,False,True,,,False
+prr_strict,95979|CBK|PERCUSSIONAIRE,95979,ventilators_cpap,CBK,PERCUSSIONAIRE,2024-12-23,True,True,2024-01-01,10.74,True
+prr_strict,96092|FRN|BELMONT,96092,infusion_pumps,FRN,BELMONT,2025-01-02,True,True,2023-01-01,23.06,True
+prr_strict,96085|FRN|FRESENIUS,96085,infusion_pumps,FRN,FRESENIUS,2025-01-10,True,True,2023-07-01,17.38,True
+prr_strict,96069|FRN|CAREFUSION,96069,infusion_pumps,FRN,CAREFUSION,2025-01-23,True,True,2023-01-01,23.75,True
+prr_strict,96200|LZG|MEDTRONIC,96200,infusion_pumps,LZG,MEDTRONIC,2025-01-31,True,True,2023-01-01,24.02,True
+prr_strict,96136|CBK|VENTEC,96136,ventilators_cpap,CBK,VENTEC,2025-02-03,True,True,2023-04-01,21.19,True
+prr_strict,96289|FRN|BAXTER,96289,infusion_pumps,FRN,BAXTER,2025-02-05,True,True,2023-02-01,23.26,True
+prr_strict,96388|FRN|BAXTER,96388,infusion_pumps,FRN,BAXTER,2025-03-03,True,True,2023-03-01,23.1,True
+prr_strict,96611|CBK|BAXTER,96611,ventilators_cpap,CBK,BAXTER,2025-04-07,False,True,,,False
+prr_strict,96624|FRN|SMITHS,96624,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_strict,96624|MEA|SMITHS,96624,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_strict,96620|FRN|SMITHS,96620,infusion_pumps,FRN,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_strict,96628|MEA|SMITHS,96628,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_strict,96620|MEA|SMITHS,96620,infusion_pumps,MEA,SMITHS,2025-04-10,True,True,2023-04-01,23.36,True
+prr_strict,96777|FRN|ICU MEDICAL,96777,infusion_pumps,FRN,ICU MEDICAL,2025-04-22,True,True,2023-04-01,23.75,True
+prr_strict,96721|FRN|BAXTER,96721,infusion_pumps,FRN,BAXTER,2025-04-24,True,True,2023-04-01,23.82,True
+prr_strict,96796|FRN|ZYNO MEDICAL,96796,infusion_pumps,FRN,ZYNO MEDICAL,2025-05-07,True,True,2023-05-01,23.23,True
+prr_strict,96948|MNT|RESPIRONICS,96948,ventilators_cpap,MNT,RESPIRONICS,2025-05-09,True,True,,,False
+prr_strict,96948|MNS|RESPIRONICS,96948,ventilators_cpap,MNS,RESPIRONICS,2025-05-09,True,True,,,False
+prr_strict,96822|FRN|BAXTER,96822,infusion_pumps,FRN,BAXTER,2025-05-12,True,True,2023-05-01,23.39,True
+prr_strict,96774|CBK|MEDTRONIC,96774,ventilators_cpap,CBK,MEDTRONIC,2025-05-21,True,True,2023-05-01,23.69,True
+prr_strict,97032|CBK|MAQUET,97032,ventilators_cpap,CBK,MAQUET,2025-05-30,True,True,2023-08-01,20.96,True
+prr_strict,97079|CBK|HAMILTON,97079,ventilators_cpap,CBK,HAMILTON,2025-06-03,True,True,2023-06-01,23.13,True
+prr_strict,97165|FRN|FRESENIUS,97165,infusion_pumps,FRN,FRESENIUS,2025-06-24,True,True,2023-07-01,22.8,True
+prr_strict,97191|BZD|RESPIRONICS,97191,ventilators_cpap,BZD,RESPIRONICS,2025-06-30,True,True,2023-11-01,18.99,True
+prr_strict,97067|FRN|CAREFUSION,97067,infusion_pumps,FRN,CAREFUSION,2025-07-08,True,True,2023-07-01,23.26,True
+prr_strict,97186|FRN|ICU MEDICAL,97186,infusion_pumps,FRN,ICU MEDICAL,2025-07-11,True,True,2023-10-01,20.34,True
+prr_strict,97335|FRN|BAXTER,97335,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2023-07-01,23.46,True
+prr_strict,97164|FRN|BAXTER,97164,infusion_pumps,FRN,BAXTER,2025-07-14,True,True,2023-07-01,23.46,True
+prr_strict,97296|FRN|BAXTER,97296,infusion_pumps,FRN,BAXTER,2025-08-04,True,True,2023-08-01,23.13,True
+prr_strict,97554|FRN|FRESENIUS,97554,infusion_pumps,FRN,FRESENIUS,2025-09-03,True,True,2023-09-01,23.13,True
+prr_strict,97669|FRN|CAREFUSION,97669,infusion_pumps,FRN,CAREFUSION,2025-10-17,True,True,2023-10-01,23.56,True
+prr_strict,97941|FRN|FRESENIUS,97941,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2023-11-01,23.13,True
+prr_strict,97939|FRN|FRESENIUS,97939,infusion_pumps,FRN,FRESENIUS,2025-11-03,True,True,2023-11-01,23.13,True
+prr_strict,97871|FRN|CAREFUSION,97871,infusion_pumps,FRN,CAREFUSION,2025-11-06,True,True,2023-11-01,23.23,True
+prr_strict,98009|FRN|FRESENIUS,98009,infusion_pumps,FRN,FRESENIUS,2025-11-14,True,True,2023-11-01,23.49,True
+prr_strict,98106|FRN|FRESENIUS,98106,infusion_pumps,FRN,FRESENIUS,2025-11-21,True,True,2023-11-01,23.72,True
+prr_strict,98167|FRN|BAXTER,98167,infusion_pumps,FRN,BAXTER,2025-11-28,True,True,2023-11-01,23.95,True
+prr_strict,98129|FRN|ICU MEDICAL,98129,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+prr_strict,98128|FRN|ICU MEDICAL,98128,infusion_pumps,FRN,ICU MEDICAL,2025-12-15,True,True,2023-12-01,23.49,True
+prr_strict,98306|FRN|BAXTER,98306,infusion_pumps,FRN,BAXTER,2026-01-13,True,True,2024-01-01,23.43,True
+prr_strict,98699|FRN|FRESENIUS,98699,infusion_pumps,FRN,FRESENIUS,2026-02-04,True,True,2024-02-01,23.2,True
+prr_strict,98250|FRN|CAREFUSION,98250,infusion_pumps,FRN,CAREFUSION,2026-02-11,True,True,2024-02-01,23.43,True
+prr_strict,98186|LZG|MEDTRONIC,98186,infusion_pumps,LZG,MEDTRONIC,2026-02-13,True,True,2024-02-01,23.49,True
+prr_strict,98540|CBK|RESPIRONICS,98540,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-03-01,23.03,True
+prr_strict,98537|CBK|RESPIRONICS,98537,ventilators_cpap,CBK,RESPIRONICS,2026-03-02,True,True,2024-03-01,23.03,True
+prr_strict,98554|NOU|VENTEC,98554,ventilators_cpap,NOU,VENTEC,2026-03-25,True,True,,,False
+prr_strict,98872|FRN|ICU MEDICAL,98872,infusion_pumps,FRN,ICU MEDICAL,2026-04-29,True,True,2024-04-01,23.95,True
+prr_strict,98929|FRN|FRESENIUS,98929,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-09-01,19.15,True
+prr_strict,98945|FRN|FRESENIUS,98945,infusion_pumps,FRN,FRESENIUS,2026-05-06,True,True,2024-09-01,19.15,True
+prr_strict,98888|CBK|VENTEC,98888,ventilators_cpap,CBK,VENTEC,2026-05-08,True,True,2024-05-01,23.23,True
+prr_strict,99058|FRN|ICU MEDICAL,99058,infusion_pumps,FRN,ICU MEDICAL,2026-05-12,True,True,2024-09-01,19.35,True
+prr_strict,99034|LZG|INSULET,99034,infusion_pumps,LZG,INSULET,2026-05-20,True,True,2024-05-01,23.62,True
+prr_strict,99192|FRN|ICU MEDICAL,99192,infusion_pumps,FRN,ICU MEDICAL,2026-06-10,True,True,2024-09-01,20.3,True
+prr_strict,99304|CBK|RESMED,99304,ventilators_cpap,CBK,RESMED,2026-06-25,False,True,,,False
+prr_strict,99439|CBK|MAQUET,99439,ventilators_cpap,CBK,MAQUET,2026-06-30,True,True,2024-07-01,22.97,True
+prr_strict,99445|MNS|BMC MEDICAL,99445,ventilators_cpap,MNS,BMC MEDICAL,2026-07-15,False,False,,,False
+prr_strict,99557|FRN|BAXTER,99557,infusion_pumps,FRN,BAXTER,2026-08-11,True,True,2024-08-01,23.33,True
+prr_strict,99643|BZD|COOPERSURGICAL,99643,ventilators_cpap,BZD,COOPERSURGICAL,2026-08-11,False,True,,,False
+prr_strict,99835|CBK|VENTEC,99835,ventilators_cpap,CBK,VENTEC,2026-09-17,True,True,2024-09-01,23.56,True
