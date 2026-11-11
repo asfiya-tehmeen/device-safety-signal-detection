@@ -5,7 +5,6 @@ __pycache__/
 
 # Working files and logs (logs contain nothing needed to reproduce)
 logs/
-NEXT_PROMPT.md
 
 # Large, reproducible data: rebuilt with `python src/ingest.py all` and `python src/build.py`
 data/raw/**/*.gz
@@ -21,3 +20,8 @@ reports/powerbi/DeviceWatch/
 # Secrets: never commit keys
 .env
 *.key
+
+# Personal notes, old plan versions and AI prompts (local only)
+my_README*.md
+NEXT_PROMPT.md
+*_PROMPT.md
